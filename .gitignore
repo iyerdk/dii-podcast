@@ -1,0 +1,22 @@
+# Audio files (large)
+*.mp3
+*.wav
+
+# TTS model files (large, re-downloadable)
+*.onnx
+*.bin
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Secrets
+.env
+
+# Temp directories from TTS generation
+dii_tts_*/
+
+# macOS
+.DS_Store

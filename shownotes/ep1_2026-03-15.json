@@ -1,0 +1,91 @@
+{
+  "title": "The Week Nothing Moved: Hormuz, $700B in Leases, and the Power Convergence",
+  "subtitle": "How simultaneous Red Sea and Hormuz closures collided with record hyperscaler commitments to reshape digital infrastructure.",
+  "summary": "Episode One examines the week of March 9–15, 2026, when the simultaneous closure of the Red Sea and Strait of Hormuz disrupted submarine cables and energy markets just as hyperscaler data centre lease obligations crossed $700 billion. We trace the cascading effects across subsea cables, data centre investment, Nordic positioning, fibre ownership, tower consolidation, and the definitive convergence of power generation with digital infrastructure.",
+  "description_html": "<p><strong>Digital Infrastructure Insider</strong> launches with an episode defined by convergence — geopolitical, financial, and structural. The simultaneous closure of the Red Sea and Strait of Hormuz stranded cable installation vessels, put seventeen submarine cables at risk, and pushed oil to $96/barrel, repricing long-duration infrastructure assets in real time. Alcatel Submarine Networks declared force majeure on Meta's 2Africa Pearls extension, while Meta's Project Waterworth — routed years ago to avoid the Red Sea — proved the value of long-duration infrastructure thinking.</p><p>On the demand side, combined forward data centre lease obligations for Microsoft, Meta, Google, and Amazon surpassed <strong>$700 billion</strong>. CoreWeave guided for $12–13 billion in 2026 revenue with a $66.8 billion contracted backlog, while over 300 data centre bills were filed across US states — creating a structural tailwind for Nordic and Northern European markets offering renewable energy, natural cooling, and stable permitting. Nvidia's $2 billion investment in Amsterdam-based Nebius, with its Nordic-centric footprint, validated this thesis at the highest level.</p><p>The episode also tracks major moves across fibre, towers, and power:</p><ul><li>Google exited consumer fibre via the GFiber-Astound combination with Stonepeak, confirming private capital's role as the network owner of record.</li><li>American Tower is reportedly pursuing Cellnex at a potential €50 billion valuation, while a $476 million EchoStar-Dish default exposed tower REIT tenant concentration risk.</li><li>EQT and BlackRock GIP acquired AES Corporation for $33.4 billion enterprise value; KKR launched a $50 billion power-for-digital partnership with ECP; and Google closed its $4.75 billion Intersect Power acquisition — sealing the convergence of power generation and digital infrastructure as a single asset class.</li></ul><p>The episode closes with five decisions to watch: the FOMC dot plot, the Joliet data centre vote, Hormuz conflict duration, Crown Castle's fibre sale to Zayo/EQT, and the Powell succession at the Federal Reserve.</p>",
+  "takeaways": [
+    "Seventeen submarine cables in the Red Sea corridor are at risk with no repair vessels able to enter the conflict zone",
+    "Combined hyperscaler data centre lease obligations have exceeded $700 billion in legally binding commitments",
+    "CoreWeave's 2026 capex guidance of $30–35B would exceed most European national infrastructure budgets",
+    "Over 300 US data centre bills filed in early 2026 are pushing investment toward Nordic and Northern European markets",
+    "Nvidia's $2B Nebius investment validates the Nordics as a top-tier AI infrastructure destination",
+    "Google's GFiber exit confirms hyperscalers want to buy network capacity, not own consumer-facing networks",
+    "EQT-BlackRock GIP's $33.4B AES acquisition seals the convergence of power generation and digital infrastructure",
+    "American Tower's reported pursuit of Cellnex at €50B would be one of Europe's largest infrastructure deals ever"
+  ],
+  "chapters": [
+    {
+      "title": "Cold Open — The Week Nothing Moved",
+      "description": "Setting the scene: simultaneous Red Sea and Hormuz closures collide with an AWS facility strike and rapid financial repricing.",
+      "start_seconds": null
+    },
+    {
+      "title": "Geopolitics — Iran, Hormuz, and the Seventeen Cables",
+      "description": "Force majeure on Meta's 2Africa Pearls, the $3B cable repair investment gap, and why route diversification is now a fiduciary obligation.",
+      "start_seconds": null
+    },
+    {
+      "title": "Data Centres — $700 Billion and the Infrastructure Deficit",
+      "description": "Record hyperscaler lease obligations, CoreWeave's explosive growth, and US regulatory friction as a Nordic tailwind.",
+      "start_seconds": null
+    },
+    {
+      "title": "Investment Nordic Focus — Nvidia Bets $2B on Nebius and the Nordic Edge",
+      "description": "Nvidia's strategic equity investment in Nebius and why renewable energy, cooling, and stability make the Nordics a preferred AI infrastructure zone.",
+      "start_seconds": null
+    },
+    {
+      "title": "Fibre and Fixed Networks — Google Exits, Private Capital Takes the Network",
+      "description": "Alphabet combines GFiber with Stonepeak's Astound, confirming private equity's expanding role in consumer and enterprise fibre.",
+      "start_seconds": null
+    },
+    {
+      "title": "Towers and Wireless — A $476M Default and €50B European Consolidation",
+      "description": "EchoStar-Dish default hits tower REITs while American Tower reportedly pursues Cellnex in a potential mega-deal.",
+      "start_seconds": null
+    },
+    {
+      "title": "Power and Energy — Power Generation Is Now Digital Infrastructure",
+      "description": "EQT-BlackRock GIP acquire AES, KKR launches a $50B power partnership, and Google closes Intersect Power — confirming asset class convergence.",
+      "start_seconds": null
+    },
+    {
+      "title": "Investor Roundup — Who Moved and How Much",
+      "description": "Capital flows from KKR, Macquarie, GIC, and CPPIB converge on digital infrastructure with Northern Europe as a preferred landing zone.",
+      "start_seconds": null
+    },
+    {
+      "title": "What to Watch — Five Decisions That Follow This Week",
+      "description": "FOMC dot plot, Joliet data centre vote, Hormuz duration, Crown Castle fibre sale, and Powell succession at the Fed.",
+      "start_seconds": null
+    },
+    {
+      "title": "Closing",
+      "description": "Synthesising the week's four converging threads into a single integrated investment thesis.",
+      "start_seconds": null
+    }
+  ],
+  "keywords": [
+    "submarine cables",
+    "data centre investment",
+    "hyperscaler capex",
+    "nordic data centres",
+    "strait of hormuz",
+    "digital infrastructure",
+    "power generation convergence",
+    "fibre networks",
+    "tower consolidation",
+    "nvidia nebius",
+    "infrastructure private equity",
+    "coreweave"
+  ],
+  "guests": [],
+  "episode_type": "full",
+  "episode_number": 1,
+  "date": "2026-03-15",
+  "script_file": "ep1_2026-03-15.md",
+  "audio_file": "DII_EP1_2026-03-15.mp3",
+  "show_name": "Digital Infrastructure Insider",
+  "show_url": "https://dii.podcast",
+  "author": "Digital Infrastructure Insider"
+}
