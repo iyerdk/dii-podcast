@@ -48,7 +48,7 @@ def run_test() -> None:
         except ImportError:
             sys.exit("FAIL: kokoro-onnx not installed. Run: pip install kokoro-onnx")
 
-        kokoro = Kokoro("kokoro-v0_19.onnx", "voices.json")
+        kokoro = Kokoro("kokoro-v1.0.int8.onnx", "voices-v1.0.bin")
         print("  OK — Kokoro loaded")
 
         # ── Step 3: stitch ────────────────────────────────────────
