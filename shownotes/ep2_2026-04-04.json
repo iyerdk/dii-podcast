@@ -1,0 +1,73 @@
+{
+  "title": "Legitimisation: GPU Debt, Nuclear Power, and the Asian Buildout",
+  "subtitle": "CoreWeave's investment-grade GPU loan, nuclear PPAs going mainstream, and Southeast Asia's data centre surge.",
+  "summary": "Episode Two examines the week of March 28–April 4, 2026, anchored by CoreWeave's landmark $8.5 billion investment-grade debt facility — the first GPU-backed loan to achieve institutional credit ratings. We trace how AI compute infrastructure is being reclassified as an institutional asset class, track NVIDIA's Vera Rubin supply crunch and inference economics, follow the nuclear power-for-data-centres pivot from Meta, Microsoft, and Equinix, and map the accelerating data centre buildout across Southeast Asia and the Middle East. A subsea cable update builds on last week's Red Sea disruption narrative.",
+  "takeaways": [
+    "CoreWeave closed an $8.5B investment-grade debt facility — the first GPU-backed loan rated A3/A (low), backed by $19.2B Meta contracts",
+    "Combined hyperscaler 2026 capex approaches $700B: Amazon $200B, Google $175-185B, Meta $115-135B, Microsoft $120B+",
+    "NVIDIA Vera Rubin: 3.6 exaFLOPS in NVL72 config; HBM4 memory sold out through 2026, GPU lead times at 36-52 weeks",
+    "Inference now accounts for 55% of AI infrastructure spend; costs fell 1,000x in three years to $0.40/million tokens",
+    "Meta signed 6.6 GW of nuclear PPAs with Oklo, Vistra, and TerraPower; Equinix is anchoring four separate SMR programmes",
+    "Microsoft's Three Mile Island nuclear restart (837 MW) on track for 2028, backed by 20-year PPA and $1.6B Constellation investment",
+    "Malaysia now accounts for >50% of under-construction data centre capacity in Southeast Asia; Johor is the prime landing zone",
+    "Saudi Arabia's $100B Transcendence AI Initiative and $5.3B AWS commitment signal a Gulf infrastructure buildout of historic scale",
+    "Global subsea cable investment running at $13B in 2025-2027; geopolitical rerouting driving a record private cable cycle"
+  ],
+  "chapters": [
+    {
+      "title": "Cold Open — The Week Debt Got a GPU Rating",
+      "description": "CoreWeave's $8.5B investment-grade loan marks the reclassification of GPU compute infrastructure as an institutional asset class."
+    },
+    {
+      "title": "CoreWeave's $8.5 Billion Signal",
+      "description": "Unpacking the loan structure, the investment-grade rating, Meta concentration risk, and what it means for AI infrastructure financing."
+    },
+    {
+      "title": "NVIDIA Vera Rubin and the Compute Supply Crunch",
+      "description": "Vera Rubin's 3.6 exaFLOPS NVL72 specs, HBM4 sold out through 2026, and why inference cost collapse drives more infrastructure demand."
+    },
+    {
+      "title": "Nuclear Goes Mainstream: From Pilot to Portfolio",
+      "description": "Meta's 6.6 GW nuclear PPAs, Microsoft's Three Mile Island restart, and Equinix's multi-technology SMR portfolio strategy."
+    },
+    {
+      "title": "Southeast Asia and the Middle East: The Next Buildout Wave",
+      "description": "Singapore's DC-CFA2 process, Malaysia's data centre surge, and Saudi Arabia's $100B Transcendence AI Initiative."
+    },
+    {
+      "title": "Cables: The Infrastructure Beneath the Infrastructure",
+      "description": "Building on the Red Sea disruption from Episode 1: $13B in new cable investment, Australia-PNG cables, and Malaysia's SALAM project."
+    },
+    {
+      "title": "What to Watch — Four Decisions Ahead",
+      "description": "CoreWeave credit markets, Singapore DC-CFA2 selections, Vera Rubin supply timeline, and nuclear SMR licensing milestones."
+    },
+    {
+      "title": "Closing",
+      "description": "One word ties the week together: legitimisation — of GPU debt, nuclear power, and Asian infrastructure destinations."
+    }
+  ],
+  "keywords": [
+    "coreweave",
+    "gpu infrastructure financing",
+    "nvidia vera rubin",
+    "nuclear power data centres",
+    "ai inference economics",
+    "southeast asia data centres",
+    "saudi arabia ai investment",
+    "subsea cable investment",
+    "hyperscaler capex",
+    "digital infrastructure",
+    "small modular reactors",
+    "malaysia data centre"
+  ],
+  "guests": [],
+  "episode_type": "full",
+  "episode_number": 2,
+  "date": "2026-04-04",
+  "script_file": "ep2_2026-04-04.md",
+  "audio_file": null,
+  "show_name": "Digital Infrastructure Insider",
+  "show_url": "https://dii.podcast",
+  "author": "Digital Infrastructure Insider"
+}
