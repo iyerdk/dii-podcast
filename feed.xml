@@ -6,12 +6,48 @@
     <description>The executive briefing for global digital infrastructure leaders and investors. Weekly analysis of data centres, fibre networks, towers, subsea cables, power assets, and the macro forces shaping them.</description>
     <language>en-us</language>
     <copyright>© 2026 Digital Infrastructure Insider</copyright>
-    <lastBuildDate>Sun, 15 Mar 2026 14:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 21:48:08 +0000</lastBuildDate>
     <itunes:author>Digital Infrastructure Insider</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://dii.podcast/artwork.jpg" />
     <itunes:category text="Business" />
+    <item>
+      <title>The Grid Wall: Power, AMD's $100B Bet, and the Nordic Premium</title>
+      <link>https://dii.podcast</link>
+      <description>Episode Three examines how electrical grid constraints have overtaken capital and chips as the primary bottleneck in AI data centre deployment, with the IEA projecting 1,100 TWh of global data centre consumption in 2026 — equivalent to Japan's national grid. We trace Meta's $27 billion Blue Owl JV for the Hyperion campus in Louisiana, the $100 billion AMD-Meta GPU deal challenging Nvidia's dominance, Equinix and CPP Investments' $4.2 billion acquisition of Nordic operator atNorth, and the ASEAN Trusted Data Corridors framework reshaping Southeast Asia's data governance landscape.</description>
+      <pubDate>Sat, 04 Apr 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dii-ep3-2026-04-04</guid>
+      <enclosure url="https://media.dii.podcast/None" length="0" type="audio/mpeg" />
+      <itunes:title>The Grid Wall: Power, AMD's $100B Bet, and the Nordic Premium</itunes:title>
+      <itunes:subtitle>Power becomes the binding constraint as Meta bets $27B on Louisiana and AMD challenges Nvidia at gigawatt scale.</itunes:subtitle>
+      <itunes:summary>Episode Three examines how electrical grid constraints have overtaken capital and chips as the primary bottleneck in AI data centre deployment, with the IEA projecting 1,100 TWh of global data centre consumption in 2026 — equivalent to Japan's national grid. We trace Meta's $27 billion Blue Owl JV for the Hyperion campus in Louisiana, the $100 billion AMD-Meta GPU deal challenging Nvidia's dominance, Equinix and CPP Investments' $4.2 billion acquisition of Nordic operator atNorth, and the ASEAN Trusted Data Corridors framework reshaping Southeast Asia's data governance landscape.</itunes:summary>
+      <itunes:author>Digital Infrastructure Insider</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>grid constraints data centres, meta hyperion louisiana, amd nvidia gpu competition, coreweave infrastructure finance, nordic data centres, equinix atnorth acquisition, asean trusted data corridors, amazon spain investment, hyperscaler capex, digital infrastructure, power purchase agreements, ai infrastructure investment</itunes:keywords>
+      <content:encoded>&lt;p&gt;Episode Three examines how electrical grid constraints have overtaken capital and chips as the primary bottleneck in AI data centre deployment, with the IEA projecting 1,100 TWh of global data centre consumption in 2026 — equivalent to Japan's national grid. We trace Meta's $27 billion Blue Owl JV for the Hyperion campus in Louisiana, the $100 billion AMD-Meta GPU deal challenging Nvidia's dominance, Equinix and CPP Investments' $4.2 billion acquisition of Nordic operator atNorth, and the ASEAN Trusted Data Corridors framework reshaping Southeast Asia's data governance landscape.&lt;/p&gt;</content:encoded>
+      <podcast:chapters version="1.2">
+        <podcast:chapter start="0" title="Cold Open — The Wall You Can't Buy Your Way Through" />
+        <podcast:chapter start="0" title="The Grid Wall: Power Becomes the Binding Constraint" />
+        <podcast:chapter start="0" title="The Hyperion JV: Infrastructure Finance Finds a New Architecture" />
+        <podcast:chapter start="0" title="AMD's $100 Billion Moment: Nvidia's Monopoly Tested at Scale" />
+        <podcast:chapter start="0" title="Equinix and CPP Buy atNorth: The Nordic Premium Has a Price" />
+        <podcast:chapter start="0" title="ASEAN's Data Corridors and Amazon's European Bet" />
+        <podcast:chapter start="0" title="What to Watch — Four Decisions Ahead" />
+        <podcast:chapter start="0" title="Closing" />
+      </podcast:chapters>
+      <podcast:transcript>  • IEA raised 2026 data centre electricity forecast 18% to 1,100 TWh — equal to Japan's entire national grid
+  • Microsoft's Satya Nadella confirmed $80B Azure backlog unfulfilled due to power constraints, not capital or chips
+  • Meta formed a $27B JV with Blue Owl Capital for the 5 GW Hyperion campus — potentially the world's largest data centre
+  • AMD-Meta $100B GPU deal deploys 6 GW of Instinct MI450s, the most serious structural challenge to Nvidia's monopoly yet
+  • Equinix and CPP Investments acquired atNorth for $4.2B — crystallising the Nordic per-gigawatt premium in a transaction price
+  • PJM capacity auction prices surged 833% in 2024; grid connection delays now run 24–72 months in Virginia and Texas
+  • ASEAN Trusted Data Corridors framework endorsed, reducing cross-border compliance friction for operators across 10 countries
+  • Amazon committed €33.7B to Spain — the largest AWS European commitment, driven by data sovereignty regulation</podcast:transcript>
+    </item>
     <item>
       <title>The Week Nothing Moved: Hormuz, $700B in Leases, and the Power Convergence</title>
       <link>https://dii.podcast</link>
