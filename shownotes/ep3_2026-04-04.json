@@ -1,0 +1,72 @@
+{
+  "title": "The Grid Wall: Power, AMD's $100B Bet, and the Nordic Premium",
+  "subtitle": "Power becomes the binding constraint as Meta bets $27B on Louisiana and AMD challenges Nvidia at gigawatt scale.",
+  "summary": "Episode Three examines how electrical grid constraints have overtaken capital and chips as the primary bottleneck in AI data centre deployment, with the IEA projecting 1,100 TWh of global data centre consumption in 2026 — equivalent to Japan's national grid. We trace Meta's $27 billion Blue Owl JV for the Hyperion campus in Louisiana, the $100 billion AMD-Meta GPU deal challenging Nvidia's dominance, Equinix and CPP Investments' $4.2 billion acquisition of Nordic operator atNorth, and the ASEAN Trusted Data Corridors framework reshaping Southeast Asia's data governance landscape.",
+  "takeaways": [
+    "IEA raised 2026 data centre electricity forecast 18% to 1,100 TWh — equal to Japan's entire national grid",
+    "Microsoft's Satya Nadella confirmed $80B Azure backlog unfulfilled due to power constraints, not capital or chips",
+    "Meta formed a $27B JV with Blue Owl Capital for the 5 GW Hyperion campus — potentially the world's largest data centre",
+    "AMD-Meta $100B GPU deal deploys 6 GW of Instinct MI450s, the most serious structural challenge to Nvidia's monopoly yet",
+    "Equinix and CPP Investments acquired atNorth for $4.2B — crystallising the Nordic per-gigawatt premium in a transaction price",
+    "PJM capacity auction prices surged 833% in 2024; grid connection delays now run 24–72 months in Virginia and Texas",
+    "ASEAN Trusted Data Corridors framework endorsed, reducing cross-border compliance friction for operators across 10 countries",
+    "Amazon committed €33.7B to Spain — the largest AWS European commitment, driven by data sovereignty regulation"
+  ],
+  "chapters": [
+    {
+      "title": "Cold Open — The Wall You Can't Buy Your Way Through",
+      "description": "Microsoft's $80B Azure backlog and IEA's 1,100 TWh forecast frame power as the binding constraint of the AI infrastructure cycle."
+    },
+    {
+      "title": "The Grid Wall: Power Becomes the Binding Constraint",
+      "description": "Northern Virginia halts, ERCOT's 24 GW demand surge, PJM's 833% price spike, and why the Nordic moat is deepening."
+    },
+    {
+      "title": "The Hyperion JV: Infrastructure Finance Finds a New Architecture",
+      "description": "Meta's $27B Blue Owl sale-leaseback JV for a 5 GW Louisiana campus redefines data centre infrastructure financing at institutional scale."
+    },
+    {
+      "title": "AMD's $100 Billion Moment: Nvidia's Monopoly Tested at Scale",
+      "description": "The AMD-Meta 6 GW MI450 deal — the largest GPU procurement in history — puts real gigawatt-scale competition into the GPU market for the first time."
+    },
+    {
+      "title": "Equinix and CPP Buy atNorth: The Nordic Premium Has a Price",
+      "description": "$4.2B for 1 GW of Nordic high-density colocation confirms the Nordic infrastructure premium as a transaction-validated reality."
+    },
+    {
+      "title": "ASEAN's Data Corridors and Amazon's European Bet",
+      "description": "ASEAN Trusted Data Corridors reduce multi-country compliance friction while Amazon's €33.7B Spain commitment locks in European sovereign cloud position."
+    },
+    {
+      "title": "What to Watch — Four Decisions Ahead",
+      "description": "Louisiana utility approvals, AMD MI450 performance at scale, PJM capacity auctions, and ASEAN corridor certifications."
+    },
+    {
+      "title": "Closing",
+      "description": "Constraint as the precondition for opportunity: the most valuable infrastructure assets are those that resolve the most durable constraints."
+    }
+  ],
+  "keywords": [
+    "grid constraints data centres",
+    "meta hyperion louisiana",
+    "amd nvidia gpu competition",
+    "coreweave infrastructure finance",
+    "nordic data centres",
+    "equinix atnorth acquisition",
+    "asean trusted data corridors",
+    "amazon spain investment",
+    "hyperscaler capex",
+    "digital infrastructure",
+    "power purchase agreements",
+    "ai infrastructure investment"
+  ],
+  "guests": [],
+  "episode_type": "full",
+  "episode_number": 3,
+  "date": "2026-04-04",
+  "script_file": "ep3_2026-04-04.md",
+  "audio_file": null,
+  "show_name": "Digital Infrastructure Insider",
+  "show_url": "https://dii.podcast",
+  "author": "Digital Infrastructure Insider"
+}
