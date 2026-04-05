@@ -1,0 +1,536 @@
+22/03/2026, 19:37
+
+A Strong Option for Telcos in a Crowded B2B Market | BCG
+
+We value your privacy
+
+Please provide your consent for cookie usage on BCG.com. We
+
+TECHNOLOGY, MEDIA, AND TELECOMMUNICATIONS
+
+use the following cookie types:
+
+Essential Cookies are necessary for the site to function and are
+
+In a Crowded B2B Market, the Middle Is a Strong
+Option for Telcos
+
+always active. These cookies also remember the choices you
+
+make and provide a secure and enhanced experience.
+
+Performance Cookies are used to provide a better user
+
+By Maikel Wilms, Kyle Ruttan, Bartolomeo Banche, Luigi Vasi, and Arnaud Voguet
+
+experience on the site, such as by measuring interactions with
+
+ARTICLE  FEBRUARY 25, 2025  12 MIN READ
+
+articles.
+
+particular content so we can continue to offer you more relevant
+
+Advertising or Targeting Cookies on our site don’t store any of
+
+your direct personal information but identify a unique browser or
+
+device, and are used to potentially surface relevant material from
+
+other sites, and are primarily used by select social media and
+
+other partners.
+
+ACCEPT ALL AND CLOSE
+
+ESSENTIAL COOKIES ONLY
+
+VIEW DETAILS
+
+PRIVACY POLICY
+
+https://www.bcg.com/publications/2025/a-strong-option-for-telcos-in-a-crowded-b2b-market
+
+1/10
+
+ 
+22/03/2026, 19:37
+
+A Strong Option for Telcos in a Crowded B2B Market | BCG
+
+If telcos want to improve their proﬁtability and become more resilient, they need to expand their
+information and communications technology (ICT) businesses. In an increasingly crowded B2B market,
+they must move into margin-accretive areas beyond basic connectivity. But telcos are in danger of being
+shut out of these fast-growing areas by newer players, such as hyperscalers and managed service
+providers (MSPs). Those players are piggybacking on telcos’ existing infrastructure and providing cloud
+migration and Internet of Things (IoT) services or selling customers artiﬁcial intelligence (AI) and data
+analytics solutions.
+
+TECHNOLOGY, MEDIA, AND TELECOMMUNICATIONS
+
+In a Crowded B2B Market, the Middle Is a Strong
+Option for Telcos
+
+To compete, telcos need to focus on market segments that allow them to play to their strengths,
+including their strong relationships and local presence. While it is not the only segment that oﬀers
+potential, we believe the middle market (made up of customers that employ a few hundred people)
+represents a particularly attractive opportunity for telcos for this very reason.
+By Maikel Wilms, Kyle Ruttan, Bartolomeo Banche, Luigi Vasi, and Arnaud Voguet
+
+ARTICLE  FEBRUARY 25, 2025  12 MIN READ
+
+To compete, telcos need to focus on market segments that allow them to play to their
+strengths, including their strong relationships and local presence.
+
+The Growing Complexity of Customer
+Needs
+
+Demand for ICT solutions is growing rapidly. Combined revenues in the US and Europe are expected to
+expand at a compound annual growth rate (CAGR) of 8% and 11%, respectively, between 2024 and
+2028. The strong market is being driven by customers’ ever more sophisticated IT requirements as they
+seek to transform their operations to reduce costs and boost productivity. Three areas in particular are
+beneﬁting:
+
+AI. Companies are leveraging AI technologies to automate processes, optimize workﬂows, and enhance
+customer experiences.
+
+Cybersecurity. With the number of annual cyberattacks worldwide more than doubling since the start
+of the COVID-19 pandemic, cybersecurity has become a top priority. Organizations require robust,
+scalable soware solutions to protect their operations and data.
+
+Cloud migration. Cloud services is the fastest-growing ICT area due to companies’ need for specialized
+support to ensure that their cloud migrations are seamless and low risk. The European market is
+growing at a CAGR of approximately 18%, with the US market expanding at around 14%. Many
+
+https://www.bcg.com/publications/2025/a-strong-option-for-telcos-in-a-crowded-b2b-market
+
+2/10
+
+22/03/2026, 19:37
+
+A Strong Option for Telcos in a Crowded B2B Market | BCG
+
+companies in more complex and risk-sensitive sectors, such as banking and ﬁnance, have yet to fully
+migrate their operations to the cloud due to concerns over business disruptions and migration
+diﬃculties.
+
+TECHNOLOGY, MEDIA, AND TELECOMMUNICATIONS
+
+The outlook for connectivity—which is an essential enabler for many ICT solutions—is not so
+reassuring. Revenues in the US and Europe are expected to increase by a CAGR of just 2.5% between
+2024 and 2028. The reason: companies are prepared to pay for advanced ICT solutions that help them
+achieve their transformation goals. But to meet the cost of those solutions, ﬁrms are pushing for price
+cuts in internet connectivity, which is rapidly becoming a commodity product.
+
+In a Crowded B2B Market, the Middle Is a Strong
+Option for Telcos
+
+WEEKLY INSIGHTS SUBSCRIPTION
+
+By Maikel Wilms, Kyle Ruttan, Bartolomeo Banche, Luigi Vasi, and Arnaud Voguet
+
+ARTICLE  FEBRUARY 25, 2025  12 MIN READ
+
+Stay ahead with BCG insights on technology,
+media, and telecommunications
+
+Enter Email
+
+A Crowded Market
+
+This is bad news for traditional telcos. By focusing on providing connectivity services to customers
+through their existing networks, these players are particularly exposed to the downside of market shis.
+In recent years, some savvy telcos have expanded their ICT oﬀerings by targeting particular market
+segments and transforming their capabilities. (See the sidebar “What Savvy Telcos Can Teach Others.”)
+But even those companies are facing stiﬀ competition from three distinct types of challengers that have
+emerged since the turn of the decade:
+
+Hyperscalers. Major cloud service providers, such as Amazon Web Services (AWS), Microso Azure, and
+Google Cloud, are aggressively expanding their oﬀerings, particularly in AI and cloud infrastructure
+services. They are selling solutions tailored to speciﬁc sectors, such as health care, ﬁnance, and
+manufacturing. AWS, for example, oﬀers bespoke, integrated cloud solutions through its marketplace,
+enabling buyers to download soware-as-a-service products over the internet. It is also opening
+localized cloud regions to address regional needs and regulatory requirements.
+
+System Integrators (SIs) and MSPs. Global and regional SIs and MSPs, which integrate customers’
+existing IT systems with new ones, are positioning themselves as key participants in digital
+
+https://www.bcg.com/publications/2025/a-strong-option-for-telcos-in-a-crowded-b2b-market
+
+3/10
+
+22/03/2026, 19:37
+
+A Strong Option for Telcos in a Crowded B2B Market | BCG
+
+transformations and capturing market share. There are approximately 20 to 30 global players selling
+customized IT solutions to the world’s top 2,000 companies. To expand their product oﬀerings, players
+are partnering with or acquiring other players that have complementary capabilities. HCL Technologies,
+a global IT consultancy based in India, has partnered with US soware developer ServiceNow to provide
+generative AI (GenAI)-powered transformation solutions. Similarly, global IT consultancy Accenture’s
+recent acquisition of US MSP Navisite has bolstered its portfolio of cloud-based services. Regional SIs
+and MSPs, meanwhile, are focusing on mid-size companies and providing comprehensive IT and cloud
+migration services that cater to local requirements.
+
+TECHNOLOGY, MEDIA, AND TELECOMMUNICATIONS
+
+In a Crowded B2B Market, the Middle Is a Strong
+Option for Telcos
+
+Value-Added Resellers (VARs). VARs are low-margin players that resell hardware and soware solutions
+to business customers. The VAR market is highly fragmented, especially in the US. There are more than
+2,000 VARs competing for customers in the US mid-market and small business segments. However,
+VARs are losing market share to regional MSPs that are aggressively targeting these segments. As a
+By Maikel Wilms, Kyle Ruttan, Bartolomeo Banche, Luigi Vasi, and Arnaud Voguet
+result, VARs’ share of mid-market and small business clients is expected to drop from 35% in 2022 to
+25% by 2028. To remain competitive, VARs are expanding their cloud products and cloud migration
+ARTICLE  FEBRUARY 25, 2025  12 MIN READ
+services for these companies.
+
+What Savvy Telcos Can Teach Others
+
+Some telcos are getting ahead of the game by making shrewd strategic moves to help them
+succeed in the B2B information and communications technology (ICT) market. Here are some
+of the lessons that other telcos can take from them:
+
+Choose your primary market segments. While telcos can serve several segments, they should
+prioritize one or two—and, in our opinion, focus especially on the mid-market—so that they
+can tailor their approach, meet speciﬁc customer requirements, and maximize their market
+impact.
+
+Focus on margins. To maintain proﬁtability, telcos must transition from providing just basic
+connectivity to oﬀering newer, higher-value products, such as managed IT solutions and cloud
+services. These newer ICT areas generate gross margins of 25% to 35% for telcos—compared
+with margins of 5% to 10% with reselling—and oﬀer them a more sustainable revenue model.
+
+Become ecosystem orchestrators. Telcos must redeﬁne their role and shi from being pure
+infrastructure providers to orchestrators of the complex and evolving ICT ecosystems of their
+corporate clients. This change will enable them to oﬀer more integrated solutions—involving
+their own and others’ products—that cater to businesses’ increasingly interconnected needs.
+
+Engage with customers earlier. Telcos should adjust their go-to-market strategies so that they
+engage with trusted clients earlier. Doing so can help them ensure that their ICT solutions
+meet customer demands most eﬀectively. It also allows them to capture revenue faster.
+Proactive engagement helps build stronger, more responsive client relationships.
+
+Transform capabilities. To stay competitive in a crowded ICT market, telcos must transform
+their sales, tech delivery, and service capabilities. To gain competencies in key emerging areas,
+
+https://www.bcg.com/publications/2025/a-strong-option-for-telcos-in-a-crowded-b2b-market
+
+4/10
+
+22/03/2026, 19:37
+
+A Strong Option for Telcos in a Crowded B2B Market | BCG
+
+they will likely need to form partnerships with other players and pursue targeted acquisitions.
+
+Incubate separate business units. By establishing independent business units, telcos can
+scale more quickly and respond to market changes with greater agility. Spinouts can also help
+telcos channel resources and expertise into ICT growth opportunities.
+
+TECHNOLOGY, MEDIA, AND TELECOMMUNICATIONS
+
+In a Crowded B2B Market, the Middle Is a Strong
+Option for Telcos
+
+Until now, telcos have played a crucial role in providing connectivity and basic IT solutions, including
+reselling communication services such as Zoom and Microso Teams, because of their network
+expertise. By contrast, MSPs, SIs, and VARs have taken the lead in supplying enterprise soware, data
+By Maikel Wilms, Kyle Ruttan, Bartolomeo Banche, Luigi Vasi, and Arnaud Voguet
+analytics, and integration services.
+
+However, the lines between players are blurring: hyperscalers are starting to bundle internet
+ARTICLE  FEBRUARY 25, 2025  12 MIN READ
+connectivity with their cloud oﬀerings, while some telcos are expanding into soware development
+either through partnerships with IT companies or by creating their own development departments. This
+convergence is a clear sign that telcos must diversify their ICT capabilities beyond connectivity or risk
+being le behind by more ambitious players.
+
+Telcos must diversify their ICT capabilities beyond connectivity or risk being le behind by
+more ambitious players.
+
+The Mid-Market Opportunity
+
+Several forces, meanwhile, are reshaping the global market environment in ICT. Data privacy and
+localization regulations are creating new region-speciﬁc compliance requirements for companies.
+Growing geopolitical tensions are causing countries to favor local players to safeguard their critical
+systems. And organizations are demanding faster, more reliable IT services, beneﬁting players with local
+infrastructure.
+
+These forces are causing all ICT players to become more localized, through regional data centers, local
+partnerships, and tailored services. Telcos still have an edge over competitors, thanks to their
+widespread and established infrastructure networks, their familiarity with navigating complex local
+rules, and their deep-rooted relationships with local enterprises and governments. But they need to
+double down on their strengths and develop new capabilities to win.
+
+https://www.bcg.com/publications/2025/a-strong-option-for-telcos-in-a-crowded-b2b-market
+
+5/10
+
+22/03/2026, 19:37
+
+A Strong Option for Telcos in a Crowded B2B Market | BCG
+
+Targeting a speciﬁc market segment can help them do this. There are four market segments for ICT
+services and solutions that telcos can choose from. While all four oﬀer opportunities, we believe that
+the middle market is the most attractive, since customers in this segment place particular value on
+relationships with local players.
+
+TECHNOLOGY, MEDIA, AND TELECOMMUNICATIONS
+
+Large Enterprises and Multinational Corporations. This segment was worth an estimated $415 billion
+in the US and an estimated $550 billion in Europe in 2024. Because these companies require
+comprehensive digital transformation projects, hyperscalers and global system integrators are better
+positioned to meet their needs than are telcos. However, telcos can still play a pivotal role in providing
+connectivity and cybersecurity services.
+
+In a Crowded B2B Market, the Middle Is a Strong
+Option for Telcos
+
+Public Sector. Telcos may be able to gain an edge over hyperscalers and system integrators in this
+segment by leveraging their local expertise. Their ability to navigate complex regulatory environments
+and deliver localized infrastructure makes them well suited to meet public sector needs.
+By Maikel Wilms, Kyle Ruttan, Bartolomeo Banche, Luigi Vasi, and Arnaud Voguet
+
+Mid-Market. This segment was worth an estimated $245 billion in the US and an estimated $150
+ARTICLE  FEBRUARY 25, 2025  12 MIN READ
+billion in Europe in 2024 and is projected to grow at a CAGR of 8% and 9%, respectively, between 2024
+and 2028. Some 76% of mid-market companies in the US and Europe prefer to purchase IT services
+from their existing ICT providers, creating a clear opportunity for telcos to expand beyond connectivity
+into selling mid-market customers more advanced solutions.
+
+Small Oﬃce/Home Oﬃce and Small Businesses. This segment was worth an estimated $280 billion in
+the US and an estimated $145 billion in Europe in 2024. These businesses value simplicity and cost-
+eﬀective ICT products. That means telcos have an opportunity to provide tailored, localized solutions
+and oﬀer bundled services that integrate connectivity, security, and essential business tools.
+
+Three Mid-Market Roles for Telcos
+
+Before they enter the mid-market segment, telcos must select their strategy with care. The approach
+they choose will have signiﬁcant implications for future costs, capabilities, and market positioning. We
+have identiﬁed three potential roles, each of which oﬀers clear advantages and trade-oﬀs: companies
+can become a connectivity provider, a core ICT services provider, or a full vertical-solutions provider.
+
+Option 1: Connectivity Provider. By proactively partnering with MSPs, SIs, and VARs, telcos can oﬀer
+business customers their connectivity services while other ICT players manage more complex solutions.
+Because this strategy leverages telcos’ existing infrastructure, it carries minimal risk and requires little
+new investment.
+
+This option is particularly suitable for telcos that operate in markets where basic connectivity is still in
+demand, either due to geographical or technological considerations or where industry demand for IoT
+and smart infrastructure is growing. Telcos must also have an established network and strong
+partnerships with other ICT players so they can support the delivery of a range of services.
+
+Telcos that adopt a connectivity provider model typically enjoy earnings before interest, taxes,
+depreciation, and amortization (EBITDA) margins of approximately 30% to 50%. However, as
+
+https://www.bcg.com/publications/2025/a-strong-option-for-telcos-in-a-crowded-b2b-market
+
+6/10
+
+22/03/2026, 19:37
+
+A Strong Option for Telcos in a Crowded B2B Market | BCG
+
+connectivity becomes an increasingly commoditized product, it may be diﬃcult to maintain these high
+margins without signiﬁcant streamlining and cost-reduction initiatives. Telcos also risk being perceived
+as low-value commodity players, with their partners seen as owning customer relationships and
+providing high-value services. Over time, these factors can limit telcos’ growth and result in low
+proﬁtability.
+
+TECHNOLOGY, MEDIA, AND TELECOMMUNICATIONS
+
+Option 2: Core ICT Services Provider. Telcos can leverage their existing strengths in connectivity and
+security by oﬀering mid-market businesses standardized ICT solutions in essential areas such as
+network management, cybersecurity, and cloud support. This strategy allows telcos to capture greater
+value across the tech stack without having to make substantial investments.
+
+In a Crowded B2B Market, the Middle Is a Strong
+Option for Telcos
+
+We consider this option the best one for telcos that are seeking to expand in the mid-market segment.
+Mid-market businesses want cost-eﬀective, scalable solutions and automation technologies—which
+telcos are well-placed to provide. This option also helps telcos achieve an optimum risk-reward balance,
+By Maikel Wilms, Kyle Ruttan, Bartolomeo Banche, Luigi Vasi, and Arnaud Voguet
+as it allows them to drive growth by managing costs eﬀectively and expanding their oﬀerings to
+customers through deeper relationships.
+ARTICLE  FEBRUARY 25, 2025  12 MIN READ
+
+While there are signiﬁcant competitive pressures with this role, the operational eﬃciencies that telcos
+achieve through automating and standardizing their products and internal processes can help them
+sustain these margins. Nevertheless, the price sensitivity of mid-market business customers means
+telcos’ proﬁtability is likely to be modest compared with strategic approaches that involve more value-
+added services or higher-paying customers.
+
+Mid-market businesses want cost-eﬀective, scalable solutions and automation technologies
+—which telcos are well-placed to provide.
+
+To succeed with this strategy, telcos will need to make changes in these aspects of their businesses:
+
+Their Go-to-Market Strategy. Telcos should bolster the sales team’s skills so that members can
+identify the ICT requirements of mid-market businesses and oﬀer appropriate solutions. They
+should also train sales employees to communicate eﬀectively with business customers about IT
+services, not just connectivity, and adjust incentive structures to reward sales of service-based
+products.
+
+Their Product Oﬀerings. Firms should develop standardized, pre-conﬁgured solutions that address
+the core needs of mid-market business customers. These oﬀerings should give businesses the
+opportunity to outsource their IT requirements by including connectivity, cybersecurity, and
+managed services.
+
+Cost Eﬃciency. They should improve cost optimization by standardizing oﬀerings and leveraging
+automation technologies, such as GenAI, to lower service desk costs. As well as curbing costs,
+
+https://www.bcg.com/publications/2025/a-strong-option-for-telcos-in-a-crowded-b2b-market
+
+7/10
+
+22/03/2026, 19:37
+
+A Strong Option for Telcos in a Crowded B2B Market | BCG
+
+simplifying deployment processes can also help maintain the price competitiveness and scalability
+of telcos’ product oﬀerings.
+
+Option 3: Full Vertical-Solutions Provider. To help them prosper in a crowded marketplace, telcos can
+build a diﬀerentiated ICT oﬀering by providing solutions that are tailored to the needs of diﬀerent
+sectors such as health care, manufacturing, and transportation. This option is best suited to markets
+where sectors are undergoing a rapid digital transformation but must still adhere to strict regulatory
+requirements.
+
+TECHNOLOGY, MEDIA, AND TELECOMMUNICATIONS
+
+In a Crowded B2B Market, the Middle Is a Strong
+Option for Telcos
+
+In addition to giving telcos the opportunity to create a strong foothold in speciﬁc vertical markets, this
+approach can deliver EBITDA margins of up to 35%. Targeted margins are relatively low to start with
+because telcos must make signiﬁcant upfront investments to diversify their service oﬀerings and
+develop new technologies. However, by becoming full vertical-solution providers, telcos can capture a
+By Maikel Wilms, Kyle Ruttan, Bartolomeo Banche, Luigi Vasi, and Arnaud Voguet
+bigger share of the ICT value chain as they sell more value-added services, such as cybersecurity and
+cloud computing.
+ARTICLE  FEBRUARY 25, 2025  12 MIN READ
+
+To succeed, telcos must develop a deep understanding of their target sectors—including ICT use cases,
+regulatory challenges, and compliance requirements—and design solutions that meet the precise
+needs of each one. Telcos will also need to equip their sales teams with sector-speciﬁc knowledge so
+that they can communicate the beneﬁts of their oﬀerings, align sales incentive models with new market
+penetration goals, and create credentials that foster customer trust in individual sectors.
+
+Focusing on the mid-market segment represents a signiﬁcant strategic move for telcos. As they chart a
+course to expand their ICT oﬀerings, players can use their knowledge of local regulations and data rules
+to diﬀerentiate themselves from the competition. But depending on which role they select, they will
+need to develop standardized, scalable solutions; retrain their sales teams and introduce new incentive
+arrangements; utilize automation and AI to streamline operations and reduce costs; and consider
+providing more sector-speciﬁc, value-added products. The payoﬀ for those that take the steps needed for
+mid-market growth will be a brighter and more resilient future.
+
+Authors
+
+Maikel Wilms
+
+Partner & Director, Communications
+Amsterdam
+
+https://www.bcg.com/publications/2025/a-strong-option-for-telcos-in-a-crowded-b2b-market
+
+8/10
+
+22/03/2026, 19:37
+
+A Strong Option for Telcos in a Crowded B2B Market | BCG
+
+Kyle Ruttan
+
+Managing Director & Partner
+Toronto
+
+TECHNOLOGY, MEDIA, AND TELECOMMUNICATIONS
+
+In a Crowded B2B Market, the Middle Is a Strong
+Option for Telcos
+
+Bartolomeo Banche
+
+Managing Director & Senior Partner
+Milan
+
+By Maikel Wilms, Kyle Ruttan, Bartolomeo Banche, Luigi Vasi, and Arnaud Voguet
+
+ARTICLE  FEBRUARY 25, 2025  12 MIN READ
+
+Luigi Vasi
+
+Principal
+Milan
+
+Arnaud Voguet
+
+Knowledge Senior Director – Telecommunications
+Paris
+
+Related Content
+
+https://www.bcg.com/publications/2025/a-strong-option-for-telcos-in-a-crowded-b2b-market
+
+9/10
+
+22/03/2026, 19:37
+
+A Strong Option for Telcos in a Crowded B2B Market | BCG
+
+TECHNOLOGY, MEDIA, AND TELECOMMUNICATIONS
+
+In a Crowded B2B Market, the Middle Is a Strong
+Option for Telcos
+
+By Maikel Wilms, Kyle Ruttan, Bartolomeo Banche, Luigi Vasi, and Arnaud Voguet
+
+ABOUT BOSTON CONSULTING GROUP
+Boston Consulting Group partners with leaders in business and society to tackle their most important
+ARTICLE  FEBRUARY 25, 2025  12 MIN READ
+challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it
+was founded in 1963. Today, we work closely with clients to embrace a transformational approach aimed
+at beneﬁting all stakeholders—empowering organizations to grow, build sustainable competitive
+advantage, and drive positive societal impact.
+Our diverse, global teams bring deep industry and functional expertise and a range of perspectives that
+question the status quo and spark change. BCG delivers solutions through leading-edge management
+consulting, technology and design, and corporate and digital ventures. We work in a uniquely
+collaborative model across the ﬁrm and throughout all levels of the client organization, fueled by the goal
+of helping our clients thrive and enabling them to make the world a better place.
+© Boston Consulting Group 2026. All rights reserved.
+For information or permission to reprint, please contact BCG at permissions@bcg.com. To ﬁnd the latest
+BCG content and register to receive e-alerts on this topic or others, please visit bcg.com. Follow Boston
+Consulting Group on Facebook and X (formerly Twitter).
+
+Unlocking the Potential of Those Who Advance the World
+
+Careers
+
+Alumni
+
+Oﬃces
+
+Subscribe
+
+About
+
+How can we assist you?
+
+We value the opportunity to connect with you. Please submit your inquiries and feedback, and our experienced
+professionals are ready to assist you.
+
+CONTACT US
+
+EN |
+
+JA
+
+https://www.bcg.com/publications/2025/a-strong-option-for-telcos-in-a-crowded-b2b-market
+
+10/10
+
+ARTICLEFEBRUARY 22, 2018Telecommunications: Breaking Through the BottlenecksDigital transformation is hard, particularly for telcos. The leaders are looking beyond their coreandusingtheirstrengthstomeetthechallenges

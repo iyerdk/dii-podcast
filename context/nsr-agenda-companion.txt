@@ -1,0 +1,199 @@
+22/03/2026, 17:40
+
+Conference Day Agenda Companion
+
+8:50–9:20 | BT Group — Allison Kirkby, CEO
+
+Likely to say: Fibre build milestones (18m+ premises), FCF inﬂection approaching (£2bn FY27), cost
+transformation powered by AI, BT as the UK’s trusted national connector, premium EE brand momentum
+Unlikely to say: CityFibre/Sky competitive threat, Openreach pricing pressure in multi-network areas,
+Drahi/Altice shareholder dynamics, detailed workforce reduction numbers
+Sharpest question: “At what ﬁbre penetration level does Openreach’s unit economics become self-
+sustaining — and how does altnet competition in your footprint affect that number?”
+Conference themes addressed: Extending Networks Skyward, Capital Strategies, Monetization,
+Networks Meet AI
+Priority to engage: HIGH — BT is the UK’s anchor infrastructure story and directly relevant to Nordic
+benchmarking
+
+9:25–10:05 | PE Panel — Natalia Akst (Macquarie) + Timm
+Degenhardt (OMERS)
+
+Likely to say: Digital infrastructure as essential, long-duration, inﬂation-linked assets; PE/infrastructure
+capital ﬁlling the investment gap; responsible long-term stewardship; continued opportunity in ﬁbre and
+towers
+Unlikely to say: Concerns about altnet distress or stranded assets; leverage risk in PE-backed portfolios;
+the reality that some early-vintage investments may underperform return targets
+Sharpest question: “Where are you net sellers vs. net buyers in European digital infrastructure right now
+— and what has changed in the last 12 months?”
+Conference themes addressed: Capital Strategies 2.0
+Priority to engage: HIGH — PE perspectives directly relevant to Nordic infrastructure investment
+decisions
+
+10:10–10:40 | Vodafone Three — Max Taylor, CEO
+
+Likely to say: Merger integration on track, £11bn investment commitment, network quality
+improvements, synergy capture beginning, vindication of the consolidation thesis
+Unlikely to say: CMA condition compliance burden, MVNO access uptake, JV governance friction with
+CK Hutchison, any suggestion that synergy timelines are slipping
+Sharpest question: “Which competitor do you think will use the CMA’s MVNO access conditions most
+aggressively — and how are you preparing for that?”
+Conference themes addressed: Extending Networks Skyward, Capital Strategies, Regulation 3.0,
+Technology Game-Changers
+Priority to engage: HIGH — the VodafoneThree merger is the template for any Nordic consolidation
+play
+
+10:45–11:15 | Telecom Italia — Pietro Labriola, CEO & GM
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/02_Agenda_Companion.html
+
+1/4
+
+22/03/2026, 17:40
+
+Likely to say: ServCo model vindicated, ﬁnancial ﬂexibility restored, TIM Enterprise as growth engine,
+platform diversiﬁcation (energy/utilities), dividend restoration from 2026, Brazil strength
+Unlikely to say: Italian consumer market structural weakness (Iliad), MSA dependency risk with NetCo,
+Vivendi shareholder dynamics
+Sharpest question: “Two years into the ServCo model — what’s the biggest thing you’d do differently
+about the NetCo separation if you could do it again?”
+Conference themes addressed: Capital Strategies 2.0, Monetization Re-Visited
+Priority to engage: HIGH — the NetCo/ServCo model is the most transformative restructuring in
+European telecom and directly relevant to any operator considering infrastructure separation
+
+11:20–11:50 | Deutsche GigaNetz — Mirko Jerrentrup, CFO
+
+Likely to say: Successful €300m ﬁnancing, EIB conﬁdence, execution quality, open access philosophy,
+Germany needs more ﬁbre investment, cooperative approach with municipalities
+Unlikely to say: German overbuild concerns, potential for market consolidation affecting DGN,
+competition from Deutsche Telekom’s vastly larger ﬁbre build
+Sharpest question: “With 200+ ﬁbre builders in Germany and only 10% adoption, how many of those
+builders will exist in 2030?”
+Conference themes addressed: Capital Strategies 2.0, Regulation 3.0
+Priority to engage: MEDIUM — relevant for German market context and altnet ﬁnancing, less directly
+applicable to Nordic operations
+
+12:50–1:30 | UK Fiber Panel — Nick Dunn (CityFibre CFO), Graeme
+Oxby (Community Fibre CEO), Jeremy Chelot (Netomnia CEO)
+
+Likely to say: UK ﬁbre revolution succeeding, competitive infrastructure driving investment and
+consumer choice, CityFibre’s penetration growth and M&A ambitions, Netomnia’s strategic logic for
+VMO2 sale, Community Fibre’s London leadership
+Unlikely to say: Proﬁtability timelines are uncertain for sub-scale altnets, PE exit pressure, the risk that
+overbuild creates stranded assets in some areas
+Sharpest question: “For each of you: at current penetration rates and build costs, what is the realistic
+timeline to breakeven cash ﬂow — and what needs to be true for that to work?”
+Conference themes addressed: Capital Strategies 2.0, Regulation 3.0
+Priority to engage: MEDIUM — UK altnet dynamics are fascinating but less directly transferable to
+Nordic ﬁbre markets (which are already 70%+ ﬁbre)
+
+1:35–2:05 | Proximus — Stijn Bijnens (CEO) + Nicolas Gaertner (CFO
+a.i.)
+
+Likely to say: Amplify (domestic execution, ﬁbre, converged bundles) + Elevate (global digital
+communications growth), multi-brand strategy, AI-driven efﬁciency, stable domestic EBITDA, disciplined
+capital allocation
+Unlikely to say: Global division’s path to recovery is uncertain, Flanders network sharing with Telenet
+may stall, new CEO still establishing strategic authority
+Sharpest question: “Stijn, you came from Cegeka — an ICT company. What is the single most surprising
+thing about running a telco vs. running a tech company?”
+Conference themes addressed: Monetization, Cloud-Native Transformation, Networks Meet AI
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/02_Agenda_Companion.html
+
+2/4
+
+22/03/2026, 17:40
+
+Priority to engage: HIGH — Proximus is the closest peer company to Nordic telcos (similar market
+maturity, state ownership, multi-brand strategy) and Bijnens’s tech-ﬁrst perspective is unique
+
+2:10–2:40 | DG-Comp — Marc Zedler, Deputy Head of Unit
+
+Likely to say: Framework-level commentary on how DG-Comp assesses telecom mergers, importance of
+consumer welfare and investment incentives, references to the evolving competitive landscape, careful
+neutrality on speciﬁc markets
+Unlikely to say: Any forward-looking signal on speciﬁc pending or potential deals, admission that past
+competition enforcement contributed to European telecom underinvestment
+Sharpest question: “In your assessment framework, how do you weigh a 10-year network investment
+commitment against a modeled 5% consumer price increase — is there a methodology, or is it judgment?”
+Conference themes addressed: Regulation 3.0
+Priority to engage: HIGH — this is the single most important session for anyone interested in European
+telecom M&A
+
+3:00–3:30 | Liberty Global — Mike Fries, CEO
+
+Likely to say: Conglomerate discount is irrational, asset portfolio worth $12bn+ vs. $3.75bn market cap,
+Sunrise spin-off as proof of value, VMO2 returning to growth, aggressive buybacks, “one or more”
+additional transactions coming
+Unlikely to say: VMO2’s broadband losses and competitive challenges, timeline for closing the discount,
+any speciﬁc transaction plans
+Sharpest question: “Mike, you’ve been a public company CEO for 20 years with this discount. At what
+point do you conclude that the public market structure is the problem — and take Liberty private?”
+Conference themes addressed: Capital Strategies 2.0, Extending Networks Skyward
+Priority to engage: MEDIUM — fascinating capital structure story but less directly relevant to Nordic
+operations unless exploring JV or partnership models
+
+3:35–4:15 | Cellnex — Raimon Trias, CFO
+
+Likely to say: 2025 guidance delivered, 2027 targets reafﬁrmed, shareholder returns ahead of plan (€1bn
+buyback + €500m dividend + €300m additional buyback), investment grade stability, organic growth
+drivers (co-location, contract extensions, new services)
+Unlikely to say: Concerns about anchor tenant renewal pricing, the challenge of sustaining organic growth
+without acquisitions, any M&A plans
+Sharpest question: “With tenant contract renewals coming up over the next 5 years, how conﬁdent are
+you that escalators will hold — and what’s your plan if operators push back?”
+Conference themes addressed: Capital Strategies 2.0, Technology Game-Changers
+Priority to engage: MEDIUM — relevant for tower/infrastructure perspective; less directly relevant
+unless considering tower strategy
+
+4:20–4:50 | A1 — Christian Laque, Senior Director of Technology
+
+Likely to say: Network modernization progress across Austria and CEE, AI-driven network optimization
+results, 5G deployment across diverse markets, technology choices and vendor strategy
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/02_Agenda_Companion.html
+
+3/4
+
+22/03/2026, 17:40
+
+Unlikely to say: Speciﬁc capex allocations across markets, competitive challenges from Magenta (DT)
+and Drei (CK Hutchison) in Austria, Belarus operations
+Sharpest question: “What has been the measurable ROI from AI in your network operations — not
+projections, but actual cost savings or performance improvements you can quantify?”
+Conference themes addressed: Networks Meet AI, Cloud-Native Transformation, Technology Game-
+Changers
+Priority to engage: MEDIUM — useful technology perspective from a mid-sized multi-market operator;
+relevant comparisons to Nordic technology strategies
+
+4:55–5:25 | IB Panel — Owain Parry (PJT Partners) + Adil
+Benchakroune (UBS)
+
+Likely to say: M&A pipeline is building, ﬁnancing conditions improving, regulatory barriers lower than in
+a decade, speciﬁc deal structures that work (JVs, carve-outs, conditional mergers), valuation trends
+Unlikely to say: Speciﬁc mandates or advisory relationships, names of parties in ongoing discussions,
+candid assessment of deals that should happen but won’t
+Sharpest question: “Forget the pipeline you can talk about publicly — what is the one deal that everyone
+in this room wants but nobody can make work, and why?”
+Conference themes addressed: Capital Strategies 2.0, Regulation 3.0
+Priority to engage: HIGH — investment bankers have the broadest view of deal ﬂow and can provide
+insight into Nordic M&A appetite
+
+5:30–6:00 | BCG Perspectives — Michael Breitenstein + Michael
+Steiger
+
+Likely to say: Synthesized industry framework, proprietary data on AI adoption / B2B growth / operator
+performance segmentation, forward-looking view on industry structure, capital model evolution,
+technology transformation benchmarks
+Unlikely to say: Client-speciﬁc data, anything negative about speciﬁc conference attendees/companies
+Sharpest question: “Across your global telecom client base, what is the single biggest gap between
+management ambition and execution reality — and what do the leaders do differently?”
+Conference themes addressed: All 7 themes
+Priority to engage: HIGH — BCG’s closing synthesis will frame the industry narrative; engaging with
+Breitenstein and Steiger afterward will provide valuable analytical perspective
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/02_Agenda_Companion.html
+
+4/4
+
+

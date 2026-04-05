@@ -1,0 +1,60 @@
+22/03/2026, 17:40
+
+Executive Brieﬁng Note — NSR/BCG Conference
+2026
+
+State of the Industry
+
+European telecom enters 2026 in a cautiously optimistic posture. After a decade of stagnant revenue, eroding
+returns, and regulatory constraint, three structural shifts are converging: the regulatory climate is the most
+permissive toward consolidation in a generation (Draghi Report, Vodafone-Three precedent), AI is ﬁnally
+offering a credible path to 15–25% opex reduction, and ﬁbre/5G investment cycles are approaching their
+inﬂection from cash-burn to cash-harvest in several major markets. The sector’s median EBITDA growth of
+~2.5% is modest, but the variance between leaders and laggards is widening — operators with disciplined
+pricing, enterprise digital capabilities, and advanced network infrastructure are pulling away.
+
+The capital structure of European telecom has been fundamentally rewired. Over €80bn in infrastructure assets
+have been carved out, spun off, or sold to PE and infrastructure funds since 2020. TIM’s NetCo sale, Cellnex’s
+shift from acquirer to capital returner, and the UK altnet investment boom represent three phases of the same
+trend: the unbundling of connectivity into specialized, separately-capitalized layers. Whether this disaggregation
+creates lasting value or just redistributes risk is the central debate.
+
+The unresolved tension is growth. European telecom revenue grows at ~2% while the companies it connects
+grow at 8–15%. B2B digital services, platform diversiﬁcation (energy, ﬁntech), and network API monetization
+are the most-discussed growth vectors — but collectively they still represent <15% of sector revenue. The
+conference will test whether the industry’s growth narrative is supported by evidence or remains aspirational.
+
+Three Overarching Narratives That Will Shape the Day
+
+1. “Consolidation works — now do it again.” VodafoneThree is 10 months post-merger and will present
+early evidence that 4-to-3 consolidation delivers investment, not just cost synergies. Every speaker and
+attendee will be thinking about which European market is next. Marc Zedler’s DG-Comp session will be
+parsed for any signal on Brussels’ appetite.
+
+2. “Show me the money on AI.” Every operator has an AI strategy; few have measurable ROI. The
+
+conference will push for speciﬁcity: what has actually been deployed at scale, what are the cash savings,
+and what is the roadmap from pilot to platform? BCG’s closing session will attempt to benchmark the
+industry.
+
+3. “The capital cycle is turning.” Cellnex returning capital ahead of plan, BT approaching its FCF
+
+inﬂection, TIM restoring dividends — the narrative is shifting from “invest and leverage” to “harvest and
+return.” PE investors are evaluating exits, operators are approaching capex peaks, and the market is
+rewarding cash generation over growth spending.
+
+My Positioning as an Attendee
+
+As a senior transformation leader at a major Nordic telco, I bring a distinctive perspective: operational
+experience in one of Europe’s most digitally advanced markets, familiarity with the consolidation dynamics that
+Draghi advocates, and a transformation mandate that bridges technology and commercial strategy. I can add
+value to conversations by offering a Nordic benchmark (high penetration, mature pricing, disciplined markets)
+against which UK and Southern European operators can compare. I should lean into discussions about AI
+operationalization (where Nordic operators often lead), convergence strategy (relevant given Nordic multi-play
+dynamics), and regulatory reform (the Nordics as potential next consolidation markets).
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/01_Executive_Brieﬁng_Note.html
+
+1/1
+
+

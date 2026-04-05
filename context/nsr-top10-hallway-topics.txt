@@ -1,0 +1,117 @@
+22/03/2026, 17:40
+
+Top 10 Hallway Topics — NSR/BCG Conference
+2026
+
+1. “Which market is next for mobile consolidation?”
+
+The Vodafone-Three precedent has opened the ﬂoodgates for speculation. Goldman Sachs identiﬁes Italy,
+Sweden, Denmark, and Germany as the most likely next markets. The Draghi Report provides political cover;
+DG-Comp’s evolving stance provides regulatory runway. But ﬁnancing, political will, and competitive dynamics
+vary enormously by market. Every PE investor and operator CEO in the room has a view.
+
+Opener: “With Vodafone-Three done, I’m curious — where do you think the next deal happens, and who makes
+the ﬁrst move?”
+
+2. “Is the UK altnet market heading for a shakeout?”
+
+CityFibre at 4.7m premises and growing, VMO2 acquiring Netomnia, and dozens of sub-scale builders
+struggling to reach proﬁtability. Analysts predict the UK altnet sector is entering “its most dangerous phase.” The
+question is how many altnets survive as independents vs. being absorbed, and whether the shakeout reprices the
+whole sector.
+
+Opener: “I saw the ISPreview analysis calling this the altnets’ most dangerous phase. Do you agree — and who
+are the survivors?”
+
+3. “AI in telecom: where’s the actual ROI?”
+
+Every operator has an AI strategy; BCG says 15–25% opex reduction is possible. But the gap between pilot and
+production remains wide. The conference will push for speciﬁcity — what has been deployed at scale, what are
+the cash savings, and what’s the realistic timeline for AI to materially impact margins?
+
+Opener: “Everyone talks about AI saving 15–25% of opex. In your experience, what’s the real number so far —
+and where has it actually worked?”
+
+4. “BT’s free cash ﬂow inﬂection — real or aspirational?”
+
+BT’s £2bn FCF FY27 target is the most closely watched milestone in European telecom. If achieved, it validates
+the thesis that infrastructure investment can generate real returns. If missed, it validates the bears who say UK
+ﬁbre competition makes returns structurally challenging. Kirkby’s session will be parsed for conﬁdence signals.
+
+Opener: “Do you believe BT will hit £2bn FCF in FY27? What could go wrong?”
+
+5. “Liberty Global’s discount — how does it close?”
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/03_Top10_Hallway_Topics.html
+
+1/3
+
+22/03/2026, 17:40
+
+Mike Fries says $3.75bn market cap on $12bn+ in assets is irrational. He’s buying back shares and signaling
+more transactions. The debate: is this a genuine value opportunity or a perennial value trap? And is a take-private
+the endgame?
+
+Opener: “Liberty’s been trading at a discount for years. What’s it going to take to ﬁnally close the gap —
+another spin-off, a take-private, or something else?”
+
+6. “What is TIM’s identity post-NetCo?”
+
+Labriola has transformed TIM from a debt-laden integrated operator to an asset-light ServCo. But the question
+remains: can a telco without a ﬁxed network sustain competitive differentiation? The energy/utility platform play
+is bold but unproven. TIM’s success or failure will inﬂuence every operator considering infrastructure separation.
+
+Opener: “Pietro’s selling energy to SMEs now. Is TIM still a telco — or is it becoming something else
+entirely?”
+
+7. “Cellnex: done buying, but what’s the next growth engine?”
+
+Cellnex has shifted from Europe’s most aggressive tower acquirer to a disciplined capital returner. The market
+loves it — but the question is whether organic growth (4–5% revenue CAGR from co-location and new services)
+can sustain the valuation without acquisitions. The tower business model’s long-term resilience in a
+consolidating operator market is also under debate.
+
+Opener: “Cellnex is returning capital ahead of plan, which is great. But with the acquisition engine off, where
+does growth come from — and is 4–5% organic enough?”
+
+8. “6 GHz spectrum: mobile or Wi-Fi?”
+
+This is the spectrum policy debate of the decade. Mobile operators want it for 5G-Advanced/6G; the tech
+industry wants it for Wi-Fi 7/8. The resolution will be political, determined by WRC-27 and national
+implementation. European regulators are tentatively favoring mobile, but the Wi-Fi camp has strong arguments
+about indoor coverage and consumer usage patterns.
+
+Opener: “Where do you come out on 6 GHz — mobile or Wi-Fi? And is the industry over-stating spectrum
+scarcity to build a case for 6G?”
+
+9. “The Draghi effect — real change or just talk?”
+
+Mario Draghi’s competitiveness report called for telecom consolidation, deregulation, and investment incentives.
+A year and a half later, the question is whether it has produced tangible policy change or remains a political
+document with limited operational impact. DG-Comp’s framework hasn’t fundamentally changed; national
+regulators move at their own pace.
+
+Opener: “Is the Draghi Report actually changing anything in practice, or is it the telecom equivalent of thoughts
+and prayers?”
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/03_Top10_Hallway_Topics.html
+
+2/3
+
+22/03/2026, 17:40
+
+10. “Nordic consolidation — is it ﬁnally going to happen?”
+
+Goldman Sachs has identiﬁed Sweden and Denmark as among the most likely next consolidation markets. The
+Nordic regulatory environment may be more conducive than the adversarial UK process. But the 2015
+TeliaSonera-Telenor Denmark failure casts a long shadow. With the Draghi-era political support and the
+VodafoneThree precedent, the conditions may ﬁnally be right — but execution remains complex.
+
+Opener: “As a Nordic operator, I’m watching the consolidation debate closely. Do you think Sweden or
+Denmark moves ﬁrst — and what would trigger it?”
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/03_Top10_Hallway_Topics.html
+
+3/3
+
+

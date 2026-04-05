@@ -1,0 +1,1058 @@
+22/03/2026, 17:40
+
+Table of Contents
+
+Part I: Conference Cockpit
+
+Executive Brieﬁng Note
+Conference Day Agenda Companion
+Top 10 Hallway Topics
+
+Part II: Theme Research — Executive Summaries & Deep Analysis
+
+Theme 1: Extending Networks Skyward
+Theme 2: Capital Strategies 2.0
+Theme 3: Monetization Re-Visited
+Theme 4: Networks Meet AI
+Theme 5: Regulation 3.0
+Theme 6: Cloud-Native Transformation
+Theme 7: Technology Game-Changers
+
+Part III: Company Briefs (13 Companies)
+
+BT Group
+VodafoneThree
+Telecom Italia (TIM)
+Deutsche GigaNetz
+CityFibre
+Community Fibre
+Netomnia
+Proximus
+Liberty Global
+Cellnex
+A1 Group
+DG-Comp (EU)
+BCG
+
+Part IV: Speaker Proﬁles (19 Speakers)
+
+Part V: Source Library
+
+Part VI: Questions Pack
+
+Questions by Speaker
+Questions by Theme
+
+PART I: CONFERENCE COCKPIT
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/CONFERENCE_RESEARCH_PACK.html
+
+1/66
+
+22/03/2026, 17:40
+
+Executive Brieﬁng Note — NSR/BCG Conference
+2026
+
+State of the Industry
+
+European telecom enters 2026 in a cautiously optimistic posture. After a decade of stagnant revenue, eroding
+returns, and regulatory constraint, three structural shifts are converging: the regulatory climate is the most
+permissive toward consolidation in a generation (Draghi Report, Vodafone-Three precedent), AI is ﬁnally
+offering a credible path to 15–25% opex reduction, and ﬁbre/5G investment cycles are approaching their
+inﬂection from cash-burn to cash-harvest in several major markets. The sector’s median EBITDA growth of
+~2.5% is modest, but the variance between leaders and laggards is widening — operators with disciplined
+pricing, enterprise digital capabilities, and advanced network infrastructure are pulling away.
+
+The capital structure of European telecom has been fundamentally rewired. Over €80bn in infrastructure assets
+have been carved out, spun off, or sold to PE and infrastructure funds since 2020. TIM’s NetCo sale, Cellnex’s
+shift from acquirer to capital returner, and the UK altnet investment boom represent three phases of the same
+trend: the unbundling of connectivity into specialized, separately-capitalized layers. Whether this disaggregation
+creates lasting value or just redistributes risk is the central debate.
+
+The unresolved tension is growth. European telecom revenue grows at ~2% while the companies it connects
+grow at 8–15%. B2B digital services, platform diversiﬁcation (energy, ﬁntech), and network API monetization
+are the most-discussed growth vectors — but collectively they still represent <15% of sector revenue. The
+conference will test whether the industry’s growth narrative is supported by evidence or remains aspirational.
+
+Three Overarching Narratives That Will Shape the Day
+
+1. “Consolidation works — now do it again.” VodafoneThree is 10 months post-merger and will present
+early evidence that 4-to-3 consolidation delivers investment, not just cost synergies. Every speaker and
+attendee will be thinking about which European market is next. Marc Zedler’s DG-Comp session will be
+parsed for any signal on Brussels’ appetite.
+
+2. “Show me the money on AI.” Every operator has an AI strategy; few have measurable ROI. The
+
+conference will push for speciﬁcity: what has actually been deployed at scale, what are the cash savings,
+and what is the roadmap from pilot to platform? BCG’s closing session will attempt to benchmark the
+industry.
+
+3. “The capital cycle is turning.” Cellnex returning capital ahead of plan, BT approaching its FCF
+
+inﬂection, TIM restoring dividends — the narrative is shifting from “invest and leverage” to “harvest and
+return.” PE investors are evaluating exits, operators are approaching capex peaks, and the market is
+rewarding cash generation over growth spending.
+
+My Positioning as an Attendee
+
+As a senior transformation leader at a major Nordic telco, I bring a distinctive perspective: operational
+experience in one of Europe’s most digitally advanced markets, familiarity with the consolidation dynamics that
+Draghi advocates, and a transformation mandate that bridges technology and commercial strategy. I can add
+value to conversations by offering a Nordic benchmark (high penetration, mature pricing, disciplined markets)
+against which UK and Southern European operators can compare. I should lean into discussions about AI
+operationalization (where Nordic operators often lead), convergence strategy (relevant given Nordic multi-play
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/CONFERENCE_RESEARCH_PACK.html
+
+2/66
+
+22/03/2026, 17:40
+
+dynamics), and regulatory reform (the Nordics as potential next consolidation markets). # Conference Day
+Agenda Companion
+
+8:50–9:20 | BT Group — Allison Kirkby, CEO
+
+Likely to say: Fibre build milestones (18m+ premises), FCF inﬂection approaching (£2bn FY27), cost
+transformation powered by AI, BT as the UK’s trusted national connector, premium EE brand momentum
+Unlikely to say: CityFibre/Sky competitive threat, Openreach pricing pressure in multi-network areas,
+Drahi/Altice shareholder dynamics, detailed workforce reduction numbers
+Sharpest question: “At what ﬁbre penetration level does Openreach’s unit economics become self-
+sustaining — and how does altnet competition in your footprint affect that number?”
+Conference themes addressed: Extending Networks Skyward, Capital Strategies, Monetization,
+Networks Meet AI
+Priority to engage: HIGH — BT is the UK’s anchor infrastructure story and directly relevant to Nordic
+benchmarking
+
+9:25–10:05 | PE Panel — Natalia Akst (Macquarie) + Timm
+Degenhardt (OMERS)
+
+Likely to say: Digital infrastructure as essential, long-duration, inﬂation-linked assets; PE/infrastructure
+capital ﬁlling the investment gap; responsible long-term stewardship; continued opportunity in ﬁbre and
+towers
+Unlikely to say: Concerns about altnet distress or stranded assets; leverage risk in PE-backed portfolios;
+the reality that some early-vintage investments may underperform return targets
+Sharpest question: “Where are you net sellers vs. net buyers in European digital infrastructure right now
+— and what has changed in the last 12 months?”
+Conference themes addressed: Capital Strategies 2.0
+Priority to engage: HIGH — PE perspectives directly relevant to Nordic infrastructure investment
+decisions
+
+10:10–10:40 | Vodafone Three — Max Taylor, CEO
+
+Likely to say: Merger integration on track, £11bn investment commitment, network quality
+improvements, synergy capture beginning, vindication of the consolidation thesis
+Unlikely to say: CMA condition compliance burden, MVNO access uptake, JV governance friction with
+CK Hutchison, any suggestion that synergy timelines are slipping
+Sharpest question: “Which competitor do you think will use the CMA’s MVNO access conditions most
+aggressively — and how are you preparing for that?”
+Conference themes addressed: Extending Networks Skyward, Capital Strategies, Regulation 3.0,
+Technology Game-Changers
+Priority to engage: HIGH — the VodafoneThree merger is the template for any Nordic consolidation
+play
+
+10:45–11:15 | Telecom Italia — Pietro Labriola, CEO & GM
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/CONFERENCE_RESEARCH_PACK.html
+
+3/66
+
+22/03/2026, 17:40
+
+Likely to say: ServCo model vindicated, ﬁnancial ﬂexibility restored, TIM Enterprise as growth engine,
+platform diversiﬁcation (energy/utilities), dividend restoration from 2026, Brazil strength
+Unlikely to say: Italian consumer market structural weakness (Iliad), MSA dependency risk with NetCo,
+Vivendi shareholder dynamics
+Sharpest question: “Two years into the ServCo model — what’s the biggest thing you’d do differently
+about the NetCo separation if you could do it again?”
+Conference themes addressed: Capital Strategies 2.0, Monetization Re-Visited
+Priority to engage: HIGH — the NetCo/ServCo model is the most transformative restructuring in
+European telecom and directly relevant to any operator considering infrastructure separation
+
+11:20–11:50 | Deutsche GigaNetz — Mirko Jerrentrup, CFO
+
+Likely to say: Successful €300m ﬁnancing, EIB conﬁdence, execution quality, open access philosophy,
+Germany needs more ﬁbre investment, cooperative approach with municipalities
+Unlikely to say: German overbuild concerns, potential for market consolidation affecting DGN,
+competition from Deutsche Telekom’s vastly larger ﬁbre build
+Sharpest question: “With 200+ ﬁbre builders in Germany and only 10% adoption, how many of those
+builders will exist in 2030?”
+Conference themes addressed: Capital Strategies 2.0, Regulation 3.0
+Priority to engage: MEDIUM — relevant for German market context and altnet ﬁnancing, less directly
+applicable to Nordic operations
+
+12:50–1:30 | UK Fiber Panel — Nick Dunn (CityFibre CFO), Graeme
+Oxby (Community Fibre CEO), Jeremy Chelot (Netomnia CEO)
+
+Likely to say: UK ﬁbre revolution succeeding, competitive infrastructure driving investment and
+consumer choice, CityFibre’s penetration growth and M&A ambitions, Netomnia’s strategic logic for
+VMO2 sale, Community Fibre’s London leadership
+Unlikely to say: Proﬁtability timelines are uncertain for sub-scale altnets, PE exit pressure, the risk that
+overbuild creates stranded assets in some areas
+Sharpest question: “For each of you: at current penetration rates and build costs, what is the realistic
+timeline to breakeven cash ﬂow — and what needs to be true for that to work?”
+Conference themes addressed: Capital Strategies 2.0, Regulation 3.0
+Priority to engage: MEDIUM — UK altnet dynamics are fascinating but less directly transferable to
+Nordic ﬁbre markets (which are already 70%+ ﬁbre)
+
+1:35–2:05 | Proximus — Stijn Bijnens (CEO) + Nicolas Gaertner (CFO
+a.i.)
+
+Likely to say: Amplify (domestic execution, ﬁbre, converged bundles) + Elevate (global digital
+communications growth), multi-brand strategy, AI-driven efﬁciency, stable domestic EBITDA, disciplined
+capital allocation
+Unlikely to say: Global division’s path to recovery is uncertain, Flanders network sharing with Telenet
+may stall, new CEO still establishing strategic authority
+Sharpest question: “Stijn, you came from Cegeka — an ICT company. What is the single most surprising
+thing about running a telco vs. running a tech company?”
+Conference themes addressed: Monetization, Cloud-Native Transformation, Networks Meet AI
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/CONFERENCE_RESEARCH_PACK.html
+
+4/66
+
+22/03/2026, 17:40
+
+Priority to engage: HIGH — Proximus is the closest peer company to Nordic telcos (similar market
+maturity, state ownership, multi-brand strategy) and Bijnens’s tech-ﬁrst perspective is unique
+
+2:10–2:40 | DG-Comp — Marc Zedler, Deputy Head of Unit
+
+Likely to say: Framework-level commentary on how DG-Comp assesses telecom mergers, importance of
+consumer welfare and investment incentives, references to the evolving competitive landscape, careful
+neutrality on speciﬁc markets
+Unlikely to say: Any forward-looking signal on speciﬁc pending or potential deals, admission that past
+competition enforcement contributed to European telecom underinvestment
+Sharpest question: “In your assessment framework, how do you weigh a 10-year network investment
+commitment against a modeled 5% consumer price increase — is there a methodology, or is it judgment?”
+Conference themes addressed: Regulation 3.0
+Priority to engage: HIGH — this is the single most important session for anyone interested in European
+telecom M&A
+
+3:00–3:30 | Liberty Global — Mike Fries, CEO
+
+Likely to say: Conglomerate discount is irrational, asset portfolio worth $12bn+ vs. $3.75bn market cap,
+Sunrise spin-off as proof of value, VMO2 returning to growth, aggressive buybacks, “one or more”
+additional transactions coming
+Unlikely to say: VMO2’s broadband losses and competitive challenges, timeline for closing the discount,
+any speciﬁc transaction plans
+Sharpest question: “Mike, you’ve been a public company CEO for 20 years with this discount. At what
+point do you conclude that the public market structure is the problem — and take Liberty private?”
+Conference themes addressed: Capital Strategies 2.0, Extending Networks Skyward
+Priority to engage: MEDIUM — fascinating capital structure story but less directly relevant to Nordic
+operations unless exploring JV or partnership models
+
+3:35–4:15 | Cellnex — Raimon Trias, CFO
+
+Likely to say: 2025 guidance delivered, 2027 targets reafﬁrmed, shareholder returns ahead of plan (€1bn
+buyback + €500m dividend + €300m additional buyback), investment grade stability, organic growth
+drivers (co-location, contract extensions, new services)
+Unlikely to say: Concerns about anchor tenant renewal pricing, the challenge of sustaining organic growth
+without acquisitions, any M&A plans
+Sharpest question: “With tenant contract renewals coming up over the next 5 years, how conﬁdent are
+you that escalators will hold — and what’s your plan if operators push back?”
+Conference themes addressed: Capital Strategies 2.0, Technology Game-Changers
+Priority to engage: MEDIUM — relevant for tower/infrastructure perspective; less directly relevant
+unless considering tower strategy
+
+4:20–4:50 | A1 — Christian Laque, Senior Director of Technology
+
+Likely to say: Network modernization progress across Austria and CEE, AI-driven network optimization
+results, 5G deployment across diverse markets, technology choices and vendor strategy
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/CONFERENCE_RESEARCH_PACK.html
+
+5/66
+
+22/03/2026, 17:40
+
+Unlikely to say: Speciﬁc capex allocations across markets, competitive challenges from Magenta (DT)
+and Drei (CK Hutchison) in Austria, Belarus operations
+Sharpest question: “What has been the measurable ROI from AI in your network operations — not
+projections, but actual cost savings or performance improvements you can quantify?”
+Conference themes addressed: Networks Meet AI, Cloud-Native Transformation, Technology Game-
+Changers
+Priority to engage: MEDIUM — useful technology perspective from a mid-sized multi-market operator;
+relevant comparisons to Nordic technology strategies
+
+4:55–5:25 | IB Panel — Owain Parry (PJT Partners) + Adil
+Benchakroune (UBS)
+
+Likely to say: M&A pipeline is building, ﬁnancing conditions improving, regulatory barriers lower than in
+a decade, speciﬁc deal structures that work (JVs, carve-outs, conditional mergers), valuation trends
+Unlikely to say: Speciﬁc mandates or advisory relationships, names of parties in ongoing discussions,
+candid assessment of deals that should happen but won’t
+Sharpest question: “Forget the pipeline you can talk about publicly — what is the one deal that everyone
+in this room wants but nobody can make work, and why?”
+Conference themes addressed: Capital Strategies 2.0, Regulation 3.0
+Priority to engage: HIGH — investment bankers have the broadest view of deal ﬂow and can provide
+insight into Nordic M&A appetite
+
+5:30–6:00 | BCG Perspectives — Michael Breitenstein + Michael
+Steiger
+
+Likely to say: Synthesized industry framework, proprietary data on AI adoption / B2B growth / operator
+performance segmentation, forward-looking view on industry structure, capital model evolution,
+technology transformation benchmarks
+Unlikely to say: Client-speciﬁc data, anything negative about speciﬁc conference attendees/companies
+Sharpest question: “Across your global telecom client base, what is the single biggest gap between
+management ambition and execution reality — and what do the leaders do differently?”
+Conference themes addressed: All 7 themes
+Priority to engage: HIGH — BCG’s closing synthesis will frame the industry narrative; engaging with
+Breitenstein and Steiger afterward will provide valuable analytical perspective # Top 10 Hallway Topics
+— NSR/BCG Conference 2026
+
+1. “Which market is next for mobile consolidation?”
+
+The Vodafone-Three precedent has opened the ﬂoodgates for speculation. Goldman Sachs identiﬁes Italy,
+Sweden, Denmark, and Germany as the most likely next markets. The Draghi Report provides political cover;
+DG-Comp’s evolving stance provides regulatory runway. But ﬁnancing, political will, and competitive dynamics
+vary enormously by market. Every PE investor and operator CEO in the room has a view.
+
+Opener: “With Vodafone-Three done, I’m curious — where do you think the next deal happens, and who makes
+the ﬁrst move?”
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/CONFERENCE_RESEARCH_PACK.html
+
+6/66
+
+22/03/2026, 17:40
+
+2. “Is the UK altnet market heading for a shakeout?”
+
+CityFibre at 4.7m premises and growing, VMO2 acquiring Netomnia, and dozens of sub-scale builders
+struggling to reach proﬁtability. Analysts predict the UK altnet sector is entering “its most dangerous phase.” The
+question is how many altnets survive as independents vs. being absorbed, and whether the shakeout reprices the
+whole sector.
+
+Opener: “I saw the ISPreview analysis calling this the altnets’ most dangerous phase. Do you agree — and who
+are the survivors?”
+
+3. “AI in telecom: where’s the actual ROI?”
+
+Every operator has an AI strategy; BCG says 15–25% opex reduction is possible. But the gap between pilot and
+production remains wide. The conference will push for speciﬁcity — what has been deployed at scale, what are
+the cash savings, and what’s the realistic timeline for AI to materially impact margins?
+
+Opener: “Everyone talks about AI saving 15–25% of opex. In your experience, what’s the real number so far —
+and where has it actually worked?”
+
+4. “BT’s free cash ﬂow inﬂection — real or aspirational?”
+
+BT’s £2bn FCF FY27 target is the most closely watched milestone in European telecom. If achieved, it validates
+the thesis that infrastructure investment can generate real returns. If missed, it validates the bears who say UK
+ﬁbre competition makes returns structurally challenging. Kirkby’s session will be parsed for conﬁdence signals.
+
+Opener: “Do you believe BT will hit £2bn FCF in FY27? What could go wrong?”
+
+5. “Liberty Global’s discount — how does it close?”
+
+Mike Fries says $3.75bn market cap on $12bn+ in assets is irrational. He’s buying back shares and signaling
+more transactions. The debate: is this a genuine value opportunity or a perennial value trap? And is a take-private
+the endgame?
+
+Opener: “Liberty’s been trading at a discount for years. What’s it going to take to ﬁnally close the gap —
+another spin-off, a take-private, or something else?”
+
+6. “What is TIM’s identity post-NetCo?”
+
+Labriola has transformed TIM from a debt-laden integrated operator to an asset-light ServCo. But the question
+remains: can a telco without a ﬁxed network sustain competitive differentiation? The energy/utility platform play
+is bold but unproven. TIM’s success or failure will inﬂuence every operator considering infrastructure separation.
+
+Opener: “Pietro’s selling energy to SMEs now. Is TIM still a telco — or is it becoming something else
+entirely?”
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/CONFERENCE_RESEARCH_PACK.html
+
+7/66
+
+22/03/2026, 17:40
+
+7. “Cellnex: done buying, but what’s the next growth engine?”
+
+Cellnex has shifted from Europe’s most aggressive tower acquirer to a disciplined capital returner. The market
+loves it — but the question is whether organic growth (4–5% revenue CAGR from co-location and new services)
+can sustain the valuation without acquisitions. The tower business model’s long-term resilience in a
+consolidating operator market is also under debate.
+
+Opener: “Cellnex is returning capital ahead of plan, which is great. But with the acquisition engine off, where
+does growth come from — and is 4–5% organic enough?”
+
+8. “6 GHz spectrum: mobile or Wi-Fi?”
+
+This is the spectrum policy debate of the decade. Mobile operators want it for 5G-Advanced/6G; the tech
+industry wants it for Wi-Fi 7/8. The resolution will be political, determined by WRC-27 and national
+implementation. European regulators are tentatively favoring mobile, but the Wi-Fi camp has strong arguments
+about indoor coverage and consumer usage patterns.
+
+Opener: “Where do you come out on 6 GHz — mobile or Wi-Fi? And is the industry over-stating spectrum
+scarcity to build a case for 6G?”
+
+9. “The Draghi effect — real change or just talk?”
+
+Mario Draghi’s competitiveness report called for telecom consolidation, deregulation, and investment incentives.
+A year and a half later, the question is whether it has produced tangible policy change or remains a political
+document with limited operational impact. DG-Comp’s framework hasn’t fundamentally changed; national
+regulators move at their own pace.
+
+Opener: “Is the Draghi Report actually changing anything in practice, or is it the telecom equivalent of thoughts
+and prayers?”
+
+10. “Nordic consolidation — is it ﬁnally going to happen?”
+
+Goldman Sachs has identiﬁed Sweden and Denmark as among the most likely next consolidation markets. The
+Nordic regulatory environment may be more conducive than the adversarial UK process. But the 2015
+TeliaSonera-Telenor Denmark failure casts a long shadow. With the Draghi-era political support and the
+VodafoneThree precedent, the conditions may ﬁnally be right — but execution remains complex.
+
+Opener: “As a Nordic operator, I’m watching the consolidation debate closely. Do you think Sweden or
+Denmark moves ﬁrst — and what would trigger it?” # Theme 1: Extending Networks Skyward — Future of
+Mobile Connectivity in the Age of Convergence
+
+Executive Summary
+
+Why This Matters Now
+
+European mobile operators face a pivotal moment: 5G Standalone rollout is ﬁnally accelerating, but
+monetization remains elusive while trafﬁc grows 20%+ annually. Simultaneously, ﬁxed-mobile convergence
+(FMC) is reshaping competitive dynamics as VodafoneThree launches the UK’s largest combined mobile
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/CONFERENCE_RESEARCH_PACK.html
+
+8/66
+
+22/03/2026, 17:40
+
+network and satellite-to-device connectivity moves from concept to commercial reality. The operators who
+master the convergence of terrestrial, satellite, and ﬁxed networks will deﬁne European connectivity for the next
+decade.
+
+Key Facts
+
+5G SA coverage in Europe reached only ~30% of EU population by end 2025, signiﬁcantly lagging
+US and Asia deployments (EU Commission, 2025)
+VodafoneThree has committed £11bn over 10 years to build one of Europe’s most advanced 5G
+networks following the £16.5bn merger completed May 2025 (Vodafone, 2025)
+European mobile data trafﬁc is projected to grow at ~20% CAGR through 2030, driven by video,
+IoT, and AI applications (Ericsson Mobility Report, 2025)
+FWA (Fixed Wireless Access) connections across Europe grew ~35% YoY in 2025, making it the
+fastest-growing broadband segment (GSMA, 2025)
+Virgin Media O2 signed a deal with Starlink for Direct-to-Cell satellite service (“O2 Satellite”)
+launching from early 2026, extending coverage into rural not-spots (VMO2, 2025)
+
+High-Conﬁdence Trends
+
+[HIGH CONFIDENCE] 5G SA investment will accelerate across Western Europe in 2026–2027 as
+operators shift capex priority from ﬁbre to mobile core upgrades, driven by enterprise use cases and
+network slicing requirements
+[HIGH CONFIDENCE] Fixed-mobile convergence will become the default competitive strategy for
+integrated operators, with converged ARPU premiums of 15–25% creating winner-take-most dynamics in
+multi-play markets
+[HIGH CONFIDENCE] Non-terrestrial networks (NTN) — satellite-to-device, HAPS — will move from
+trials to commercial supplements by 2027, with Starlink, AST SpaceMobile, and operator partnerships
+leading deployment
+
+Forward-Looking Implications — 12–36 Months
+
+VodafoneThree’s network integration will become the deﬁning test case for whether 4-to-3 mobile
+consolidation can genuinely unlock investment capacity, inﬂuencing regulatory appetite in other European
+markets
+Operators without a converged ﬁxed-mobile offer will face structural disadvantage, accelerating M&A
+pressure on mobile-only or ﬁxed-only players in Nordics, Germany, and Italy
+The 6 GHz spectrum allocation debate will intensify as a proxy ﬁght between mobile operators (who want
+more mid-band spectrum for 5G-Advanced/6G) and the tech industry (who want it for Wi-Fi 7)
+
+Discussion Angles for the Conference
+
+“Max Taylor: Now that VodafoneThree has launched, what has surprised you most about the integration —
+and what’s taking longer than expected on the network side?”
+“How realistic is satellite-to-device as a substitute for rural mobile investment, versus a complement? Who
+pays — the operator or the satellite provider?”
+“For PE investors: does the convergence trend make standalone mobile assets more or less attractive as
+targets?”
+
+Theme 1: Extending Networks Skyward — Deep
+Analysis
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/CONFERENCE_RESEARCH_PACK.html
+
+9/66
+
+22/03/2026, 17:40
+
+Market Context: 2021–2026 Retrospective
+
+The European mobile connectivity landscape has undergone structural transformation since 2021. The initial
+promise of 5G — heralded as a €620bn GDP contribution opportunity by the GSMA — has collided with the
+reality of slow SA rollout, consumer indifference to speed upgrades, and persistent pricing pressure from four-
+player mobile markets.
+
+By end-2025, 5G SA remained commercially available in fewer than half of EU member states, with most
+deployments still running in Non-Standalone (NSA) mode piggybacking on 4G cores (GSMA, 2025). This
+contrasts sharply with South Korea, where 5G SA reached 50%+ population coverage by 2024, and the US,
+where T-Mobile’s SA network covers 300m+ people. The investment gap is real: European mobile capex-to-
+revenue ratios have trended around 15–17%, compared to 20%+ in leading Asian markets (ETNO, 2025).
+
+Meanwhile, the convergence narrative has accelerated. Fixed-mobile convergence, once a niche strategy pursued
+by operators like Orange and KPN, has become the central competitive framework. The logic is simple:
+converged customers churn 30–40% less and generate 15–25% higher ARPU than single-play customers (BCG,
+2024). This economic logic drove both the Vodafone-Three UK merger and Proximus’s ﬁbre-mobile bundling
+strategy in Belgium.
+
+The emergence of non-terrestrial networks adds another dimension. Starlink’s Direct-to-Cell technology, AST
+SpaceMobile’s commercial trials, and operator partnerships (notably VMO2-Starlink and T-Mobile US–SpaceX)
+are creating a viable path to ubiquitous coverage that bypasses traditional rural network economics.
+
+Structural Dynamics: What Is Driving Change
+
+Technology push: 5G SA enables network slicing, low-latency enterprise applications, and edge computing —
+none of which work on NSA deployments. The industry is ﬁnally reaching the technical threshold where 5G-
+speciﬁc use cases become deliverable. AI-RAN integration (e.g., Nokia-Nvidia’s $1bn partnership) is
+accelerating network intelligence, promising 20–30% improvements in spectral efﬁciency and energy
+optimization (Telecoms.com, 2026).
+
+Capital requirements: The dual investment cycle — simultaneous ﬁbre and 5G SA builds — is straining
+operator balance sheets. BT’s capex-to-sales ratio remains ~24% as it builds to 25m ﬁbre premises while
+upgrading mobile (BT, FY25). VodafoneThree has committed to £1.3bn capex in its ﬁrst year alone (Vodafone,
+2025). This capital intensity is pushing operators toward network sharing, infrastructure spin-offs, and
+partnership models.
+
+Regulatory enablement: The Draghi Report’s call for consolidation and investment-friendly regulation is
+beginning to shift the policy landscape. DG-Comp’s approval of the Vodafone-Three merger (with conditions)
+set a precedent for future 4-to-3 deals. Ofcom’s approach to ﬁbre regulation — allowing pricing ﬂexibility for
+Openreach while maintaining access obligations — provides a model for balancing investment and competition.
+
+Demand evolution: Consumer usage is migrating to video-heavy, always-on patterns — but increasingly on Wi-
+Fi, not mobile networks. The counterargument that “most smartphone data runs on Wi-Fi” undermines some of
+the case for massive mid-band spectrum allocations. Enterprise demand, particularly for private 5G networks
+(800+ deployed or planned across Europe by end 2023, per ABI Research), represents the more defensible
+growth vector.
+
+Company Evidence: Conference Speaker Positioning
+
+BT Group (Allison Kirkby, CEO): BT is the UK’s clearest convergence play. With 18m+ FTTP premises
+passed and a 5G network covering ~50% of the UK population, Kirkby’s strategy is to drive ﬁbre take-up while
+building EE into the UK’s premium mobile-ﬁrst brand. BT has also divested international assets and its data
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/CONFERENCE_RESEARCH_PACK.html
+
+10/66
+
+22/03/2026, 17:40
+
+centre portfolio to focus capital on UK infrastructure. Expect Kirkby to emphasize the “inﬂection point” toward
+£2bn free cash ﬂow by FY27 and BT’s role as the national connectivity backbone.
+
+VodafoneThree (Max Taylor, CEO): Taylor leads the most signiﬁcant mobile merger in UK history. The £11bn
+network investment plan, combined with ~27m mobile customers, positions VodafoneThree as the UK’s largest
+mobile operator. The immediate priority is network integration — combining spectrum holdings,
+decommissioning duplicate sites, and delivering the promised 5G SA upgrade. Taylor will likely frame this as a
+vindication of the consolidation thesis: scale enables investment.
+
+A1 (Christian Laque, Senior Director of Technology): A1 Group operates across CEE and Austria with a
+multi-play strategy. Laque’s technology focus suggests emphasis on network modernization, potentially
+including Open RAN trials and AI-driven network management. A1’s convergence strategy in Austria provides a
+different lens from the UK-centric discussions.
+
+Liberty Global (Mike Fries, CEO): Liberty Global’s VMO2 joint venture is the UK’s primary cable-based
+convergence challenger to BT. The VMO2-Starlink satellite partnership for “O2 Satellite” directly addresses the
+“extending networks skyward” theme. However, VMO2 has paused its NetCo stake sale process and is
+navigating broadband net losses in a competitive UK market.
+
+Inference & Outlook
+
+[HIGH CONFIDENCE] The next 12 months will see a decisive acceleration in 5G SA deployments across
+Western Europe, led by VodafoneThree (UK), Deutsche Telekom (Germany), and Orange (France). The catalyst
+is enterprise demand for network slicing, not consumer speed upgrades. Operators that delay SA investment will
+ﬁnd themselves locked out of the most valuable B2B connectivity contracts.
+
+[MID CONFIDENCE] The 6 GHz spectrum debate will reach a decision point at WRC-27, but European
+regulators will likely adopt a compromise: lower 6 GHz for mobile (6.425–7.125 GHz) and upper 6 GHz
+reserved for further study. This split will satisfy neither camp fully but will provide enough mid-band spectrum
+to sustain 5G-Advanced deployments.
+
+[MID CONFIDENCE] Satellite-to-device will reach 5–10m European users by 2028, primarily for emergency
+connectivity and basic messaging in coverage gaps. It will not replace terrestrial networks for data-intensive use
+but will reshape rural coverage economics and potentially reduce political pressure for costly rural mobile
+buildouts.
+
+[LOW CONFIDENCE] AI-RAN technology will achieve commercial deployment at scale in Europe by 2027–
+2028, driven by the Nokia-Nvidia partnership and Ericsson’s competing offerings. However, operator adoption
+will be cautious given the integration complexity and the risk of vendor lock-in.
+
+Nordic/UK Lens
+
+For Nordic operators, the convergence imperative is acute. Markets like Sweden and Denmark are 4-player
+mobile markets with aggressive pricing pressure, while ﬁbre penetration is already high (>70% in Sweden). The
+growth opportunity lies in converged enterprise services and private 5G, not consumer mobile. The potential for
+in-market mobile consolidation in the Nordics — ﬂagged by Goldman Sachs (2024) as a likely consolidation
+market — makes this theme directly relevant to a Nordic transformation leader.
+
+In the UK, the VodafoneThree merger has reshaped the competitive landscape from 4 to 3 mobile players, with
+BT/EE, VodafoneThree, and VMO2 now competing as converged operators. Sky’s entry as an aggressive ﬁbre
+reseller (via CityFibre and Openreach) adds a fourth force. The key question is whether the CMA’s conditions on
+VodafoneThree (including MVNO access remedies) will genuinely maintain competitive intensity or slowly
+erode.
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/CONFERENCE_RESEARCH_PACK.html
+
+11/66
+
+22/03/2026, 17:40
+
+Recommended Questions & Discussion Starters
+
+1. “For operators still running 5G NSA: what is the realistic timeline for SA commercial launch, and what
+
+enterprise revenue can you quantiﬁably tie to SA capabilities that NSA cannot deliver?”
+
+2. “How do you model the economics of satellite-to-device — as a substitute for rural mobile investment, or
+
+as an incremental cost? Who bears the margin?”
+
+3. “Is 6 GHz allocation for mobile genuinely necessary for 5G-Advanced, or is the industry over-stating
+
+spectrum scarcity to build a regulatory argument for 6G?”
+
+4. “For Max Taylor: with £11bn committed, what are the key milestones that would signal the
+
+VodafoneThree network integration is on track vs. falling behind?”
+
+5. “Does convergence inevitably create a two-tier market — converged national champions vs. subscale
+
+challengers — and is that a good thing for consumers?” # Theme 2: Capital Strategies 2.0 — Ownership
+Structures, Optimization, and Partnerships
+
+Executive Summary
+
+Why This Matters Now
+
+The European telecom sector’s capital structure is being fundamentally rewired. Over €80bn in infrastructure
+assets have changed hands since 2020 — from TIM’s €22bn NetCo sale to KKR, to tower spin-offs, ﬁbre carve-
+outs, and data centre disposals. Private equity and infrastructure funds now own or co-own a signiﬁcant share of
+Europe’s digital backbone. The question is no longer whether operators should restructure their capital — it’s
+whether the current wave of ﬁnancial engineering is creating sustainable businesses or just redistributing risk.
+
+Key Facts
+
+TIM completed its NetCo sale to KKR-led consortium for €22bn in July 2024, reducing net debt by
+€13.8bn and transforming into an asset-light ServCo (TIM, 2024)
+BT Group’s net debt stands at £20.9bn (H1 FY26) with a target of £2bn normalised free cash ﬂow by
+FY27 and £3bn by end of decade (BT, November 2025)
+Cellnex executed €1bn in share buybacks in 2025, started a €500m dividend in 2026, and initiated an
+additional €300m buyback — returning capital 1 year ahead of plan (Cellnex, February 2026)
+UK altnet sector has absorbed ~£15bn+ in PE/infrastructure capital since 2020, with CityFibre alone
+backed by ~£7.3bn in equity and debt from Antin, Goldman Sachs, Mubadala, and Interogo (CityFibre,
+2025)
+European telecom sector median net debt/EBITDA stands at ~3.2x, with PE-backed infrastructure
+vehicles typically levered at 5–7x (S&P, 2025)
+
+High-Conﬁdence Trends
+
+[HIGH CONFIDENCE] The infrastructure separation model (NetCo/ServCo) will be adopted by at least
+1–2 additional European operators in the next 24 months, following TIM’s blueprint. Candidates include
+operators with high leverage and underperforming ﬁxed assets
+[HIGH CONFIDENCE] PE exits from early-vintage digital infrastructure investments (2018–2021) will
+accelerate in 2026–2027, as funds approach natural holding period limits. Expect IPOs, secondary sales,
+and portfolio recombinations
+[HIGH CONFIDENCE] Capital returns to shareholders — buybacks and dividends — will become the
+dominant narrative for towercos and operators that have completed deleveraging, led by Cellnex, Deutsche
+Telekom, and BT from FY27
+
+Forward-Looking Implications — 12–36 Months
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/CONFERENCE_RESEARCH_PACK.html
+
+12/66
+
+22/03/2026, 17:40
+
+The UK altnet consolidation wave will intensify. CityFibre has stated ambitions to grow from 4.7m to 8–
+12m premises through M&A, while VMO2’s parents are also active acquirers (VMO2 acquired Netomnia,
+2026). Expect 5+ altnet transactions in the next 18 months
+Liberty Global’s “prove it” strategy — following the Sunrise spin-off — will likely produce 1–2 more
+structural transactions (spin-offs, IPOs, or JV restructurings) in the next 12–24 months
+Deutsche GigaNetz’s successful €300m ﬁnancing (August 2025, including EIB and institutional debt)
+signals that German ﬁbre infrastructure can attract long-term capital despite overbuild concerns
+
+Discussion Angles for the Conference
+
+“For the PE panel: at current multiples, where do you see risk-adjusted returns for new telecom
+infrastructure investments — towers, ﬁbre, or data centres?”
+“Is the NetCo/ServCo model sustainable long-term, or does it create a dependency trap where the ServCo
+has no network differentiation and the NetCo has no customer relationship?”
+“For Cellnex: now that you’re returning capital ahead of plan, what does the next acquisition cycle look
+like — or are you done buying?”
+
+Theme 2: Capital Strategies 2.0 — Deep Analysis
+
+Market Context: 2021–2026 Retrospective
+
+European telecom capital structures have undergone a once-in-a-generation transformation. Between 2021 and
+2026, the sector shifted from vertically integrated, heavily leveraged operators to a more disaggregated model
+where infrastructure assets are increasingly owned by specialized vehicles backed by PE, pension funds, and
+sovereign wealth funds.
+
+The towerco model pioneered by American Tower and Crown Castle was replicated in Europe by Cellnex, which
+grew from ~10,000 sites at its 2015 IPO to 100,000+ sites by 2023 through acquisitive growth funded by equity
+raises and debt. By 2025, Cellnex pivoted from acquisition to optimization, executing €1bn in buybacks and
+initiating dividends ahead of schedule (Cellnex, 2026). This lifecycle — buy, integrate, deleverage, return capital
+— is now the template for infrastructure investors.
+
+TIM’s NetCo sale was the sector’s most transformative deal. The €22bn sale to KKR’s Optics BidCo consortium
+reduced TIM’s net debt by €13.8bn and allowed CEO Pietro Labriola to declare that the company had “restored
+strategic and ﬁnancial ﬂexibility.” The 15-year MSA with NetCo provides revenue visibility while freeing TIM
+to pursue higher-margin digital services. However, TIM’s domestic consumer revenue remains under pressure
+from Iliad’s aggressive pricing, and the ServCo model’s long-term proﬁtability is unproven.
+
+In the UK, the altnet investment boom saw ~£15bn+ ﬂow into alternative ﬁbre builders between 2020 and 2024.
+CityFibre, backed by Antin, Goldman Sachs, Mubadala, and Interogo, has built to 4.7m premises and aims for 8–
+12m through organic build and M&A. However, the sector is entering what analysts call its “most dangerous
+phase” — penetration rates at many altnets remain at ~15%, well below the 30–40% needed for standalone
+proﬁtability (ISPreview, 2026). Consolidation is inevitable.
+
+Structural Dynamics
+
+The PE ownership shift: Infrastructure funds (Macquarie, OMERS, Antin, Brookﬁeld, DigitalBridge) have
+replaced traditional equity investors as the marginal buyers of European telecom assets. Their longer investment
+horizons (10–15 years vs. PE’s typical 5–7) and lower return requirements (8–12% IRR vs. 15–20%+) have
+enabled higher acquisition multiples and more patient capital deployment. Macquarie alone has invested in
+towers, ﬁbre, and data centres across 10+ European markets.
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/CONFERENCE_RESEARCH_PACK.html
+
+13/66
+
+22/03/2026, 17:40
+
+The leverage question: PE-backed infrastructure vehicles typically carry 5–7x net debt/EBITDA, compared to
+2.5–3.5x for listed operators. This is generally sustainable given the long-duration, contracted nature of
+infrastructure revenue streams. However, the rising rate environment of 2022–2024 exposed vulnerabilities —
+some altnet ﬁnancings were restructured, and Cellnex’s rating trajectory was closely watched until it achieved
+BBB- from S&P. The key risk is not absolute leverage but the mismatch between construction-phase cash burn
+and long-dated revenue ramp.
+
+Network sharing and partnerships: A middle ground between full ownership and full separation is emerging.
+Proximus and Telenet/Liberty Global are exploring ﬁxed network sharing in Flanders. VMO2 paused its own
+NetCo stake sale to “align with JV partner” Telefónica’s strategic review. CTIL (the BT/VMO2 passive tower
+JV) continues to operate. These partnership models preserve operational optionality while sharing capital burden.
+
+Company Evidence
+
+Cellnex (Raimon Trias, CFO): Cellnex is the poster child for the infrastructure capital cycle. Having achieved
+investment grade (BBB- S&P), executed disposals (Austria, Ireland, Nordics minority), and delivered 2025
+guidance, it is now in cash-return mode: €500m dividend in 2026, €300m additional buyback, and 2027 targets
+reafﬁrmed. Trias will likely emphasize ﬁnancial discipline and organic growth, while carefully managing
+investor expectations for the next phase — which could include selective M&A if valuations become attractive.
+
+PE Panel (Natalia Akst — Macquarie; Timm Degenhardt — OMERS): Macquarie Asset Management is one
+of Europe’s largest infrastructure investors with positions across towers, ﬁbre, and data centres. OMERS
+Infrastructure (pension fund) brings the ultra-long-horizon perspective. Both will likely argue that digital
+infrastructure remains structurally under-invested and that PE/infrastructure capital is ﬁlling a gap that public
+markets cannot. The tension: rising rates and altnet distress suggest the easy money has been made.
+
+Liberty Global (Mike Fries, CEO): Fries has spent 2024–2025 restructuring Liberty Global’s portfolio:
+spinning off Sunrise, pausing the VMO2 NetCo sale, and pursuing aggressive buybacks (up to 10% of shares in
+2025). His stated strategy is to “prove” the value of Liberty’s assets through operational execution rather than
+waiting for market re-rating. This is a capital allocation story: Fries believes the market is dramatically
+undervaluing Liberty’s asset portfolio, with a $3.75bn market cap sitting on $12bn+ in gross asset value.
+
+Deutsche GigaNetz (Mirko Jerrentrup, CFO): Deutsche GigaNetz represents the German altnet story — PE-
+backed (DWS, InfraRed), EIB-ﬁnanced, and building in a market where only ~10% of 43m households have
+active ﬁbre connections. The €300m 2025 ﬁnancing (including EIB credit and new institutional debt) signals
+ongoing investor conﬁdence, but the German market is notoriously fragmented with 200+ ﬁbre builders.
+Jerrentrup’s message will focus on execution quality and the path to positive cash generation.
+
+Inference & Outlook
+
+[HIGH CONFIDENCE] UK altnet consolidation will accelerate sharply in 2026–2027. CityFibre,
+VMO2/nexﬁbre, and potentially Openreach will be the primary consolidators. 3–5 smaller altnets will be
+acquired or merge. The trigger is the combination of PE fund maturity timelines and the economic reality that
+many sub-scale networks cannot achieve standalone proﬁtability.
+
+[MID CONFIDENCE] At least one additional large European operator will pursue an infrastructure separation
+transaction by end-2027. The most likely candidates are operators with high leverage and distinct ﬁxed-line
+assets — potentially in France, Germany, or Scandinavia. The TIM playbook provides a proven template, though
+each market has unique regulatory and structural characteristics.
+
+[MID CONFIDENCE] Tower multiples will compress modestly from the ~22–25x EV/EBITDA range of
+2021–2022 to 18–20x, reﬂecting maturation of the European tower market, anchor tenant contract renewals at
+potentially lower escalators, and the shift from acquisition-driven growth to organic/return-of-capital models.
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/CONFERENCE_RESEARCH_PACK.html
+
+14/66
+
+22/03/2026, 17:40
+
+[LOW CONFIDENCE] A major PE-backed European altnet will enter ﬁnancial restructuring in 2026, most
+likely in the UK or Germany, where overbuild is most acute and penetration ramp has been slowest. This would
+catalyze a repricing of altnet risk and accelerate consolidation.
+
+Nordic/UK Lens
+
+For Nordic operators, the capital strategy question is existential. Telia, Telenor, and Elisa face moderate leverage
+but limited organic growth in mature markets. The Draghi-inspired consolidation narrative creates a potential
+path to value through in-market mobile mergers (Sweden, Denmark), but executing these deals requires
+regulatory alignment that has historically been elusive in the Nordics.
+
+In the UK, the capital landscape is uniquely complex: BT/Openreach building to 25m premises, CityFibre
+targeting 8–12m, VMO2/nexﬁbre at ~2.5m, and dozens of smaller altnets. The question is whether this level of
+infrastructure competition is sustainable or whether the UK is heading toward a ﬁbre infrastructure duopoly
+(Openreach + CityFibre/consolidator) with a long tail of niche players.
+
+Recommended Questions & Discussion Starters
+
+1. “For PE investors: with rate cuts now underway and infrastructure valuations adjusting, are you net buyers
+
+or net sellers of European telecom infrastructure in 2026?”
+
+2. “Is the TIM NetCo/ServCo model replicable outside Italy, or were TIM’s unique circumstances (extreme
+
+leverage, political pressure, KKR appetite) what made it work?”
+
+3. “CityFibre’s consolidation ambitions suggest 8–12m premises. At what penetration rate does a
+
+consolidated CityFibre become a credible third national infrastructure platform alongside Openreach and
+VMO2?”
+
+4. “For Cellnex: with €1bn+ in annual shareholder returns, how do you maintain organic growth at 5%+
+
+without acquisitions?”
+
+5. “Is the European digital infrastructure investment boom of 2020–2024 creating a value trap? Which assets
+are worth owning in 2030, and which are stranded?” # Theme 3: Monetization Re-Visited — Where Is the
+Next Leg of Organic Growth?
+
+Executive Summary
+
+Why This Matters Now
+
+European telecom revenue growth has been structurally capped at 1–2% for a decade, lagging inﬂation and far
+below the hyperscaler peers operators benchmark against. Yet beneath the headline numbers, a divergence is
+emerging: operators pursuing B2B digital services, energy retailing, converged bundles, and network API
+monetization are outgrowing pure-play connectivity providers by 200–400 basis points. The conference arrives
+at a moment when boards and investors are demanding proof that telcos can grow organically — not just cut
+costs or restructure balance sheets.
+
+Key Facts
+
+European telecom service revenue is forecast to grow ~2% in 2026, with EBITDA growth at ~2.5%
+driven by cost rationalization more than top-line expansion (ING, January 2026)
+Digital services now represent ~12% of total European operator revenue, up from ~7% in 2020, with
+B2B cloud, cybersecurity, and IoT as the primary growth vectors (ETNO, 2025)
+TIM’s “Customer Platform” strategy targets €200m cumulative revenue from utility services
+(energy, insurance) for SMEs by 2027 — a diversiﬁcation play beyond connectivity (TIM, February
+2025)
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/CONFERENCE_RESEARCH_PACK.html
+
+15/66
+
+22/03/2026, 17:40
+
+Global telecom service revenue is projected at $1.32tn by 2029, a CAGR of only ~2.8% —
+underscoring the need for adjacency strategies (PwC Global Telecom Outlook, 2025)
+ARPU growth remains the strongest single lever: operators with systematic annual price increases (BT,
+Proximus, Swisscom) consistently outperform those relying on volume (ETNO, 2025)
+
+High-Conﬁdence Trends
+
+[HIGH CONFIDENCE] B2B digital services (cloud, managed security, IoT, SD-WAN) will become the
+primary organic growth engine for European telcos, with the addressable market exceeding €50bn by
+2028 (BCG, 2025)
+[HIGH CONFIDENCE] Systematic annual price increases (“more-for-more” strategies tied to CPI or
+ﬁxed increments) will remain the most reliable ARPU lever in consumer markets, though churn
+management becomes critical
+[HIGH CONFIDENCE] Network API monetization (via GSMA Open Gateway / CAMARA) will move
+from pilot to early commercial revenue in 2026–2027, but contribution to group revenue will remain
+below 1% through 2028
+
+Forward-Looking Implications — 12–36 Months
+
+Operators that have invested in enterprise digital capabilities (TIM Enterprise, BT Business,
+Proximus/BICS) will capture disproportionate value as enterprises accelerate cloud migration and AI
+deployment
+The “platform telco” model — selling connectivity alongside energy, insurance, ﬁnancial products — will
+be tested in 2026 by TIM (Italy), O2 Telefónica (Germany), and others. Success would fundamentally
+reshape the sector’s growth narrative
+FWA will prove a surprisingly strong monetization tool in markets with low ﬁbre penetration, generating
+30–50% higher ARPU than mobile-only by bundling home broadband with mobile plans
+
+Discussion Angles for the Conference
+
+“Pietro Labriola: TIM is selling energy to SMEs — is this the future of telco monetization, or a distraction
+from your core business?”
+“For operators pursuing B2B growth: what is your actual win rate against hyperscalers and system
+integrators in enterprise digital deals?”
+“Is annual CPI-linked price increases a sustainable strategy, or are we one recession away from a
+consumer backlash that forces regulatory intervention?”
+
+Theme 3: Monetization Re-Visited — Deep Analysis
+
+Market Context: 2021–2026 Retrospective
+
+European telecom’s revenue stagnation is one of the sector’s most persistent challenges. Between 2017 and
+2023, aggregate sector revenue in Europe declined in real terms, with nominal growth barely keeping pace with
+inﬂation. The fundamental problem is structural: connectivity is increasingly commoditized, consumer
+willingness-to-pay for speed upgrades is limited, and regulatory frameworks have historically prioritized
+consumer pricing over operator returns.
+
+The period 2023–2025 showed tentative improvement. Systematic price increases — led by BT (CPI + 3.9%),
+Vodafone (CPI-linked), and Proximus (structured annual increases) — delivered 1–3% consumer ARPU growth
+across Western European markets. B2B digital services grew faster, with operators like TIM Enterprise, BT
+Business, and Orange Business reporting mid-to-high single-digit growth in ICT and cloud segments.
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/CONFERENCE_RESEARCH_PACK.html
+
+16/66
+
+22/03/2026, 17:40
+
+However, the revenue mix tells a cautionary tale. Connectivity still accounts for 85–88% of European operator
+revenue (ETNO, 2025). The much-discussed pivot to digital services has been real but slow — after ﬁve years of
+strategic focus, digital services represent just ~12% of revenue. The gap between telecom ambition (“we are a
+technology company”) and reality (“we sell connectivity with some IT services bolted on”) remains wide.
+
+Structural Dynamics
+
+ARPU optimization: The single most impactful monetization lever in consumer markets remains systematic
+pricing. Operators that have implemented annual price increases tied to CPI or ﬁxed increments (e.g., BT’s CPI +
+3.9%, Proximus’s structured increases) have outperformed peers by 100–300bps in revenue growth. The risk is
+competitive: in markets with aggressive value players (Iliad in France/Italy, DIGI in Spain/Portugal), price
+increases can accelerate churn to challengers.
+
+B2B digital services: Enterprise digital spending in Europe is growing at 8–12% annually, driven by cloud
+migration, cybersecurity investment, and AI adoption (McKinsey, 2024). Telcos are positioned to capture a share
+through managed connectivity + cloud bundles, private 5G solutions, and cybersecurity-as-a-service. The
+competitive challenge is real: hyperscalers (AWS, Azure, GCP) and system integrators (Accenture, Capgemini)
+compete for the same enterprise wallet. Telco win rates in pure cloud deals are low (~10–15%), but in integrated
+connectivity-cloud-security bundles targeting SMEs and mid-market, telcos hold a structural advantage (BCG,
+2025).
+
+Platform diversiﬁcation: The most radical monetization play is the “platform telco” — using the customer
+relationship, billing infrastructure, and distribution network to sell non-telecom products. TIM’s entry into
+energy services for SMEs, O2 Telefónica’s banking product (O2 Money), and Proximus’s identity/authentication
+services represent early experiments. The economics are compelling: telcos have 60–80% consumer market
+share, established billing relationships, and trusted brand positions. If even 10% of the customer base adopts an
+adjacent service at €10–20/month, the revenue impact is signiﬁcant.
+
+Network API monetization: The GSMA Open Gateway initiative (CAMARA APIs) enables telcos to expose
+network capabilities (location, identity veriﬁcation, quality-on-demand, number veriﬁcation) to developers and
+enterprises via standardized APIs. By early 2026, 50+ operators globally had committed to Open Gateway. Early
+commercial deployments focus on fraud prevention (SIM swap detection, number veriﬁcation) — high-value,
+low-volume use cases. The long-term vision of network-as-a-platform serving millions of developers remains
+aspirational.
+
+FWA as growth vector: Fixed Wireless Access grew 35%+ in Europe in 2025 (GSMA, 2025), driven by
+operators offering home broadband over 5G in areas with limited ﬁbre. FWA customers generate higher ARPU
+than mobile-only (bundled home + mobile) and represent genuine net-new revenue for mobile operators that
+previously had no ﬁxed broadband product.
+
+Company Evidence
+
+TIM (Pietro Labriola, CEO): TIM’s monetization strategy is the most diversiﬁed at the conference. Post-
+NetCo sale, Labriola is pursuing three vectors: domestic consumer stabilization (ARPU improvement via
+converged bundles and reduced churn), enterprise digital growth (cloud, cybersecurity, IoT via TIM Enterprise),
+and platform diversiﬁcation (energy services for SMEs, targeting €200m cumulative by 2027). TIM’s 2025–
+2027 plan projects 3% CAGR in group revenue and 6–7% CAGR in margins — ambitious for an Italian market
+still pressured by Iliad.
+
+BT Group (Allison Kirkby, CEO): BT’s monetization strategy is infrastructure-led: drive ﬁbre take-up to
+achieve economies of scale, grow EE as a premium mobile brand, and expand BT Business’s enterprise ICT
+portfolio. BT’s UK service revenue guidance of £15.3–15.6bn for FY26 implies ﬂat-to-slight-decline, with
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/CONFERENCE_RESEARCH_PACK.html
+
+17/66
+
+22/03/2026, 17:40
+
+growth expected to accelerate as legacy voice declines abate and ﬁbre economics improve. Kirkby has signaled
+aggressive cost transformation as the bridge to proﬁtable growth.
+
+Proximus (Stijn Bijnens, CEO; Nicolas Gaertner, CFO a.i.): Proximus’s “Amplify” domestic strategy focuses
+on converged bundles, multi-brand architecture (Proximus premium, Scarlet value), and ﬁbre monetization in
+Belgium. The “Elevate” global strategy targets growth in digital communications (BICS) and identity services.
+Proximus reported stable domestic revenue and 1.9% EBITDA growth in 2025, with a target of returning Global
+to EBITDA growth by 2027.
+
+Inference & Outlook
+
+[HIGH CONFIDENCE] B2B will outpace consumer as the primary revenue growth vector for European telcos
+through 2028. Operators with strong enterprise franchises (BT, TIM Enterprise, Orange Business, Deutsche
+Telekom T-Systems) will increasingly differentiate on the ability to bundle connectivity with cloud, security, and
+AI-enablement services.
+
+[MID CONFIDENCE] Network API monetization will generate €200–500m in industry-wide revenue by 2028
+— meaningful as a proof-of-concept but immaterial at group level for large operators. The real value may be
+strategic: APIs increase switching costs and deepen operator relevance in the developer ecosystem.
+
+[MID CONFIDENCE] At least one major European operator will achieve >20% of revenue from non-
+connectivity services by 2028, likely TIM (through energy/platform play) or a Nordic operator (through
+integrated digital services). This would represent a genuine structural shift in the telco business model.
+
+[LOW CONFIDENCE] The “platform telco” model — selling energy, insurance, banking products — will gain
+signiﬁcant traction in 2–3 European markets by 2028. The barriers are execution complexity, regulatory
+requirements for non-telecom products, and the risk of brand dilution. Most operators will remain primarily
+connectivity companies with digital service add-ons.
+
+Nordic/UK Lens
+
+Nordic operators occupy a paradoxical position: among the most digitally advanced populations in Europe
+(85%+ smartphone penetration, 70%+ ﬁbre) but some of the most challenging revenue growth environments.
+Monetization in the Nordics will require either successful enterprise digital expansion (Telia’s cloud play,
+Telenor’s IoT) or in-market consolidation to restore pricing power. The Finnish market (Elisa, Telia, DNA)
+demonstrates that disciplined pricing in a 3-player market can sustain ARPU growth — a model the rest of the
+Nordics aspires to replicate.
+
+In the UK, BT’s pricing power via CPI-linked increases has been the sector’s strongest ARPU lever. However,
+the competitive entry of Sky as a ﬁbre broadband provider (via CityFibre and Openreach) could pressure pricing
+in the mid-market. The VodafoneThree merger should reduce mobile price competition, but CMA conditions
+requiring MVNO access may limit pricing upside.
+
+Recommended Questions & Discussion Starters
+
+1. “When you say ‘B2B digital growth,’ what is your actual competitive advantage against AWS, Azure, and
+
+the big SIs? Where do you win — and where do you consistently lose?”
+
+2. “Are annual CPI-linked price increases a permanent feature of European telecoms, or will they face
+
+regulatory or competitive pushback?”
+
+3. “Network APIs: where are you seeing real commercial traction today — not pilots, but paid transactions at
+
+scale?”
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/CONFERENCE_RESEARCH_PACK.html
+
+18/66
+
+22/03/2026, 17:40
+
+4. “For TIM: selling energy to SMEs is a bold diversiﬁcation. How do you manage the regulatory, brand, and
+
+execution risk of becoming a utility retailer?”
+
+5. “What is the realistic revenue contribution of non-connectivity services for European telcos by 2028 — are
+we talking 5% incremental, or a genuine transformation of the revenue mix?” # Theme 4: Networks Meet
+AI — Scaling GenAI/Gigafactories and Unlocking Automation
+
+Executive Summary
+
+Why This Matters Now
+
+AI is the most over-hyped and under-implemented technology in European telecom. While every operator has
+announced AI strategies and pilot programs, fewer than 20% have embedded AI into core operational processes
+at scale (TM Forum, 2025). Yet the economics are compelling: AI-driven automation can reduce telco opex by
+15–25% over ﬁve years, and the EU’s €20bn InvestAI/Gigafactory program is creating new infrastructure
+demand that telcos are positioned to serve. The question is whether European operators will be AI beneﬁciaries
+— or merely AI-adjacent infrastructure providers.
+
+Key Facts
+
+Global AI-supporting technology spend is projected at $337bn in 2025, rising to $749bn by 2028,
+with two-thirds

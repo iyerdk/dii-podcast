@@ -1,0 +1,848 @@
+Technology, Media & Telecommunications Practice 
+
+The network is the product: 
+How AI can put telco customer 
+experience in focus
+
+With advances in AI, telecom operators can better understand individual 
+customers’ network experience, enabling ROI-maximizing capital allo-
+cation, higher reliability, and better commercial outcomes. 
+
+This article is a collaborative effort by Borja Belda, Sebastian Cubela, Brendan Gaffey, Sebastián González, 
+and Tomás Lajous, representing views from McKinsey’s Technology, Media & Telecommunications Practice.
+
+February 2024
+
+© Getty Images
+
+1
+
+Telecom operators have long managed their 
+networks as a technical asset more than a true 
+product, maximizing network performance without 
+drawing a clear link to customer outcomes. Recent 
+advances in AI and telcos’ data maturity, however, 
+open the door to a new, more sophisticated 
+approach that treats the network as a core product 
+to be managed with the type of sharp focus on 
+customer experience (CX) that is the hallmark 
+of software as a service (SaaS) and other tech 
+providers. As a result, telcos can meet customers’ 
+needs before they are even aware of them. By using 
+AI to derive valuable insights about how customers 
+interact with this product—the network—telcos 
+can conceptualize the specific customer needs 
+that the product fulfills, articulate product success, 
+and translate the resulting business strategies into 
+technical requirements.
+
+These advanced CX measurements can help fuel a 
+series of successes that can combine to build even 
+more wins. For example, AI-driven CX intelligence 
+can help identify customers who are up to five times 
+more likely to churn in response to a poor network 
+experience; it can identify opportunities to reduce 
+capital expenditure by 5 percent to 10 percent; and 
+it can also help generate a 10 percent to 15 percent 
+increase in sales conversion, all of which can further 
+drive up customer experience. 
+
+The limitations of past practices for measuring 
+experience are rooted in the fact that they have been 
+based largely on customer surveys and/or technical 
+KPIs such as capacity or signal strength that 
+engineers believed were most relevant to customers. 
+While effective to a certain extent, these have fallen 
+short. Engineers’ KPIs are a subset of what matters 
+to customers and treat all customers the same 
+regardless of the differences in their needs, while 
+customer surveys rely on subjective memory and 
+sampling rather than objective individual customer 
+insights. These methods also overlook customers’ 
+actual experience, which involves emotional and 
+technical elements that customers may not be aware 
+of, and are disconnected from commercial outcomes.
+
+Until recently, telcos didn’t have much choice, since 
+it has been difficult if not impossible to understand 
+precisely how changes in network performance 
+
+affect individual customers. Without the ability to 
+correlate network actions to customer behavior, 
+they had no way to answer questions such as: If 
+we add a new band in a cell site, would customers 
+appreciate the difference? Will affected customers 
+purchase more or churn less because of that move, 
+or will everything remain the same? These types 
+of questions are very common and answerable in 
+other industries, particularly in SaaS- and app-
+based businesses where the relationship between 
+the product, its use, and the customer is closely 
+monitored. 
+
+Data maturity and advances in AI, however, can 
+now be leveraged to bridge that gap. While staying 
+within the bounds of data and privacy regulations, 
+a telco can begin to understand how specific 
+actions on the network actually affect individual 
+end customers, whether or not customers have 
+perceived those effects, and ultimately to engage 
+in more efficient network management. Some 
+pioneering operators are already moving in 
+that direction. They have developed the ability 
+to discern this relationship and become more 
+efficient in their capital investments while looking 
+for every opportunity to increase both the top and 
+bottom lines. 
+
+In this article, we’ll examine why network customer 
+experience is increasingly important for telcos 
+and why we believe a new approach is necessary; 
+the key elements of such an approach and how 
+multiple telcos are already using it to achieve 
+encouraging results; and what it takes for a telco to 
+begin to use AI in this way.
+
+The growing relevance of CX  
+for telcos
+Today, CX is the key differentiating factor for 
+creating value in telecommunications. Our 
+research shows that 73 percent of senior 
+telco executives see it as a top priority. In our 
+surveys, the same senior telco executives told 
+us that current methods do not provide specific 
+information about what part of the customer’s 
+experience influences their perspective, how to 
+link tactics to variations in CX, or how to associate 
+satisfaction scores with business outcomes. 
+
+The network is the product: How AI can put telco customer experience in focus 
+
+2
+
+The result is that operators lack a granular view of 
+customer experience, to the point that an operator 
+can have the best overall network performance 
+in a given market but not understand that certain 
+customers in that same area are actually having a 
+negative experience.
+
+Existing scores that track network customer 
+satisfaction have several shortcomings. Survey-
+based scores tend to be overly subjective, relying 
+on customer memory and perceptions of what 
+they experienced, and they tend to skew toward 
+negative experiences while overlooking important 
+factors such as the customer’s choice of device or 
+Wi-Fi setup. The data they produce include lagging 
+indicators that cannot offer real-time insights and 
+are based on sampling. Internally developed metrics 
+(such as time above a certain throughput) can also 
+fall short, in that they can be biased to what is easily 
+measured, rather than what actually affects customer 
+decisions. And last, the correlation between those 
+metrics and business outcomes such as churn and 
+growth is limited. All those factors limit the range of 
+applications that a more complete score could offer, 
+particularly in the commercial realm. 
+
+By contrast, a robust, AI-enabled CX score explains 
+commercial outcomes. In software and commercial 
+contexts, CX takes into account emotional, cognitive, 
+sensory, and behavioral factors, as well as brand 
+perceptions, and the effect each of these has on 
+customer behavior and the likelihood that customers 
+return to use a product. In the network context, CX 
+refers to the network performance factors that 
+affect customer behavior. By leveraging detailed 
+network performance information and AI, it is 
+possible to produce highly granular and specific 
+CX measurements, for example, for every single 
+line every day, or even more detailed, every 30 
+minutes. This allows telcos to move from “macro” 
+to “micro” analysis, and tie network performance to 
+specific customer behaviors. For example, rather 
+than assessing the average latency for all customers 
+in a New York City zip code last week, they could 
+determine the latency for an individual customer 
+last Tuesday between 10 and 10:30 a.m., their likely 
+perception of that latency rate, and precisely which 
+interventions make sense from an ROI perspective. 
+
+With this level of precision and objective metrics, 
+telcos can understand better which actions can 
+lead to more positive business outcomes, and 
+thus how to improve customer value management 
+(churn prevention, for example), strengthen 
+network operations (including issue detection and 
+prioritization), and refine capital allocation. At scale, 
+it can also be used more broadly to inform most 
+decision making and transform the network into a 
+key driver of value creation (Exhibit 1).
+
+One telecommunications company was able to use 
+this method of measuring network CX to identify 
+customers 2.2 times more likely to churn than 
+peers with better network experience (Exhibit 2). 
+By combining those network CX measurements 
+with the company’s existing churn model, it 
+was able to improve the overall identification of 
+potential churners and differentiate between 
+those customers with both network issues and 
+commercial problems (such as pricing issues) and 
+those only dealing with major network problems 
+(low churn risk in the churn model, but low network 
+CX measurements) (Exhibit 3). This was extremely 
+relevant because those two profiles call for 
+different actions to prevent future churn. If network 
+performance is good while CX is still poor, then the 
+response needs to be commercial—for example, 
+with discounts or a free 5G mobile phone. If the 
+customer’s commercial experience is good, but the 
+network performance is poor, then a free phone 
+won’t help, and without upgrades to the network, 
+the customer will likely leave. Using the defined, 
+AI-based CX approach, the company succeeded in 
+dropping its network-driven churn rate significantly. 
+In the specific case, the network CX experience was 
+being measured daily, for 100 percent of lines, and 
+an average of 600 RAN sessions per customer line 
+were analyzed. 
+
+Value creation and enhanced  
+decision making
+The many opportunities to leverage improved 
+network CX scores across the telecommunications 
+organization fall into two main categories: network 
+management (including network planning) and 
+commercial management. Within these, the CX 
+scores can be applied to multiple use cases such 
+
+The network is the product: How AI can put telco customer experience in focus
+
+3
+
+Exhibit 1 
+Building effective telecom network CX scores requires addressing five 
+different dimensions. 
+
+Dimension
+
+A good score should be able to…
+
+Example
+
+Level of granularity …provide CX measurements at the level 
+
+required by the use cases to be addressed. 
+Typically two aspects are considered: unit (score 
+per customer, per site, per zip code, etc) and 
+frequency (daily, weekly, monthly). The finer the 
+granularity, the better.
+
+…differentiate those customers who are 
+getting what they expect from the network from 
+those who are not, and connect the negative 
+experience to a specific business outcome 
+(eg, increased customer churn, increased site 
+alarms). Customers with the lowest scores will 
+have different commercial outcomes from those 
+with the highest scores.
+
+…provide a clear explanation of why a 
+customer’s score is what it is, usually leveraging 
+subscores, and what needs to change to trigger 
+improvement.
+
+Correlation with 
+business outcomes
+
+Transparency and 
+interpretability
+
+Sources of insights  …leverage a broad range of information sources 
+
+related exclusively to network performance 
+and combine them to get a holistic picture of 
+the customer interaction with the network. Only 
+KPIs that the operator can modify should be 
+included. For example, capacity is a good score 
+input, while “time spent consuming video” is not, 
+since the operator cannot modify it.
+
+Customer 
+personalization 
+
+…tailor the relevance of the different KPIs to the 
+preferences of the customer and the way they 
+use the services.
+
+CX measurements for every 
+customer line and every site for 
+every day.
+
+30% of clients with the worst 
+experience churn ~3x more than 
+the average, and account for 
+60+% of all churners.
+
+Scores are composed of ~5–7 
+subscores such as reliability, 
+accessibility, capacity, voice, 
+etc, each with clear values and 
+weights.
+
+A best-in-class example would 
+leverage customer-level metrics 
+(aggregated from session-level 
+data) with site-level KPIs and 
+handset-generated data. RAN, 
+backhaul, and core information 
+should also be considered.
+
+Scores for customers who do 
+not have a 5G device should only 
+leverage previous generations 
+of KPIs; similarly, voice 
+KPIs should not be used for 
+customers who only use data.
+
+The network is the product: How AI can put telco customer experience in focus 
+
+4
+
+ 
+Exhibit 2 
+Telco customers with lower network customer experience (CX) scores have a 
+Telco customers with lower network customer experience (CX) scores have 
+higher probability of dropping their provider.
+a higher probability of dropping their provider.
+
+Churn lift¹ (30 days after) vs average AI-enabled CX score,
+results over consumer wireless postpaid population
+
+Churn lift,¹ ratio
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+0–1
+
+1–2
+
+2–3
+
+3–4
+
+4–5
+
+5–6
+
+6–7
+
+7–8
+
+8–9
+
+9–10
+
+AI-enabled CX score, daily average over one month
+
+Distribution, %
+
+38
+
+20
+
+6
+
+27
+
+8
+
+0
+
+0–1
+
+0
+
+1–2
+
+1
+
+2–3
+
+3–4
+
+4–5
+
+5–6
+
+6–7
+
+7–8
+
+AI-enabled CX score, daily average over one month
+
+1
+
+8–9
+
+0
+
+9–10
+
+1Churn in AI-enabled CX score bucket divided by average churn across buckets.
+Source: McKinsey analysis
+
+McKinsey & Company
+
+as churn modeling, capital allocation, energy 
+optimization, or cross-sell and upsell campaign fine-
+tuning, among others. 
+
+Network management. In the network 
+management space, the sophisticated scoring 
+system can help identify not only where CX can be 
+improved to continually create business value but 
+also what precisely needs to be done to make those 
+improvements. Some examples of specific actions 
+include: 
+
+ — Smart capital expenditures and planning 
+
+optimization. To increase the ROI of investments 
+in the network, smart capital planning, or smart 
+
+capital expenditures, can be implemented 
+by leveraging customer experience 
+scores. With a clear understanding of the 
+relationships between network performance 
+and commercial outcomes, allocating 
+capital budgets can advance from educated 
+guesstimates to precise targeting. The results 
+from potential interventions in different areas 
+(with different competitor dynamics) can be 
+estimated more accurately and translate the 
+effect on commercial outcomes. Following this 
+approach, operators can better understand 
+what interventions to take in every site for the 
+capital plan (for example, a MIMO, or multiple-
+input, multiple-output, upgrade to enable more 
+
+The network is the product: How AI can put telco customer experience in focus
+
+5
+
+Exhibit 3 
+AI-enabled network customer experience (CX) data can help enhance telco 
+AI-enabled network customer experience (CX) data can help enhance telco 
+churn models and reduce overall churn.
+churn models and reduce overall churn.
+
+Phone voluntary disconnects in month N (illustrative)
+
+Higher churn
+
+Lower churn
+
+High risk
+
+Churn per churn model score decile, %
+
+Low risk
+
+Total (CX)
+
+Potential churners with a bad network
+experience  unidentified by the churn model
+
+Additional potential churners identified
+thanks to CX score
+
+Clients with high
+probability to churn
+identified both by the
+churn model and CX
+
+Potential churners
+with good network
+experience (eg,
+churn due to pricing)
+
+Bad network
+experience
+
+Churn per
+CX model
+score decile,
+%
+
+Good network
+experience
+
+Total
+(churn model)
+
+Note: Illustrative based on existing case study.
+Source: McKinsey analysis
+
+McKinsey & Company
+
+reliable transmission of data, versus a sector 
+addition) and which sites to prioritize based on 
+the customer impact.  
+
+One telco was able to identify 15 percent of 
+investments within its three-year build-out plan 
+that would achieve a better ROI with retargeting 
+either because its initial plans addressed areas 
+with already high scores, because its proposed 
+solution did not address the driver of the low 
+score, or because the number of customers 
+and amount of revenue affected was too low to 
+warrant the planned investment. 
+
+commercial outcomes in their tool kit, telcos 
+can now assign employees to own the tracking 
+of overall scores and subscores, allowing for 
+improved performance management. For 
+example, operators can understand which 
+areas are more affected by network capacity 
+and which are more sensitive to network 
+reliability (based on customer preferences), 
+or where a voice experience is more relevant 
+than a data experience, and how well they are 
+doing on those dimensions. This knowledge 
+can help inform the actions required to 
+upgrade the network performance of those 
+areas.
+
+ — Network performance management. Having 
+a strong understanding of the customer 
+experience that is being delivered and the 
+drivers behind it can be an unprecedented 
+opportunity for network organizations to speak 
+the same language. This would hopefully put a 
+stop to long-running debates over whether poor 
+commercial outcomes are driven by commercial 
+considerations or network problems. With a 
+single network CX score and clear linkages to 
+
+ — Anomaly detection. Just as telcos routinely 
+monitor alarms and KPIs in the network 
+operations center, they can monitor CX to 
+identify strange events or patterns that could 
+signal critical network faults. Monitoring 
+network CX this way brings two benefits over 
+traditional network monitoring, which consists 
+of alarms for individual network elements 
+and reliance on customer inquiries. First, it 
+
+The network is the product: How AI can put telco customer experience in focus 
+
+6
+
+ 
+helps identify complex, or hidden, faults. 
+Since a network CX score is composed of 
+multiple performance metrics simultaneously 
+(voice and data service, capacity, reliability, 
+et cetera), it is affected by network faults 
+that touch multiple KPIs simultaneously. 
+This enables another layer of refinement to 
+identifying issues. For example, a 10 percent 
+drop in capacity at one site might not appear 
+relevant, but a simultaneous 10 percent drop 
+in all network performance indicators can 
+indicate a major problem.  
+
+The second benefit CX-driven anomaly 
+detection has over traditional network 
+monitoring is that it is capable of pinpointing 
+business-relevant faults. Because CX scores 
+are correlated with business outcomes, a 
+score drop indicates that customers may have 
+cause to churn, contact the call center, or 
+complain on other channels. This can redefine 
+how operators view “network problems” and 
+the criteria to trigger alarms. For instance, a 
+15 percent throughput drop might not even 
+be considered an event to resolve, but if an 
+operator knows that the drop will cause churn 
+probability to double in the area, the need to 
+respond takes on much greater urgency.
+
+ — Targeted outage repair. The impact a network 
+outage has on CX can be used to evaluate 
+the severity of business outcomes stemming 
+from an already identified fault. Such repairs 
+can be integrated into existing processes to 
+change the prioritization of how outages are 
+resolved to minimize the effect on customers’ 
+perceptions of the network. One telecom 
+operator was able to identify a backhaul 
+problem affecting multiple sites by monitoring 
+CX scores that showed trouble before 
+traditional alarms were triggered or specialist 
+teams began to investigate the problem. In this 
+case, because the backhaul was not working 
+properly, customers were not able to connect 
+to the network, but capacity KPIs appeared 
+to be okay, no RAN alarm was triggered, and 
+phones were still connecting. Customers 
+called about the problem, but engineers 
+
+didn’t know the root cause. While some 
+degradation in a fiber link was evident, this 
+was not initially viewed as the problem. Only 
+an AI-enabled CX score could synthesize 
+the sheer volume of metrics required to 
+pinpoint such an issue. When the CX score 
+signaled an issue, engineers were able to 
+drill down into subscores and individual 
+KPIs to identify the specific backhaul 
+problem, as well as its severity (including the 
+number of customers affected). Manually 
+reviewing the vast number of metrics for 
+the various network elements involved in 
+this identification process would have been 
+practically impossible.
+
+ — Energy optimization. By basing energy 
+
+optimization efforts in part on CX scores, 
+telcos can maintain or improve individual 
+customers’ experience of the network while 
+also improving the operator’s overall energy 
+usage. For example, power to a site can 
+be reduced if doing so would not degrade 
+CX, or increased if CX scores indicate a 
+measurable improvement would result. This 
+level of optimization can be augmented 
+further based on the types of customers 
+using the site at a given time and their churn 
+likelihood. 
+
+Commercial management. Opportunities for 
+using customer experience scores to improve 
+commercial management include knowing 
+whether and how to invest in improving the 
+network, deciding which customers should be 
+offered a discount or a new phone to mitigate 
+the effects of poor experience, increasing 
+average revenue per unit (ARPU) at the 
+individual level, growing specific markets, 
+and optimizing commercial operations. Some 
+examples of specific actions are as follows: 
+
+ — Enhanced churn models. As much as 38 
+
+percent of churn is driven by network issues, 
+with customers seeking better data speeds 
+and voice reception.¹ Research has found 
+that in the top half of markets analyzed, 
+where network quality is highest, the lead 
+
+1 “10th Annual US Broadband & Wireless Survey: Early Adopters of Fixed Wireless Are Highly Satisfied; Broadband & Mobile Bundles the New 
+Battleground,” Morgan Stanley,October 13, 2022.
+
+The network is the product: How AI can put telco customer experience in focus
+
+7
+
+ 
+service provider enjoys a 31 percent higher 
+ARPU and 27 percent lower average churn than 
+its peers.² Churn models also can be enhanced 
+with AI-driven CX insights, with targeted churn 
+reduction actions such as promotions, plan 
+changes, and moving customers from prepaid 
+to postpaid. 
+
+ — Cross-sell and upsell advances. It stands 
+
+to reason that customers who enjoy better 
+network experience are more likely to purchase 
+additional products and services. But the 
+network is typically not considered when 
+launching cross-sell and upsell efforts. The 
+failure to take this critical factor into account 
+when launching those efforts not only reduces 
+the effectiveness of those campaigns but 
+might also create a risk: launching a cross-
+sell or upsell effort on customers with poor 
+network experience might backfire and trigger 
+a negative reaction. By integrating CX scores 
+in those marketing processes, these sales 
+initiatives are likely to be more successful.
+
+ — Early intervention on connectivity issues. 
+Individual customers dealing with a poor 
+network experience could be offered femto 
+cells (small, low-power cellular base stations) or 
+mesh units to improve their connectivity. This 
+can achieve three to four times as much churn 
+reduction over more reactive measures based 
+on customer complaints alone. Focusing solely 
+on customer complaints can lead to driving 
+discounts and giveaways while overlooking 
+a full understanding of the root cause of the 
+complaint and long-term resolution. 
+
+ — Proactive client communication and call 
+routing and prioritization. Building on the 
+anomaly detection use case explained 
+earlier, once a customer’s experience drops 
+significantly, the telco has the ability to 
+proactively reach out to the affected users. 
+For example, if a tower is knocked out by an 
+unavoidable event such as an accident or 
+weather, customers could receive a message 
+informing them that service will be diminished 
+temporarily. Alternatively, call center agents 
+
+can use the same information to acknowledge 
+the degradation in service when a customer 
+calls to complain, and thereby save both the 
+customer and the representative the time and 
+frustration of figuring out what the problem is.
+
+ — Device or plan upgrades. Customers could 
+also be proactively offered upgrades if they 
+are still using fourth-generation (4G) LTE 
+devices in areas where fifth-generation (5G) 
+is prevalent. Customers who have 5G devices 
+but 4G LTE plans could be upgraded to a 5G 
+plan.
+
+Getting started 
+As with most data-related endeavors, building a 
+road map for developing improved network CX 
+scores is critical to success. Four key elements 
+are involved: 
+
+Decide use cases. Knowing what you want to 
+do with CX scores will determine what data is 
+needed, so deciding the key use cases where the 
+score will be used is step one. Churn reduction, 
+optimizing capital budget allocation, or optimizing 
+call rerouting are good places to start. The data 
+required will change slightly depending on the 
+use case, as will some modeling design choices 
+(for example, churn-related use cases benefit 
+from a score that helps identify customers 
+experiencing very poor CX, rather than a score 
+that differentiates between middle and high 
+CX, such as might be required by service-level 
+agreements for enterprise or government 
+contracts).
+
+Assess existing performance data. 
+Understanding what network performance 
+data is currently available is also important. The 
+more sophisticated approach to CX scoring has 
+demanding data requirements involving highly 
+granular information that, in some cases, is not 
+readily available. For most telcos, some amount 
+of new data preparation (including creation and 
+collection) will be necessary, and this can easily 
+become overwhelming. As digital transformation 
+proliferates, telcos’ data maturity has improved 
+
+2 Börje Ekholm, “Why network quality is more important than ever,” Ericsson, March 30, 2020. 
+
+The network is the product: How AI can put telco customer experience in focus 
+
+8
+
+markedly. Still, this remains a massive challenge 
+for telcos, whose core product—the network—
+generates staggeringly vast amounts of data 
+every day. And every operator and its OEMs 
+collect data in different ways, which becomes 
+even more complex if they acquire or merge with 
+another operator. 
+
+At a minimum, building an AI to use CX in this 
+new way will require network performance data 
+at a customer level—either per session or by 
+combining meters and customer connections to 
+sites, at least every hour, for all customers and 
+sites as described in the defined journey (4G 
+phone lines, for example). A minimum of 60 days’ 
+worth of data stored is also needed. This data will 
+be combined with commercial information, which 
+might include churn, calls to customer service, or 
+subscriber plan. 
+
+Build on any past efforts. Many operators 
+have tried to develop similar metrics in the past, 
+prior to today’s AI advances and data maturity 
+achievements. Those previous efforts can still be 
+helpful, as the data investments involved further 
+the goal of deriving clear insights from vast 
+data collections and can be combined as inputs 
+alongside additional data points to produce these 
+AI-driven CX measurements. 
+
+Define the journey. As with any other data 
+and analytics effort, the journey is more likely 
+to succeed if it is done progressively. Starting 
+small to achieve initial successes and then 
+
+building on those with increased complexity is 
+usually better than tackling the most complex 
+and granular ambitions first. Once an initial 
+CX-based score is developed for a use case, 
+more and increasingly complex scores and 
+use cases can be developed, in a process 
+of successive releases, akin to software 
+development. For example, operators can start 
+their journey with a focus on understanding 
+the daily experience of 4G phone lines before 
+moving to hourly IoT CX measurements. This 
+approach can reduce the number of data sets 
+that need to be combined at first, and the 
+complexity involved. 
+
+The opportunity to adopt an objective, 
+AI-enabled method for tracking and optimizing 
+customer experience as a key driver of decision 
+making is a ray of light during the prolonged era 
+of challenging economics for telecom operators. 
+Anticipating and preventing the problems 
+that diminish customers’ experience of the 
+network, and linking business outcomes to that 
+experience, can be a source of renewed growth 
+and innovation for the industry. This is only the 
+beginning of how network operators can use 
+AI to their benefit, however. Using AI to develop 
+a deeper and more precise understanding of 
+network CX can serve as a first milestone in a 
+broader AI network transformation. 
+
+Borja Belda is an associate partner in McKinsey’s New York office, where Tomás Lajous is a senior partner; 
+Sebastian Cubela is a partner in the Miami office; Brendan Gaffey is a senior partner and global coleader of 
+the Technology, Media & Telecommunications Practice, based in the Dallas office; and Sebastián González is a 
+consultant in the Stamford office.
+
+The authors wish to thank Venkat Atluri, Bernardo Branco, Aniruddha Chauhan, Guilherme Cruz, Kayvaun 
+Rowshankish, Sanchit Tiwari, and Andrea Travasoni for their contributions to this article.
+
+Copyright © 2024 McKinsey & Company. All rights reserved.
+
+The network is the product: How AI can put telco customer experience in focus
+
+9
+
+

@@ -1,0 +1,304 @@
+22/03/2026, 14:39
+
+CB06_PE_Infrastructure_Investor_Analysis
+
+Digital Infrastructure Investors: Approaches,
+Metrics, and 10-Year Performance
+
+Prepared for NSR/BCG Conference 2026
+
+Part I: Investment Approach & Thesis
+
+Macquarie Asset Management — “The Infrastructure Industrialist”
+
+Overview: World’s largest infrastructure manager (~$210bn in real assets AUM). Operates through regional
+fund series: MIP (Americas), MEIF (Europe), MAIF (Asia-Paciﬁc). 30+ year track record, 55+ portfolio
+companies, 26 realizations across Americas alone.
+
+Digital infra thesis: Macquarie views digital infrastructure as essential, utility-like assets with
+contracted/regulated revenue, inﬂation linkage, and structural demand growth. It invests across the full stack —
+towers, ﬁbre, data centres — but with a strong preference for assets with operational improvement potential. The
+Macquarie model is “buy, operate, optimize, exit”: acquire assets with operational complexity, apply active
+management to improve margins and efﬁciency, then monetize through IPO, secondary sale, or dividend
+recapture.
+
+Key differentiators: (1) Deepest operational bench in the industry — Macquarie doesn’t just own infrastructure,
+it runs it. TDC NET (Denmark), Vocus (Australia/NZ), and AirTrunk (sold to Blackstone at 8x entry valuation)
+demonstrate hands-on management. (2) Fund diversiﬁcation by vintage, geography, and sector reduces
+concentration risk. (3) Sustainability-linked ﬁnancing: TDC NET’s EUR 3bn in sustainability-linked bonds is the
+template. (4) Longest track record of any infrastructure manager.
+
+Hold periods: 7–12 years typical for core infrastructure; shorter (5–7 years) for value-add opportunities.
+
+Target returns: Net 8–12% IRR for core/core+ infrastructure. Macquarie itself states returns of ~9.5% long-
+term average; projected 8.3–11.0% over the next decade depending on macro scenario. Revenue growth
+contributes 86% of EBITDA growth — leverage and multiple expansion are secondary.
+
+Relevant portfolio: TDC NET (Denmark, full ownership), Vocus (Australia/NZ ﬁbre), SwyftFiber (US ﬁbre),
+Diamond Infrastructure (US), AirTrunk (sold 2024 at ~$24bn AUD — approximately 8x entry valuation from
+$3bn in 2020).
+
+OMERS Infrastructure — “The Pension Fund Steward”
+
+Overview: Infrastructure arm of OMERS, a C$140bn+ Canadian pension fund serving 640,000 Ontario public
+sector workers. ~$28bn in infrastructure assets. 25+ year infrastructure investment history. Operates from
+Toronto, London, Amsterdam, Singapore, Sydney.
+
+Digital infra thesis: OMERS approaches digital infrastructure through the pension fund lens: ultra-long duration
+(20–30 year hold horizons), liability-matching returns, and inﬂation protection. Digital infrastructure is attractive
+because it combines the essential-service characteristics of traditional infrastructure (roads, utilities) with the
+structural growth of technology adoption. OMERS is a patient capital provider — it doesn’t need to exit within a
+fund lifecycle. This enables it to invest in assets during the capital-intensive build phase and harvest returns over
+decades.
+
+ﬁle:///private/tmp/md_converted.html
+
+1/5
+
+22/03/2026, 14:39
+
+CB06_PE_Infrastructure_Investor_Analysis
+
+Key differentiators: (1) Permanent capital — no fund lifecycle pressure to exit. This fundamentally changes
+investment behavior: OMERS can hold through downturns, reinvest in assets during construction phases, and
+accept lower annual returns in exchange for compounding over longer periods. (2) Co-investment model:
+OMERS frequently co-invests alongside other infrastructure funds, sharing risk while maintaining inﬂuence. (3)
+Active stewardship: like Macquarie, OMERS takes operational roles in portfolio companies, not passive LP
+positions. (4) Strong ESG/sustainability integration — 65% reduction in portfolio carbon emissions since 2019.
+
+Hold periods: Effectively permanent for core assets. OMERS has held Bruce Power (energy) since 2003 (22+
+years). Digital infrastructure holds are expected to be 10–20+ years.
+
+Target returns: Plan-level target of ~7% net return (set annually as benchmark). Infrastructure contributes
+steady mid-to-high single digit returns. OMERS reported 8.1% average annual net return over 2021–2024.
+Infrastructure speciﬁcally “continues to deliver steady results, with most assets performing in line with
+expectations.”
+
+Relevant portfolio: XpFibre (France — largest independent FTTH operator, ~25% of French territory, raised
+€5.8bn in credit facilities in 2024), Beanﬁeld Technologies (Canada — ﬁbre network), stakes in various digital
+infrastructure across Europe and APAC.
+
+KKR Global Infrastructure — “The Digital Ecosystem Builder”
+
+Overview: KKR’s Global Infrastructure Strategy has committed ~$34bn of equity to digital infrastructure across
+24 investments, plus $20bn+ in power/renewables. KKR is the single largest PE-style investor in digital
+infrastructure globally. Infrastructure is managed alongside KKR’s broader PE, credit, and real estate platforms,
+enabling cross-strategy deal origination and ﬁnancing.
+
+Digital infra thesis: KKR takes a full-ecosystem approach: it invests simultaneously across the layers that
+enable digital connectivity — ﬁbre networks, wireless towers, data centres, and the power infrastructure that
+feeds them. KKR’s thesis is that AI and cloud computing are driving a structural supercycle in digital
+infrastructure demand, and that the ﬁrms which control the physical assets enabling this demand will capture
+outsized returns. Unlike Macquarie (operational optimizer) or OMERS (pension steward), KKR applies classic
+PE value creation levers — operational improvement, strategic M&A, platform buildouts, and ﬁnancial
+engineering — but on infrastructure-grade assets with more predictable cash ﬂows.
+
+Key differentiators: (1) Largest digital infrastructure commitment of any single investor (~$34bn equity
+deployed). (2) Platform-building strategy: KKR creates platforms from scratch (GTR data centres in Europe,
+Open Dutch Fiber in Netherlands) and then scales them through organic growth and bolt-on acquisitions. (3)
+Complex carve-out expertise: the TIM NetCo transaction (€22bn, the largest telecom infrastructure deal in
+European history) demonstrates KKR’s ability to execute structurally complex deals that other investors cannot.
+(4) Cross-strategy synergies: KKR’s credit arm can provide ﬁnancing for its infrastructure deals, and its PE
+relationships provide deal ﬂow.
+
+Hold periods: 5–10 years for value-add/growth infrastructure; longer for core assets that become platform plays.
+
+Target returns: KKR targets mid-teens net IRR for infrastructure (higher than Macquarie/OMERS, reﬂecting
+greater use of operational leverage and ﬁnancial engineering). For core digital infrastructure, returns are closer to
+10–14%.
+
+Relevant portfolio: FiberCop/NetCo (Italy — TIM’s former ﬁxed network, €22bn, serving 16m households),
+Open Dutch Fiber (Netherlands), Reintel (Spain — ﬁbre), Global Technical Realty (Europe — data centres,
+$2.5bn+ committed), 130,000+ wireless tower sites globally, 12 ﬁbre networks reaching ~30m households
+globally, 5 data centre platforms across US/APAC/EMEA with 155+ facilities and a 12GW development
+pipeline.
+
+ﬁle:///private/tmp/md_converted.html
+
+2/5
+
+22/03/2026, 14:39
+
+CB06_PE_Infrastructure_Investor_Analysis
+
+DigitalBridge — “The Pure-Play Digital Specialist”
+
+Overview: The world’s only large-scale alternative asset manager 100% dedicated to digital infrastructure.
+~$115bn AUM (as of December 2025). Listed on NYSE (DBRG). Founded by Marc Ganzi with 30+ years of
+digital infrastructure investing and operating heritage. Headquartered in Boca Raton, with ofﬁces across North
+America, Europe, Middle East, and Asia.
+
+Digital infra thesis: DigitalBridge’s thesis is that digital infrastructure is not a subset of infrastructure — it is a
+distinct asset class requiring specialized operating expertise that generalist infrastructure funds cannot replicate.
+The ﬁrm invests across the “full stack” of digital infrastructure: macro cell towers, data centres (hyperscale,
+colocation, edge), ﬁbre networks, small cells, and increasingly digital power. DigitalBridge’s edge is its operator
+DNA: it doesn’t just provide capital, it provides management teams, operational playbooks, and strategic
+direction. The ﬁrm’s model is to back or create platform companies, scale them through organic growth and
+M&A, and then monetize through public listings, recapitalizations, or trade sales.
+
+Key differentiators: (1) 100% digital focus — no dilution across transport, energy, or social infrastructure.
+Every dollar of LP capital goes into digital. (2) Operator-investor hybrid: DigitalBridge portfolio companies are
+actively managed, not passively held. The ﬁrm’s bench of digital infrastructure executives (many ex-operators
+from American Tower, Equinix, CyrusOne) is unmatched. (3) Scale and deal ﬂow: $115bn AUM gives
+DigitalBridge proprietary access to large-cap deals that smaller digital-focused funds cannot access. (4)
+Expanding platform: recently added digital credit, liquid securities, and software strategies alongside the core
+equity funds.
+
+Hold periods: 4–7 years for value-add (DBP fund series); longer for core/core+ strategies.
+
+Target returns: Mid-to-high-teens net IRR for the ﬂagship DBP fund series. DBP III closed at $11.7bn total
+commitments (November 2025), with 65%+ from returning investors — the strongest validation of realized
+returns.
+
+Relevant portfolio: Vantage Data Centers (global hyperscale — $25bn Frontier campus in Texas), DataBank
+(US edge/colo), Yondr Group (European DC developer), Scala Data Centers (Latin America), Vertical Bridge
+(US towers — largest private tower company in the US), Zayo Group (US/Europe ﬁbre), JTOWER (Japan
+towers), FiberNow (US ﬁbre). Global footprint spans 40+ countries.
+
+Conference relevance: DigitalBridge is not on the NSR/BCG speaker list, but it is arguably the most
+consequential capital allocator in the room’s sector. Any hallway conversation about tower valuations (Cellnex
+session), data centre demand (AI theme), or ﬁbre consolidation (UK panel) is implicitly a conversation about
+DigitalBridge’s market inﬂuence.
+
+Brookﬁeld Infrastructure — “The Asset Recycler”
+
+Overview: Infrastructure arm of Brookﬁeld Asset Management, which manages $1tn+ in total AUM. Brookﬁeld
+Infrastructure Partners (NYSE: BIP) is a publicly listed infrastructure vehicle. Brookﬁeld’s infrastructure
+franchise has raised ~$104bn in infrastructure equity funds over 2020–2024, making it the #1 ranked
+infrastructure manager by capital raised (Infrastructure Investor 100, 2025).
+
+Digital infra thesis: Brookﬁeld approaches digital infrastructure through its signature “acquire, improve,
+recycle” model: buy high-quality infrastructure assets at attractive valuations, enhance operations to boost cash
+ﬂow, and then recycle capital through partial or full exits to fund new investments. Brookﬁeld views data as a
+core infrastructure vertical alongside energy, transport, and utilities. Its digital portfolio has grown rapidly — the
+data segment generated FFO of $138m in Q3 2025, a 62% YoY increase — driven by tower acquisitions in India,
+hyperscale data centre development, and organic growth across platforms.
+
+ﬁle:///private/tmp/md_converted.html
+
+3/5
+
+22/03/2026, 14:39
+
+CB06_PE_Infrastructure_Investor_Analysis
+
+Key differentiators: (1) Diversiﬁed multi-platform approach: Brookﬁeld operates six distinct data centre
+platforms globally — Compass (US hyperscale), CenterSquare (US colo), Ascenty (Latin America), Data4
+(Europe), Digital Connexion (India JV), and DCI Data (Asia). (2) Integrated value chain: Brookﬁeld’s renewable
+power assets (~$90bn AUM) can provide clean energy to its data centres — a competitive advantage as power
+constraints become the binding constraint on DC growth. (3) Capital recycling discipline: Brookﬁeld
+consistently sells mature assets at attractive multiples and redeploys into higher-growth opportunities,
+maintaining portfolio freshness. (4) Scale: $1tn+ parent AUM provides access to deal sizes and co-investment
+capacity that smaller ﬁrms cannot match.
+
+Hold periods: 7–12 years for core infrastructure; Brookﬁeld actively recycles capital, selling $12bn+ in private
+assets in 2022 alone.
+
+Target returns: 12–15%+ total return target for BIP unitholders (combination of ~5% distribution yield + 5–
+10% annual growth). Infrastructure fund-level targets are 10–14% net IRR.
+
+Relevant portfolio: 158,100 operational telecom towers and rooftop sites globally (including Summit
+Digitel/Reliance Jio Infratel in India — ~148k towers, Wireless Infrastructure Group in UK), 50+ data centres
+across 6 platforms, 22,000 km of ﬁbre optic cable, Hotwire (US bulk ﬁbre-to-the-home, acquired 2025). AI
+infrastructure is a declared strategic focus with up to $500m annual deployment target.
+
+Conference relevance: Brookﬁeld’s European digital presence is growing through Data4 (European data
+centres) and WIG (UK towers). Its capital recycling model is directly relevant to the Capital Strategies 2.0 theme
+— Brookﬁeld embodies the “buy, improve, sell, redeploy” cycle that conference attendees will discuss. Its power
++ data centre integration angle is unique at the conference.
+
+Stonepeak — “The Thematic Deep-Diver”
+
+Overview: A leading US-based alternative investment ﬁrm specializing in infrastructure and real assets with
+~$73bn AUM. Founded in 2011 by Michael Dorrell and James Wyper (both ex-Blackstone infrastructure).
+Stonepeak has invested in 20 digital infrastructure platforms across 40+ countries. Raised $48.6bn in
+infrastructure funds over 2020–2024, ranking #7 globally (Infrastructure Investor 100, 2025).
+
+Digital infra thesis: Stonepeak was an early mover in digital infrastructure, developing thematic investment
+views ahead of the market. Its approach is deep-dive thematic: the ﬁrm evaluates 70+ opportunities per thesis,
+selects the best-positioned platform, and then scales it aggressively through organic growth and bolt-ons.
+Stonepeak’s focus on “irreplicable assets in fast-growing markets serving essential needs” leads it to invest in
+interconnection-rich data centres (where network density creates moats), critical subsea/long-haul ﬁbre, and
+tower portfolios in structurally undersupplied markets.
+
+Key differentiators: (1) Early mover advantage: Stonepeak’s 2017 investment in Cologix (carrier-neutral
+interconnection data centres) preceded the AI-driven DC boom by 6 years, capturing value at lower entry
+multiples. (2) Multi-platform DC strategy: portfolio now includes Cologix, CoreSite, Digital Edge (Asia), Cirion
+(LatAm), and the newly launched Montera Infrastructure ($1.5bn equity commitment for US hyperscale AI data
+centres). Combined: 100+ facilities, 500+ MW operational, 400+ MW pipeline. (3) Nordic exposure: Stonepeak
+owns a 49% stake in Cellnex Nordics (Sweden and Denmark, 5,200+ sites) — directly relevant to the
+conference’s Nordic dimension and to the Cellnex session. (4) Defensive positioning: Stonepeak emphasizes
+downside protection and risk-adjusted returns, focusing on contracted, inﬂation-linked cash ﬂows — closer to
+Macquarie’s infrastructure approach than KKR’s PE-style value creation.
+
+Hold periods: 5–10 years for value-add; Stonepeak’s infrastructure fund lifecycle is typically 10–12 years with
+extensions.
+
+Target returns: Mid-teens net IRR for ﬂagship funds, with strong emphasis on capital preservation and
+downside protection. Stonepeak’s pitch to LPs is risk-adjusted returns — not the highest absolute returns, but the
+most consistent and protected.
+
+ﬁle:///private/tmp/md_converted.html
+
+4/5
+
+22/03/2026, 14:39
+
+CB06_PE_Infrastructure_Investor_Analysis
+
+Relevant portfolio: Cologix (North American interconnection DCs), CoreSite (now American Tower company),
+Digital Edge (Asia-Paciﬁc DCs), Cirion Technologies (LatAm digital infra), Montera Infrastructure (US
+hyperscale DC, launched 2025), Cellnex Nordics (49% stake — Sweden/Denmark towers, 5,200+ sites),
+Astound Broadband (US residential ﬁbre/cable), Telia Carrier (acquired and later renamed, global ﬁbre backbone
+— since exited).
+
+Conference relevance: Stonepeak’s 49% stake in Cellnex Nordics makes it the single most relevant “hidden”
+investor for a Nordic telco leader at this conference. When Raimon Trias (Cellnex CFO) presents at 3:35, he is
+implicitly speaking on behalf of Stonepeak’s Nordic tower investment. Any conversation about Nordic tower
+valuations, Cellnex’s portfolio optimization, or Danish/Swedish mobile infrastructure is a conversation that
+involves Stonepeak’s capital.
+
+Part II: Governing Metrics — What These Investors Measure
+
+The metrics that govern digital infrastructure investments are fundamentally different from traditional PE (which
+focuses on revenue growth, EBITDA multiple expansion, and debt paydown). Infrastructure investors use a
+combination of:
+
+Part III: 10-Year Metric Evolution
+
+View A: By Geography (2015–2025)
+
+View B: By Asset Type (2015–2025)
+
+Key Takeaways for Conference Conversations
+
+1. The Great Divergence is asset-type driven. Data centre multiples have exploded (28–35x+ in 2025)
+
+while ﬁbre multiples have compressed (12–18x). The AI demand supercycle is repricing data centres as the
+most valuable digital infrastructure asset class. Towers are stable but mature. This matters for every capital
+strategy discussion at the conference — the PE panel, Cellnex, and the ﬁbre companies are living in
+different valuation universes.
+
+2. Macquarie’s TDC NET is the test case for the “infrastructure industrialist” model in telecom. Full
+ownership, 72.8% EBITDA margin, aggressive copper decommissioning, sustainability-linked ﬁnancing.
+If Macquarie achieves a 10–13x exit in a consolidated Danish market, it validates the thesis. If the market
+stays fragmented and FCF stays negative, the thesis weakens.
+
+3. KKR is the only investor playing at continental scale in European digital infrastructure. With
+
+~$34bn in digital infra equity, KKR is building the connective tissue of European digital infrastructure —
+from TIM’s Italian ﬁbre to Dutch ﬁbre to European data centres to global towers. No other single investor
+has comparable breadth. This gives KKR structural advantages in deal origination, cross-portfolio
+synergies, and regulatory relationships.
+
+4. Pension funds (OMERS) vs. PE (KKR) vs. hybrid (Macquarie) represent three fundamentally
+different capital structures with different time horizons, return targets, and risk tolerances.
+Understanding which type of capital backs an asset tells you how that asset will be managed, how long it
+will be held, and what the exit pathway looks like. This is essential context for every infrastructure
+discussion at the conference.
+
+ﬁle:///private/tmp/md_converted.html
+
+5/5
+
+

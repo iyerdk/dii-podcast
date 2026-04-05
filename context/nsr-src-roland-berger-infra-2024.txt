@@ -1,0 +1,2634 @@
+REPORT
+
+Infrastructure 
+Investment Outlook 
+2024
+
+A turning tide?
+
+Management 
+summary
+
+2023 was a challenging year for the infrastructure 
+
+segment of the alternatives universe. After a resilient 
+
+performance in 2022, infrastructure deal activity 
+
+suffered a blow in 2023. Challenging financing 
+
+conditions led to a more pronounced decline in 
+
+deal count and deal size than was anticipated by 
+
+fund managers and advisors. This decline is still less 
+
+pronounced and delayed when compared to the 
+
+decline seen in private equity buyouts. A wave of 
+
+consolidation that started in 2022 continued well 
+
+into 2023 and 2024 reaching a peak with BlackRock 
+
+acquiring GIP and General Atlantic acquiring Actis.  
+
+Notwithstanding the headwinds to deal count and 
+
+fundraising continuing into the first quarter of 2024, 
+
+the near-term outlook appears more optimistic than 
+
+what we saw a year earlier. The need for capital 
+
+to develop long term sustainable infrastructure is 
+
+larger than ever, and fund managers are responding 
+
+in many ways. Thematic investments in energy 
+
+transition, transport decarbonization, and circular 
+
+economy are expected to continue, and so is the 
+
+focus on hybrid infrastructure assets. In this report 
+
+we start at a macro level, dissecting the broader 
+
+investment and fundraising trends, before moving to 
+
+sector-level analysis, where we address key frontier 
+
+topics by sector. 
+
+2      
+
+s
+e
+g
+a
+m
+y
+t
+t
+e
+G
+
+I
+
+:
+r
+e
+v
+o
+C
+
+Roland Berger | Infrastructure Investment Outlook 2024 
+Contents 
+
+Page
+
+1 
+
+2
+
+3
+
+4
+
+9
+
+13
+
+13
+
+18
+
+20
+
+24
+
+26
+
+28
+
+Infrastructure M&A development and fundraising 
+
+Current sentiment and outlook for 2024 
+
+Sector outlook analysis
+
+3.1/ Energy
+
+3.2/ Utilities
+
+3.3/ Transport
+
+3.4/  Digital infrastructure
+
+3.5/  Social infrastructure
+
+3.6/  Hybrid infrastructure
+
+3      
+
+Roland Berger | Infrastructure Investment Outlook 2024 
+1
+
+Infrastructure M&A development and fundraising 
+
+Macro headwinds that started blowing in 2022 continued well into 2023 significantly affecting 
+
+infrastructure M&A activity. In 2023, global infrastructure M&A deal count declined 21 % y-o-y, 
+
+while average deal size dropped 16 %. This decline is stronger than what most respondents of 
+
+our Infrastructure Investment Outlook 2023 survey expected as of Jan 2023. Worsening 
+
+macroeconomic situation as the year 2023 progressed was the reason. It is also the first time 
+
+since 2013 that average deal size declined for two years in a row (2022 and 2023).   
+
+ Figure 1 
+
+1 Global infrastructure deal count and average size1
+
+3,453
+
+3,476
+
+2,899
+
+2,930
+
+2,804
+
+2,919
+
+2,518
+
+2,587
+
+2,653
+
+2,100
+
+Deal count 
+[#]
+
+3,500
+
+3,000
+
+2,500
+
+2,374
+
+2,000
+
+1,500
+
+1,000
+
+500
+
+0
+
+Average 
+deal size 
+[USD m]
+
+750
+700
+650
+600
+550
+500
+450
+400
+350
+300
+250
+200
+150
+100
+50
+0
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+Avg. deal size
+
+Deal  count
+
+1. Average deal size for deals with a known value
+
+Source: Preqin
+
+4      
+
+Roland Berger | Infrastructure Investment Outlook 2024Europe and North America continued to account for over two-thirds of the global deal count. 
+
+In fact, their share in the global deal count grew by 5 pp over 2022 as M&A activity declined 
+
+more rapidly in APAC and the Rest of the World. This excludes 2019 and 2021, where a few 
+
+mega deals skewed the picture; average deal size in 2023 in North America was still higher 
+
+than what was seen historically.   
+
+ Figure 2
+
+2
+
+Infrastructure deal count and average size by geography
+
+Deal count [#]
+
+3,453
+
+3,476
+
+2,804
+
+2,919
+
+2,930
+
+2,899
+
+2,374
+
+2,518
+
+2,587
+
+2,653
+
+2,100
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+Europe
+
+North America
+
+APAC
+
+Rest of the world
+
+Average deal size1 [USD m]
+
+1,300
+1,200
+1,100
+1,000
+900
+800
+700
+600
+500
+400
+300
+200
+100
+0
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+Europe
+
+North America
+
+APAC
+
+Rest of the world
+
+1. Average deal size for deals with a known value
+
+Source: Preqin
+
+5      
+
+Roland Berger | Infrastructure Investment Outlook 2024Energy continues to be the largest infrastructure sector, despite a decline in deal count in 
+
+2023. No sector was immune to the macro headwinds, but M&A activity declined steepest in 
+
+Transport and Social infrastructure (-48 % and -73 %, respectively). One segment not covered 
+
+in this data is Hybrid infrastructure — the crossover space between business services and 
+
+infrastructure assets — and it has been gaining a lot of attention from infrastructure investors.    
+
+ Figure 3
+
+3
+
+Infrastructure deal count and average size by sector
+
+Deal count [#]
+
+3,453
+
+3,476
+
+2,804
+
+2,919
+
+2,930
+
+2,899
+
+2,374
+
+2,518
+
+2,587
+
+2,653
+
+2,100
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+Energy
+
+Utilities
+
+Transport
+
+Digital infrastructure
+
+Social infrastructure2
+
+Other3
+
+Average deal size over 2013-231 [USD m] 
+
+1,400
+1,300
+1,200
+1,100
+1,000
+900
+800
+700
+600
+500
+400
+300
+200
+100
+0
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+Energy
+
+Utilities
+
+Transport
+
+Digital infrastructure
+
+Social infrastructure2
+
+1. Average deal size for deals with a known value; 2. Includes healthcare and education; 3. Includes diversified, 
+defence, government buildings and unassigned deals
+
+Source: Preqin
+
+6      
+
+Roland Berger | Infrastructure Investment Outlook 2024The most pronounced impact of the slowdown has been on new capital. Infrastructure 
+
+fundraising declined by >50 % in 2023 from its 2022 peak of USD 157 bn. Fundraising for the 
+
+Core strategy experienced the steepest decline, while that for the Opportunistic strategy 
+
+doubled, albeit from a small base. Allocation to the Core+ strategy declined in 2023 y-o-y, but 
+
+remains significantly above historical levels. Since 2018, the share of North America in global 
+
+fundraising has grown significantly, especially for the Core+ strategy.   
+
+ Figures 4 & 5
+
+4
+
+Infrastructure fundraising by fund strategy, 2018-23 [USD bn]
+
+157
+
+138
+
+105
+
+105
+
+94
+
+74
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+Core
+
+Core+
+
+Value add
+
+Opportunistic
+
+Source: Preqin
+
+7      
+
+Roland Berger | Infrastructure Investment Outlook 20245
+
+ Infrastructure fundraising by geography and fund strategy, 2018-23 
+
+[USD bn] 
+
+38 %
+
+39.6
+
+45 %
+
+47.6
+
+10 %
+
+11.0
+
+7 %
+
+6.9
+
+Europe
+
+North America
+
+APAC
+
+Rest of the World
+
+52 %
+
+82.1
+
+40 %
+
+62.4
+
+4 %
+
+7.0
+
+4 %
+
+5.1
+
+Europe
+
+North America
+
+APAC
+
+Rest of the World
+
+61 %
+
+45.0
+
+35 %
+
+25.7
+
+3 %
+
+1.9
+
+2 %
+
+1.2
+
+Europe
+
+North America
+
+APAC
+
+Rest of the World
+
+%
+
+% of total
+
+Core
+
+Core+
+
+Value add
+
+Opportunistic
+
+Notes: Percentages may not add up to 100 % due to rounding
+
+Source: Preqin
+
+2018
+
+2022
+
+2023
+
+8      
+
+Roland Berger | Infrastructure Investment Outlook 20242
+
+Current sentiment and outlook for 2024  
+
+To  gauge  investors’  expectations  for  infrastructure  investments  in  2024,  we  surveyed 
+
+experienced  investment  bankers  and  fund  managers.  60 %  of  the  respondents  expect 
+
+infrastructure deal count in 2024 to grow slightly or moderately compared to 2023, while 14 % 
+
+expect it to grow strongly. This sentiment is strongest for deals below USD 2 bn. The outlook 
+
+for larger deals is less optimistic but has improved when compared to that from our 2023 
+
+survey results.   
+
+ Figure 6
+
+6
+
+ Outlook for infrastructure deal count – 2024 vs. 2023
+
+Investment outlook – Overall [ % of respondents] 
+
+Most respondents expect infrastructure deals to 
+grow up to 10 % y-o-y in 2024
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+N = 49
+
+Investment outlook – By asset size [ % of respondents] 
+
+The positive sentiment persists across all deal size brackets, 
+but is stronger for deals under USD 2 bn in value
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+<USD 0.5 bn
+
+USD 0.5-1.0 bn
+
+USD 1.0-2.0 bn
+
+USD 2.0-5.0 bn
+
+>USD 5.0 bn
+
+N = 44
+
+N = 42
+
+N = 42
+
+N = 41
+
+N = 40
+
+Strong decline (below -10 %)
+
+Moderate decline (-5 % to -10 %)
+
+Slight decline (up to -5 %)
+
+Stable (c. 0 %)
+
+Slight growth(0 % to 5 %)
+
+Moderate growth (5 % to 10 %)
+
+Strong growth(10 %+)
+
+Source: Preqin
+
+9      
+
+Roland Berger | Infrastructure Investment Outlook 2024Respondents  were  most  optimistic  about  North  America,  where  the  majority  expect 
+
+moderate-to-strong  growth  in  infrastructure  deal  count  in  2024,  with  none  of  the 
+
+respondents  expecting  a  decline.  Comparatively,  there  is  a  reasonable  distribution  of 
+
+responses for Europe, where, consensus optimistic outlook notwithstanding, a quarter of 
+
+the respondents expect deal count to remain flat or even decline. The sentiment differs 
+
+significantly across sectors, being more upbeat for Transport, Energy, Digital and Hybrid 
+
+Infrastructure than for Social Infrastructure and Utilities.   
+
+ Figures 7 & 8
+
+7
+
+ Outlook for infrastructure deal count by geography – 2024 vs. 2023,  
+
+[ % of respondents]
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+Europe
+
+N = 50
+
+North America
+
+Asia-Pacific
+
+Rest of world
+
+N = 38
+
+N = 18
+
+N = 17
+
+Strong decline (below -10 %)
+
+Moderate decline (-5 % to -10 %)
+
+Slight decline (up to -5 %)
+
+Stable (c. 0 %)
+
+Slight growth(0 % to 5 %)
+
+Moderate growth (5 % to 10 %)
+
+Strong growth(10 %+)
+
+Source: Roland Berger Infrastructure Investment Outlook Survey 2024
+
+10      
+
+Roland Berger | Infrastructure Investment Outlook 20248
+
+  Outlook for infrastructure deal count by sector – 2024 vs. 2023  
+
+[ % of respondents]
+
+Transportation
+
+Energy
+
+Utilities  
+(including waste)
+
+Social infrastructure: 
+Healthcare
+
+N = 50
+
+N = 50
+
+N = 50
+
+N = 50
+
+60
+55
+
+50
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+60
+55
+
+50
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+Social infrastructure: 
+Education
+
+Digital Infrastructure
+
+Hybrid infrastructure 
+assets
+
+N = 50
+
+N = 50
+
+N = 50
+
+Strong decline (below -10 %)
+
+Moderate decline (-5 % to -10 %)
+
+Slight decline (up to -5 %)
+
+Stable (c. 0 %)
+
+Slight growth(0 % to 5 %)
+
+Moderate growth (5 % to 10 %)
+
+Strong growth(10 %+)
+
+Source: Roland Berger Infrastructure Investment Outlook Survey 2024
+
+11      
+
+Roland Berger | Infrastructure Investment Outlook 2024Respondents specified several macroeconomic and geopolitical factors responsible for 
+
+their outlook for infrastructure investments in 2024. On the two most crucial factors affecting 
+
+infrastructure investments; 1. Financing availability and interest rates and, 2. Macroeconomic 
+
+situation, vast majority of respondents expect the situation to improve in 2024. As a result, 
+
+46 % of the respondents expect fundraising in 2024 to be easier than in 2023.   
+
+ Figure 9
+
+9
+
+ Factors influencing infrastructure investments and fundraising in 2024
+
+Development of factors influencing infrastructure investments – 2024 vs. 2023 
+[ % of respondents] 
+
+e
+c
+n
+a
+t
+r
+o
+p
+m
+
+i
+
+f
+o
+r
+e
+d
+r
+o
+g
+n
+
+i
+
+s
+a
+e
+r
+c
+e
+D
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Availability of debt financing and interest rates
+
+N=50
+
+Overall economic situation/economic cycle
+
+N=50
+
+Availability of attractive acquisition targets
+
+N=50
+
+Global infrastructure funding gap
+
+Geopolitical environment  
+(e.g., Ukraine war, trade conflicts)
+
+N=50
+
+N=48
+
+93 %
+
+88%
+
+A vast majority of respondents 
+believe it will be easier (46 %) or 
+take the same effort (48 %) to 
+fundraise in 2024 relative to 2023
+
+More than four-fifths of the 
+respondents believed that 
+value-creation will become more 
+important in 2024 vs. 2023
+
+Worsen
+
+Improve
+
+Remain stable
+
+Source: Roland Berger Infrastructure Investment Outlook Survey 2024
+
+12      
+
+Roland Berger | Infrastructure Investment Outlook 2024 
+ 
+ 
+Sector outlook analysis
+
+We further surveyed the participants on various infrastructure sectors to 
+
+understand two key aspects: 
+
+3 
+
+ 1.  Investment  focus:  Given  the  current  macroeconomic  environment,  how  do 
+
+participants expect their investment focus to change across the Core, Core+, and 
+
+Value-add strategies. At a broader level, most respondents considered Core+ and 
+
+Value-add assets as more attractive in  2024 than in 2023. There were nuances in 
+
+some sub-sectors which we address in the respective sections.
+
+2. Future attractiveness: In addition, we wanted to understand which infrastructure 
+
+assets are deemed more attractive in 2024 than they were in 2023. We also gathered 
+
+interesting insights into each of the sub-sectors and asset types which investors 
+
+expect to focus on in 2024. We delve into each of the sectors, presenting the output 
+
+of the survey and Roland Berger’s views on investment activity in these sectors.
+
+13      
+
+Roland Berger | Infrastructure Investment Outlook 20243.1 
+
+Energy 
+
+In  2023,  deal  making  momentum  in  the  Energy  sector  continued  to  be  underpinned  by 
+
+secular  tailwinds  –  decarbonization,  energy  transition  and  sustainability.  The  sector  in 
+
+general suffered less than other infrastructure sectors as deal count dropped ~11 % y-o-y.  
+
+ Figure 10
+
+10
+
+ Factors influencing infrastructure investments and fundraising in 
+
+2024 
+
+Relative focus by asset type – 2024 vs. 2023 [ % of respondents] 
+
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+
+Core
+
+N = 38
+
+Core+
+
+N = 39
+
+Value add
+
+N = 39
+
+Decrease significantly
+
+Decrease slightly
+
+No change
+
+Increase slightly
+
+Increase significantly
+
+Source: Roland Berger Infrastructure Investment Outlook Survey 2024
+
+14      
+
+Roland Berger | Infrastructure Investment Outlook 202410
+
+ Factors influencing infrastructure investments and fundraising in 
+
+2024 (continued)
+
+77 %
+
+56 %
+
+44 %
+
+40 %
+
+40 %
+
+28 %
+
+26 %
+
+Most attractive assets (N=43) [ % of respondents]
+
+Energy storage/batteries
+
+Biogas
+
+Heat electrification/heat pumps
+
+Energy efficiency schemes
+
+Sustainable aviation fuels (SAFs)
+
+CCUS (Carbon capture, utilization and storage)
+
+Grid scale solar
+
+Other biofuels
+
+LNG regasification and onshore storage
+
+Onshore wind
+
+Low carbon hydrogen (Green and Blue)
+
+Offshore wind
+
+LDES - CAES, Liquid to Air
+
+Nuclear - SMR
+
+19 %
+
+16 %
+
+16 %
+
+14 %
+
+14 %
+
+5%
+
+5 %
+
+Energy storage and battery 
+assets are highly attractive 
+to investors, as energy 
+distribution continues to be 
+a key challenge
+
+Low carbon fuels, such 
+as biogas and SAFs are 
+increasing in attractiveness 
+as both use cases and 
+feedstock options expand
+
+84 %
+
+Most energy investors prefer 
+brownfield projects (56 %) to 
+greenfield ones, or have no 
+explicit preference (28 %)
+
+Respondents to our survey overwhelmingly highlighted a stable and improving outlook for 
+
+deal making in the sector in 2024, with a focus on Core+ and Value-add strategies. ~55 % of 
+
+the respondents also indicated a preference for brownfield investment opportunities.
+
+15      
+
+Roland Berger | Infrastructure Investment Outlook 2024Energy Storage (BESS) continues to be the most attractive asset type according to ~77 % of 
+
+the respondents, with batteries playing a crucial role in flexible and dispatchable power 
+
+systems characterized by growing penetration of renewables. While the UK and the US 
+
+continue  to  be  the  leading  markets,  investors  are  increasingly  looking  into  new  growth 
+
+markets such as Germany, Italy and Greece. 
+
+Biogas  and  biomethane  have  also  garnered  significant  interest,  driven  by  the  role  of 
+
+biomethane  in  decarbonizing  heat  and  transport.  In  addition  to  various  government 
+
+incentives, a key impetus is RePower EU with a target of 35 bcm of sustainable biomethane 
+
+production by 2030. Buoyant investor sentiment is supported by offtake agreements and the 
+
+opportunity to build scalable platforms with diverse revenue streams.
+
+Not surprisingly, electrification of heat (heat pumps) and energy efficiency schemes are top 
+
+5 constituents for two consecutive years. Rounding off the top 5 asset category is Sustainable 
+
+Aviation Fuels (SAF) – the primary decarbonization lever for the aviation sector – with 60-70 % 
+
+of major global airlines now targeting ~10 % SAF uptake on average by 2030. 
+
+CCS also continues to be of interest, albeit the opportunities to invest in large scale transport 
+
+and storage infrastructure are currently limited. There is considerable interest, however, in 
+
+capture technologies/solutions – both new and existing.
+
+Asset categories that appear to be relatively less appealing to investors in 2024 include 
+
+offshore wind, low carbon hydrogen, long duration energy storage (excl. BESS) and nuclear 
+
+(SMR). 
+
+• The offshore wind sector has been subject to a series of negative press – failed 
+
+auctions,  impairments,  and  headwinds  such  as  supply  chain  challenges,  cost 
+
+inflation ,  bureaucratic  hurdles ,  and  inefficient  leasing.  While  long-term 
+
+fundamentals remain intact for offshore wind, there is understandable nervousness 
+
+regarding near-term greenfield investments.
+
+• While hydrogen continues to intrigue investors, they recognize the nascency of 
+
+offtake  agreements  which  can  adversely  impact  the  investment  thesis. 
+
+Opportunities to co-invest with energy and utility companies (involved in production 
+
+and offtake) can be explored further.
+
+• Other LDES technologies (mechanical and thermal) are selectively of interest to 
+
+investors as they are yet to reach BESS proliferation levels driven by their unique 
+
+applications, scalability limitations, and exit considerations.
+
+•  Investors  are  also  cautiously  intrigued  by  novel  nuclear  reactor  technologies  
+
+(e.g., SMR), but are fully cognizant of the timeline to large scale commercialization 
+
+and strong potential for cost and time overruns. 
+
+16      
+
+Roland Berger | Infrastructure Investment Outlook 202411 
+
+ Biomethane deep dive – survey results
+
+Most appealing aspects of investing in biomethane assets (N=40) [% of respondents]
+
+Offtaker willingness to pay
+
+70 %
+
+Platform scalability
+
+55 %
+
+Decarbonization target 
+contribution of biomethane
+
+38 %
+
+Margin profiles
+
+23 %
+
+Diversity of revenue pools
+
+15 %
+
+Key concerns regarding investing in biomethane assets (N=40) [% of respondents]
+
+Feedstock availability
+
+78 %
+
+Technology risk
+
+Offtake demand
+
+65 %
+
+60 %
+
+Long-term margin expectations
+
+43 %
+
+Regulatory risk
+
+30 %
+
+Source: Roland Berger Infrastructure Investment Outlook Survey 2024
+
+17      
+
+Roland Berger | Infrastructure Investment Outlook 2024Zoom in: Biogas
+
+The advent of biogas/biomethane as a Top 5 asset 
+
+category for 2024 necessitates a closer look at the 
+
+underlying European market dynamics. 
+
+Europe  has  strategically  positioned  biomethane  as  a  crucial  component  of  its 
+
+decarbonization and sustainability agenda. In addition to being a valuable commercial 
+
+product emanating from anaerobic digestion, biomethane helps with curtailing greenhouse 
+
+gas emissions and embraces the principles of a circular economy.  
+
+Biomethane production in Europe is intricately tied to three primary feedstocks — energy 
+
+crops, organic waste, and animal manure. The European Union’s Renewable Energy Directive 
+
+(EU RED II) strategically incentivizes feedstocks with high greenhouse gas saving potential – 
+
+animal manure being notably prized over energy crops and organic waste due to its low 
+
+carbon intensity. Feedstock sourcing strategies need to consider factors such as feedstock 
+
+availability,  transportation  costs,  and  local  policies,  all  of  which  impact  the  economic 
+
+feasibility of biomethane production. 
+
+Biomethane  offtake  primarily  falls  into  two  categories  –  transport  and  generation.  The 
+
+transport sector, fuelled by RED II, presents a compelling offtake market for biomethane 
+
+(bio-CNG or bio-LNG) for hard-to-electrify transport applications such as long-haul heavy-
+
+duty trucks. From a generation perspective, biomethane is a valuable drop-in substitute for 
+
+natural gas in terms of grid injection for decarbonizing residential and commercial heat 
+
+applications. 
+
+18      
+
+Roland Berger | Infrastructure Investment Outlook 2024  
+The  attractiveness  of  these  offtake  segments  varies  across  countries  in  the  EU.  While 
+
+Germany places a strong emphasis on decarbonizing the transport sector, the Netherlands 
+
+leans more towards the role of biomethane in district heating.
+
+Beyond these offtake streams, new opportunities are emerging. Of particular importance is 
+
+the potential for biogenic CO2 (byproduct during the upgrade of biogas to biomethane) in 
+
+the production of e-fuels and SAF.  
+
+The European biomethane market is currently experiencing pricing disparities driven by 
+
+differing  national  regulations  and  subsidy  systems.  Notably,  the  price  for  biomethane 
+
+guarantees of origin (GO) is ~1-2 EUR/MWh in France, compared to ~10 EUR/MWh in the 
+
+Netherlands and Denmark. The lack of Standardized regulations currently impedes cross-
+
+border  biomethane  trade  in  Europe.  However,  there  is  a  clear  desire  to  move  towards 
+
+harmonization via a European biomethane trading system involving certification schemes 
+
+such as EU UDB (Union Database for Biofuels), ERGaR (European Renewable Gas Registry). 
+
+Bilateral trading agreements between countries such as Austria, Denmark, Germany, and 
+
+the UK are also under consideration.
+
+As the secular tailwinds of Energy Transition and decarbonization gain further momentum 
+
+spurred by national targets and NDCs, we envisage the Energy sector to remain a favorite 
+
+with investors.
+
+19      
+
+Roland Berger | Infrastructure Investment Outlook 20243.2  Utilities
+
+Investment in global utilities, perhaps one of the most mature core infrastructure asset 
+
+classes, is facing material change due to the weakening fiscal positions in the OECD and the 
+
+demands of energy transition. This is depressing deal volume, particularly for large deals but 
+
+simultaneously creating new Core+ opportunities.   
+
+ Figure 12
+
+12 
+
+ Biomethane deep dive – survey results
+
+Relative focus by asset type – 2024 vs. 2023 [ % of respondents] 
+
+50
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+Core
+
+N = 38
+
+Core+
+
+N = 39
+
+Value add
+
+N = 36
+
+Decrease significantly
+
+Decrease slightly
+
+No change
+
+Increase slightly
+
+Increase significantly
+
+Most attractive assets within utilities infrastructure (N=39) [ % of respondents]
+
+Waste management
+
+Heat networks/district heating
+
+Electricity last mile infrastructure
+
+Electricity distribution networks
+
+Water last mile infrastructure
+
+Water distribution networks
+
+Gas last mile infrastructure
+
+Gas distribution networks
+
+72 %
+
+56 %
+
+46 %
+
+38 %
+
+21 %
+
+21 %
+
+13 %
+
+10 %
+
+Waste management continues 
+to be the most attractive 
+segment within utilities
+
+District heating networks are gaining 
+prominence as high energy prices 
+drive the push for efficiency
+
+Source: Roland Berger Infrastructure Investment Outlook Survey 2024
+
+20      
+
+Roland Berger | Infrastructure Investment Outlook 2024Some of the early-mover markets like the UK are seeing a step change in risk associated with 
+
+Utilities infrastructure. Gradually growing populations, historical regulatory underinvestment, 
+
+early  impacts  of  climate  change,  falling  living  standards,  and  rising  interest  rates  are 
+
+conspiring to distress water utilities at a time when demands for investment in pollution 
+
+reductions are at an all-time high. Waste management businesses are mulling the gradual 
+
+emergence of carbon pricing. Gas distribution utilities are facing the dual headwinds of 
+
+reducing heat loads and increasing electrification, the latter providing a strong tailwind for 
+
+electricity DSOs. None of this change is necessarily conducive to a market for which extreme 
+
+predictability has attracted some of the lowest hurdle-rate investment in the world.
+
+Where this change is, however, producing a growing investment thesis is in utility-adjacent 
+
+sectors; this is clearly visible in our survey in the anticipated growth of smaller Core+ deal 
+
+flow. An example of this is in private networks and other last mile infrastructure.
+
+Providers  of  non-regulated  or  part-regulated  last  mile  electrical  networks,  the  UK 
+
+incarnation of which are iDNOs, are enjoying a period of great promise. These players, many 
+
+of which also provide other multi-utility gas and water offers, were introduced to bring price 
+
+competition to the DNO market around twenty years ago and have been a relatively quiet 
+
+backwater for investment. Today, with encouragement from demand for new housing and, 
+
+particularly, from EV charging infrastructure markets, they are facing some areas of non-
+
+linear  growth.  These  markets  are  hungry  for  capital,  and,  with  the  potential  to  access 
+
+adjacent energy transition themes like solar and heat pumps if emerging business models 
+
+can be proven, can point to strong upsides. We expect investment opportunities of this kind 
+
+to be of great interest going forward. Some of these have already been prominent in the last 
+
+twelve months.
+
+21      
+
+Roland Berger | Infrastructure Investment Outlook 20243.3 
+
+Transport
+
+Investors’ appetite for Transport infrastructure waned in 2023. Deal count was down ~50 % on 
+
+the annual average over the previous five-year period. However, there is a more positive 
+
+outlook on the sector for 2024, with increasing interest in Core+ and Value-add strategies. 
+
+This is supported by volume performance surpassing pre-Covid levels for some assets in key 
+
+transport sub-sectors such as airports, car parks, and ports.   
+
+ Figure 13
+
+13 
+
+ Transport infrastructure – survey results
+
+Relative focus by asset type –  2024 vs. 2023 [ % of respondents] 
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Core
+
+N = 43
+
+Core+
+
+N = 43
+
+Value add
+
+N = 43
+
+Decrease significantly
+
+Decrease slightly
+
+No change
+
+Increase slightly
+
+Increase significantly
+
+Source: Roland Berger Infrastructure Investment Outlook Survey 2024
+
+22      
+
+Roland Berger | Infrastructure Investment Outlook 2024Most attractive assets within transportation infrastructure (N=47) [ % of respondents]
+
+EV charging for commercial fleets
+
+First and last mile logistics
+
+72 %
+
+49 %
+
+Motorway Service Areas (MSAs)
+
+36 %
+
+EV charging infrastructure (passenger cars mainly)
+
+Mobility hubs
+
+Fuelling stations for commercial fleets 
+(hydrogen, biofuels)
+
+EV charging hubs (passenger cars mainly)
+
+Car parks
+
+Toll roads
+
+Fueling stations
+
+0 %
+
+30 %
+
+28 %
+
+26 %
+
+28 %
+
+21 %
+
+17 %
+
+Electrification of commercial fleets 
+continues to be seen as the "next big 
+thing" in transportation investment
+
+Source: Roland Berger Infrastructure Investment Outlook Survey 2024
+
+23      
+
+Roland Berger | Infrastructure Investment Outlook 2024Electrification remains a driving force
+
+Electric mobility continues to transform the landscape of Transport infrastructure. While 
+
+headwinds  to  electrification  of  the  vehicle  parc  (politicking  including  sales  ban  delays, 
+
+challenging macroeconomic conditions, supply side disruptions, variable corporate strategy 
+
+focus, etc.) have presented themselves in recent months, electrification of commercial 
+
+fleets continues to be a key next topic. With advancements in EV technology, charging 
+
+infrastructure, and more favorable cost of ownership, widespread adoption of EVs in fleets 
+
+draws ever closer. Specifically in HGV charging, depot storage/charging infrastructure and 
+
+fuelling/charging network assets appeal to investors, albeit with concerns over utilization 
+
+risk, technology risk, and margin pressure, in what is still a very nascent market. Other focus 
+
+topics include first- and last-mile logistics, and infrastructure on major road routes (e.g., 
+
+motorway service areas, charging and mobility hubs).
+
+Decarbonizing transport is not solely about electrification. Other lower-carbon solutions 
+
+such as biofuels and biogas present accessible alternatives, especially in heavy-duty road 
+
+vehicles,  while  the  outlook  remains  positive  for  sustainable  aviation  fuels  and  greener 
+
+marine fuels, which will require associated infrastructure, equipment, and services. Across 
+
+the board in Transport infrastructure, including traditional sub-sectors such as rail, buses, 
+
+and ferries, companies with a clear plan to decarbonize their fleets and operations are being 
+
+favored, especially if they can demonstrate first mover advantage or signals of being an 
+
+early  winner,  as  seen  in  the  Nordic  ferry  market  (e.g.,  Norled,  Fjord1)  and  bus  market  
+
+(e.g. Umove).
+
+EV charging
+
+Notable investments in EV charge point operators and electrification solution providers 
+
+included Zenobē (KKR), Electrip (Wren House), WattEV (Apollo), Wattif (Marguerite), and 
+
+Elaway (SUSI). These assets span transit buses to passenger cars, rapid to slow charging 
+
+across public, depot and residential use cases, and both North America and Europe. Clearly, 
+
+investors  are  exploring  different  angles  of  a  fast-growing  opportunity  in  EV  charging 
+
+provision.
+
+Clean fuelling networks
+
+While BEVs look increasingly certain to be the solution to Decarbonizing segments of the 
+
+commercial vehicle landscape, in areas such as long-haul heavy goods transport, liquid 
+
+fuels (biodiesel, biogas, hydrogen) provide a more pragmatic solution to some operators for 
+
+at least an interim period (if not permanently in particularly-difficult-to-electrify segments). 
+
+Networks for such fuels will require dedicated infrastructure (though with some overlap in 
+
+equipment and required capabilities with traditional fuel stations) and the fact that many of 
+
+the  users  of  such  networks  will  be  vehicle  fleet  operators  will  give  a  degree  of  revenue 
+
+visibility through B2B contracts (be it direct or via fuel card companies) on top of upsides 
+
+from renewable transport fuel certificates.
+
+24      
+
+Roland Berger | Infrastructure Investment Outlook 202414 
+
+HGV decarbonization deep dive – survey results
+
+Most appealing assets in HGV decarbonization (N=44) [ % of respondents]
+
+Depot storage/charging 
+infrastructure
+
+Fuel storage/transportation 
+infrastructure
+
+(semi-) Public charging 
+network infrastructure
+
+57 %
+
+41 %
+
+36 %
+
+Fueling networks
+
+30%
+
+Fuel production facilities
+
+Fuel feedstock supply chains
+
+20%
+
+18%
+
+Key concerns regarding investing in HGV decarbonization (N=45) [ % of respondents]
+
+Utilization risk
+
+Technology risk
+
+71 %
+
+58 %
+
+Pricing/margin pressure
+
+42 %
+
+Stranded asset risk
+
+31 %
+
+Source: Roland Berger Infrastructure Investment Outlook Survey 2024
+
+25      
+
+Roland Berger | Infrastructure Investment Outlook 2024Zoom in: HGV decarbonization
+
+As decarbonization of passenger cars takes its place 
+
+firmly within the scope for infrastructure investors, 
+
+many are starting to think about the “next big thing” 
+
+in transportation – these conversations often revolve 
+
+around HGV decarbonization.
+
+There are over 6.5 million medium and heavy-
+
+duty vehicles (commercial vehicles over 3.5t) 
+
+in circulation in the EU and UK – a substantial 
+
+number that is further amplified in terms of 
+
+emissions share by the fact that heavy-duty 
+
+vehicles tend to be heavily utilized and are 
+
+significantly more carbon-intensive than 
+
+smaller passenger cars (HGVs are 20x more 
+
+polluting than passenger cars on a per vehicle 
+
+basis). After accounting for these amplifying 
+
+factors – HGVs produce around a quarter of 
+
+all road transport CO2 emissions across the EU 
+
+and UK, making their decarbonization a crucial 
+
+step in reaching Europe’s overarching climate 
+
+goals. In recognition of this fact, governments 
+
+across Europe have introduced legislation 
+
+to drive HGV decarbonization that often 
+
+mimics the legislation present for passenger 
+
+cars, albeit with a lag given the lower level of 
+
+technological maturity for zero-emission HGVs. 
+
+In the EU, a recently proposed policy update 
+
+is likely to establish a target of reducing HGV 
+
+emissions by 45 % by 2030, 65 % by 2035 and 90 % 
+
+by 2040 (over 2019 levels). 
+
+EU HGV emissions 
+reduction targets
+
+45 %
+
+by 2030
+
+65 %
+
+by 2035
+
+90 %
+
+by 2040
+
+26      
+
+Roland Berger | Infrastructure Investment Outlook 2024In the UK, as part of the Government’s Transport Decarbonization plan, the sale of HGVs 
+
+which emit carbon dioxide and other noxious gases at the tailpipe will be banned after 
+
+2040 (and after 2035 for vehicles smaller than or equal to 26t). Alongside policy targets and 
+
+sales restrictions, governments are introducing financial incentives for decarbonization in 
+
+the form of subsidies, investment commitments, and tax breaks – for example, the French 
+
+government is introducing a bonus that could cover up to ~20 % of the purchase or long-
+
+term leasing cost of a zero emission HGV, with similar grants being introduced in the UK.
+
+There are only a handful of ways through which the road freight transportation industry can 
+
+reach these targets, with battery electric and fuel cell being the only solutions that effectively 
+
+reduce local air pollution. Biofuels offer an attractive alternative to truck operators but are 
+
+likely to suffer from significant competition for feedstocks with other biomass applications, 
+
+and Power-to-Liquid fuels are likely to continue to be cost prohibitive for road transportation. 
+
+At the same time, major HGV OEMs are investing R&D capital into zero emission (battery 
+
+electric and hydrogen fuel cell) truck development, and many are announcing ambitions to 
+
+transition their offering to a fully zero emission one by 2035, suggesting both battery electric 
+
+and hydrogen FC trucks are likely to take a significant share of the market in the long term, 
+
+with biofuels playing a bridging technology role in the shorter term.
+
+This  creates  significant  opportunities  for  infrastructure  investments,  in  both  electric 
+
+charging for HGVs and hydrogen infrastructure, with early projections suggesting that over 
+
+250,000 depot and on road electric charging points for HGVs will need to be rolled out as 
+
+soon as by 2030, alongside upwards of ~2,000 hydrogen refuelling stations. Investors clearly 
+
+realize the magnitude of the opportunity, with 57 % of the survey respondents identifying EV 
+
+charging for commercial fleets as one of the most attractive asset classes in transportation. 
+
+Within HGV infrastructure specifically, depot and fuel storage / transportation infrastructure 
+
+are the most popular, with (semi-) public infrastructure following closely. Concerns, such as 
+
+technological uncertainty (e.g., need for 600 kW+ high-power charging to charge trucks 
+
+during driver rest breaks) and future utilization risk are likely to dampen the appetite of 
+
+investors in the immediate future, however as technology matures and innovative financing 
+
+models (e.g., Zenobe Battery on the eBus, electric transport as a service) take shape to 
+
+reflect  the  additional  capex  and  technological  risks  faced  by  fleet  operators,  we  will 
+
+undoubtedly see infrastructure investors come into the market.
+
+27      
+
+Roland Berger | Infrastructure Investment Outlook 20243.4  Digital infrastructure
+
+For the five years preceding 2023, we witnessed phenomenal growth in Digital infrastructure 
+
+investment. Both in terms of deal count and value, Digital infrastructure consistently grew its 
+
+share of the total infrastructure investment space. 
+
+Over this period, traditional private equity was crowded out by infrastructure funds as IRRs 
+
+fell to single digits and the penchant for minority deals grew. 
+
+The three core digital asset classes – towers, data centers, and fibre – all tend to exhibit 
+
+traditional infrastructure characteristics of essential services to the economy, high capex 
+
+and barriers to entry, limited competition within a geographic catchment, sticky customers, 
+
+and/or  long-term  contracts.  One  key  driver  of  historical  M&A  activity  has  been  the 
+
+de-verticalization of traditional telcos – carving out towers, disposing of data centers, and 
+
+formalization of netco/servco models with new infrastructure financing for the netco. These 
+
+types of deals have largely dried out over the past 18 months as interest rates rose. 
+
+The slowdown in growth that started in 2022 worsened in 2023 as deal count declined by 30 % 
+
+and average deal size almost halved y-o-y. 
+
+Apart from refinancing, there was very little deal activity in 2023 in the fibre sub-sector for 
+
+two main reasons: (i) there is increasing evidence that fibre/broadband prices have not kept 
+
+pace with inflation, and (ii) there are concerns in several key geographies regarding “over-
+
+build” risk along with lower-than-expected take-up related to local fibre specifically.  
+
+Likewise, tower deals in 2023 were largely skewed to minority towerco deals rather than new 
+
+asset deals.
+
+Therefore, although global deal volumes were down y-o-y, they continued to increase in 
+
+Europe, with data centers still representing a focus for many infrastructure investors in 2023. 
+
+With global data consumption growth not abating and customer contracts which are largely 
+
+immune to inflation, many investors continue to see this sub-sector as relatively attractive. 
+
+There are two further factors which are driving investment interest in data centers: (i) edge 
+
+computing  is  becoming  more  of  a  reality;  and  (ii)  the  hype  that  is  Gen-AI  is  driving  real 
+
+incremental growth in data consumption and, along with this, investment requirements in 
+
+underlying associated infrastructure. 
+
+Demand for high performance computing associated with AI/ML requires more power-
+
+intensive GPUs, such as those of Nvidia. Estimates suggest that an extra 2,000 to 2,500 MW 
+
+of IT load could be needed to meet the demand for AI workloads based on Nvidia's forecast 
+
+to ship up to 2.5 million H100 / H200 chips in 2024 (up from c.500k in 2023).
+
+28      
+
+Roland Berger | Infrastructure Investment Outlook 202415 
+
+ Digital infrastructure – survey results
+
+Relative focus by asset type – 2024 vs. 2023 [ % of respondents] 
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Core
+
+N = 43
+
+Core+
+
+N = 43
+
+Value add
+
+N = 43
+
+Decrease significantly
+
+Decrease slightly
+
+No change
+
+Increase slightly
+
+Increase significantly
+
+Most attractive assets within digital infrastructure (N = 36) [ % of respondents]
+
+Edge computing/data centers
+
+83 %
+
+Dark fibre/capacity
+
+Cell towers
+
+Local access fibre
+
+Other smart/edge infrastructure  
+(buildings, billboards, EV charging, poles, etc.)
+
+ML/AI-as-a-service
+
+Small cells
+
+Edge computing continues to be viewed 
+as the most attractive sector, with 
+investors expecting increases in data 
+consumption and public cloud demand
+
+42 %
+
+39 %
+
+28 %
+
+17 %
+
+6 %
+
+6 %
+
+Source: Roland Berger Infrastructure Investment Outlook Survey 2024
+
+According to our survey, Digital infrastructure investors are among the most optimistic in 
+
+terms of deal activity for 2024. A majority of investors are expecting a tale of two halves – 
+
+with caution still prevailing in H’1 but activity picking up in H’2 on the back of anticipated 
+
+interest rate reductions (albeit modest) and associated debt financing costs. 
+
+For the above stated reasons, data centers and edge computing are expected to remain the 
+
+dominant focus for investors in 2024.
+
+29      
+
+Roland Berger | Infrastructure Investment Outlook 20243.5 
+
+Social infrastructure
+
+Traditional social infrastructure assets have fallen out of favor with investors. Recent deal 
+
+flow is below historical levels, in both value and volume terms (noting that historical data 
+
+often includes separate portfolio assets (e.g., hospitals in a chain) as multiple transactions, 
+
+driving high deal count in 2016/17). The decline over 2022-23 was the sharpest across the 
+
+asset classes we cover. Furthermore, the outlook is still less positive than that for the other 
+
+sectors, with more than 60 % of survey respondents expecting deal count to remain stable or 
+
+decline through 2024 y-o-y. Sentiment is marginally worse in education than healthcare, 
+
+with 73 % of survey respondents expecting a stagnation or slowdown in education deals, vs. 
+
+63 % in healthcare. 
+
+Our survey highlights a number of Core+ and Value-add strategies catching the eyes of 
+
+investors. In healthcare, diagnostics labs, healthcare equipment leasing services, and care 
+
+homes are seen as the most attractive asset classes, and early education/nursery assets 
+
+standing out in education. While in healthcare this is in line with our findings from our 2023 
+
+report, in the education sector the focus has shifted away from primary and secondary 
+
+schools and focused more strongly on early education/nursery assets.
+
+16 
+
+ Social infrastructure – survey results
+
+Relative focus by asset type – 2024 vs. 2023 [ % of respondents] 
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Core
+
+N = 26
+
+Core+
+
+N = 25
+
+Value add
+
+N = 25
+
+Decrease significantly
+
+Decrease slightly
+
+No change
+
+Increase slightly
+
+Increase significantly
+
+Source: Roland Berger Infrastructure Investment Outlook Survey 2024
+
+30      
+
+Roland Berger | Infrastructure Investment Outlook 2024Most attractive assets within healthcare infrastructure (N=28) [ % of respondents]
+
+Diagnostics labs
+
+Healthcare equipment leasing and services
+
+50 %
+
+46 %
+
+Care homes
+
+32 %
+
+Private clinics (excluding dental)
+
+Pharmacy chains
+
+21 %
+
+18 %
+
+Special (healthcare) education needs
+
+14 %
+
+Veterinary chains/clinics
+
+Ophthalmology clinics
+
+Mental health chains
+
+Dental clinics
+
+11%
+
+11 %
+
+4 %
+
+4 %
+
+Most attractive assets within education infrastructure (N=23) [ % of respondents]
+
+Early education/nurseries
+
+Universities
+
+Vocational training and retraining
+
+Primary and secondary schools
+
+39 %
+
+30 %
+
+22 %
+
+22 %
+
+Source: Roland Berger Infrastructure Investment Outlook Survey 2024
+
+31      
+
+Roland Berger | Infrastructure Investment Outlook 2024Zoom in: Healthcare
+
+As many Western economies slow down or even 
+
+enter recession, segments with high resilience may 
+
+increase in priority for investors. Healthcare is one 
+
+such sector where spending is typically ringfenced 
+
+during downturns. 
+
+Fu r th e rm o re,  COVI D -19  d e m o n s trated  th e  l o n g -te rm  i m p l icatio n s  of  c h ro n ic 
+
+underinvestment in healthcare systems, meaning spending is likely to be further protected. 
+
+Overall, this could provide a positive area for investor interest, with certain pockets poised to 
+
+benefit from these macro-trends.
+
+Diagnostic labs are emerging in importance was many European hospitals have insufficient 
+
+imaging capabilities to support  the medical  needs  of  patients and the requirements of 
+
+doctors. As an asset class diagnostic labs have a good fit with infrastructure fund portfolios, 
+
+given the essential role that outsourced labs are increasingly taking in healthcare systems, 
+
+and  strong  long-term  outlook  given  the  increasing  prevalence  of  chronic  diseases  and 
+
+increasing emphasis on preventative medicine.
+
+The diagnostic lab market is highly fragmented. Many investors are seeing opportunities for 
+
+buy and build to accelerate growth at either a national or regional level. Recent acquisitions 
+
+of  Excellence  Imagerie  by  Antin  Infrastructure  Partners  and  Alliance  Medical  by  Icon 
+
+Infrastructure are cases in point.
+
+Healthcare equipment leasing and services are a growing offering, as primary care facilities 
+
+look to defray capital expenditures during times of significant budget pressure. This business 
+
+model has been seen across all capital equipment, with imaging equipment, orthopaedics/
+
+prosthetics, and endoscopy apparatus as the most common topics. The model is a good fit 
+
+for infrastructure funds given the high cashflow security and visibility from inflation-linked 
+
+long-term contracts, and limited exposure to clinical risk (given separation of the operator 
+
+and lessor).
+
+Care homes are often seen as a way of accessing the megatrends of an aging population 
+
+with increasing prevalence of chronic diseases, with >30 % of respondents identifying them 
+
+among the most attractive assets. However, the sector is still recovering from a string of 
+
+crises, most notably COVID-19 (reducing occupancy and leading to operational challenges) 
+
+and rising interest rates leading to a challenging funding environment. This has seen appetite 
+
+reduce significantly, with the acquisition of Orpea by a consortium led by CDC the only major 
+
+transaction in 2023.
+
+Private clinics and specialized clinics (particularly mental health and dental clinics) are once 
+
+again seen as less interesting to infrastructure funds in 2024, as their relatively high levels of 
+
+clinical risk lead to lower cashflow security vs. other healthcare assets.
+
+32      
+
+Roland Berger | Infrastructure Investment Outlook 20243.6  Hybrid infrastructure
+
+Definition: new assets that do not belong to one of the 
+traditional infrastructure sectors, but where the business 
+model or underlying sector exposure qualifies them as 
+meeting many of the infrastructure asset test criteria.
+
+Every year, new asset types are brought into the fold by infrastructure investors, broadening 
+
+the definition of the infrastructure universe. Most of these assets do not meet the full range 
+
+of traditional infrastructure test criteria, necessitating trade-offs for investment committees 
+
+to get comfortable with the infrastructure investment thesis. De-risking the business during 
+
+the holding period is of critical importance for value creation and exit positioning.
+
+With such infra-like hybrid assets, investors must get comfortable with shorter contracts 
+
+(typically 1-3 years), the relatively asset-light business model and a lack of explicit downside 
+
+protection. Typically, investors gain conviction through the recurring nature of the use case 
+
+(examples include HVAC equipment rental businesses such as Coolworld), the business’s 
+
+strong customer relationships characterized by low churn (examples include modular unit 
+
+leasing  players  such  as  Portakabin),  and  the  mission  critical  nature  of  the  solution  by 
+
+combining the asset base with a strong service wrapper (examples include commercial 
+
+vehicle rental/leasing solution providers such as Fraikin and Petit Forrestier).
+
+17 
+
+ Hybrid infrastructure – survey results
+
+Relative focus by asset type – 2024 vs. 2023 [ % of respondents] 
+
+55
+
+50
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+No 
+Core 
+Assets
+
+Core
+
+Core+
+
+N = 30
+
+Value add
+
+N = 30
+
+Decrease significantly
+
+Decrease slightly
+
+No change
+
+Increase slightly
+
+Increase significantly
+
+Source: Roland Berger Infrastructure Investment Outlook Survey 2024
+
+33      
+
+Roland Berger | Infrastructure Investment Outlook 202417 
+
+ Hybrid infrastructure – survey results (continued)
+
+Most attractive assets within hybrid infrastructure (N=34) [ % of respondents]
+
+Rental of specialist equipment (e.g. access platform)
+
+64 %
+
+Equipment as a service (e.g. critical commercial 
+equipment such as laundry and catering equipment)
+
+50 %
+
+Modular construction unit leasing/rental
+
+39 %
+
+Closed loop logistics
+
+Fire safety solutions
+
+31 %
+
+28 %
+
+Holiday parks/outdoor accommodation parks
+
+11 %
+
+Source: Roland Berger Infrastructure Investment Outlook Survey 2024
+
+Our survey highlights that this is a segment that is continuing to receive increasing interest, 
+
+with  70 %  of  respondents  expecting  the  deal  count  to  increase  in  2024.  With  specialist 
+
+equipment rental, equipment-as-a-service and modular unit leasing/rental topping the list 
+
+of most attractive asset types.
+
+34      
+
+Roland Berger | Infrastructure Investment Outlook 2024AUTHORS
+
+Siongkoon Lim
+
+Partner    
+
++44 7967 674859  
+
+Arindam Das
+
+Principal   
+
++44 7967 674836 
+
+siongkoon.lim@rolandberger.com
+
+arindam.das@rolandberger.com
+
+Hrishikesh Potey
+
+Partner    
+
++44 7880 202037 
+
+Martin Weissbart 
+
+Principal    
+
++49 1607 448420   
+
+hrishikesh.potey@rolandberger.com
+
+martin.weissbart@rolandberger.com
+
+Tim Longstaff
+
+Partner    
+
++44 7880 202910  
+
+Chris Stern
+
+Project Manager    
+
++44 7788 390074   
+
+tim.longstaff@rolandberger.com
+
+christopher.stern@rolandberger.com
+
+Michael Knott
+
+Partner    
+
++44 7733 804952    
+
+Aaron Chugger
+
+Project Manager  
+
++44 7967 674829
+
+michael.knott@rolandberger.com
+
+aaron.chugger@rolandberger.com
+
+Adam Healy
+
+Principal   
+
++44 7880 203099
+
+Lev Blinov
+
+Senior Consultant   
+
++44 7384 213402 
+
+adam.healy@rolandberger.com
+
+lev.blinov@rolandberger.com
+
+05.2024
+
+ROLANDBERGER.COM
+
+This publication has been prepared for general guidance only. The reader should not act according to any 
+information provided in this publication without receiving specific professional advice. Roland Berger GmbH 
+shall not be liable for any damages resulting from any use of the information contained in the publication.
+
+© 2024 ROLAND BERGER GMBH. ALL RIGHTS RESERVED.
+
+ROLAND BERGER is one of the world's leading strategy 
+
+consultancies with a wide-ranging service portfolio for 
+
+all relevant industries and business functions. Founded 
+
+in 1967, Roland Berger is headquartered in Munich. 
+
+Renowned for its expertise in transformation, innovation 
+
+across all industries and performance improvement, 
+
+the consultancy has set itself the goal of embedding 
+
+sustainability in all its projects. Roland Berger revenues 
+
+stood at more than 1 billion euros in 2023.
+
+Publisher
+
+ROLAND BERGER LTD
+
+55 Baker Street
+
+London W1U 8EW
+
+United Kingdom
+
++44 20 3075 110
+
+

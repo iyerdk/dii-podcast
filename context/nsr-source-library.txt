@@ -1,0 +1,203 @@
+22/03/2026, 17:40
+
+Source Library — NSR/BCG Conference 2026
+
+Curated Reading List by Conference Theme
+
+Theme 1: Extending Networks Skyward — Mobile Connectivity &
+Convergence
+
+1.1 BCG, “The Next Wave of Telecom Growth: Fixed-Mobile Convergence in Europe,” 2024 - URL:
+https://www.bcg.com/publications (search: telecom convergence Europe) - BCG analysis of how ﬁxed-mobile
+bundling is reshaping European competitive dynamics, with data on FMC penetration rates across 15 markets.
+Directly relevant to convergence narrative at conference. Quantiﬁes the ARPU premium from converged offers
+at 15–25%.
+
+1.2 GSMA, “The Mobile Economy Europe 2025,” February 2025 - URL:
+https://www.gsma.com/mobileeconomy/europe/ - Comprehensive dataset on 5G rollout, spectrum allocation, and
+mobile revenue trends across Western Europe. Includes NTN/satellite-to-device projections. Key reference for
+5G SA deployment timelines and the convergence of terrestrial and non-terrestrial networks.
+
+1.3 Ericsson Mobility Report, “Europe Edition,” November 2025 - URL: https://www.ericsson.com/en/reports-
+and-papers/mobility-report - Trafﬁc growth forecasts, 5G subscription projections, and FWA adoption data for
+Europe. Projects European mobile data trafﬁc to grow 20% CAGR through 2030. Critical for understanding
+network capacity arguments driving convergence strategies.
+
+1.4 McKinsey, “The State of 5G: Closing the Gap Between Hype and Reality,” 2024 - URL:
+https://www.mckinsey.com/industries/technology-media-and-telecommunications - Assessment of 5G
+monetization progress, with sector-by-sector B2B use case analysis. Argues that enterprise 5G revenues remain
+below expectations but FWA is a bright spot. Relevant to discussion on extending networks into new verticals.
+
+1.5 Ofcom, “Connected Nations Update,” December 2025 - URL: https://www.ofcom.org.uk/research-and-
+data/telecoms-research/connected-nations - UK-speciﬁc data on 5G coverage, shared rural networks, and satellite
+connectivity pilots. Key for UK-focused discussions on network extension and convergence.
+
+Theme 2: Capital Strategies 2.0 — Ownership & Partnerships
+
+2.1 Roland Berger, “European Telecom Infrastructure: The Investor Perspective,” 2024 - URL:
+https://www.rolandberger.com/en/Insights/ - Analysis of private equity and infrastructure fund activity in
+European telecom assets. Maps the ownership shift from integrated operators to carve-out infrastructure vehicles.
+Documents €80bn+ in PE-backed telecom infrastructure deals since 2020.
+
+2.2 Oliver Wyman, “The Asset-Light Telco: Myth or Model?,” 2024 - URL: https://www.oliverwyman.com/our-
+expertise/industries/communications-media-technology.html - Examines the asset-light vs. asset-right debate,
+with case studies from TIM NetCo, BT Openreach, and KPN. Concludes that asset-light works for operators with
+scale but creates dependency risks. Directly relevant to TIM’s presence at conference.
+
+2.3 S&P Global Ratings, “European Telecom Outlook 2025–2026,” January 2025 - URL:
+https://www.spglobal.com/ratings/en/sector/telecoms - Credit rating trajectory for major European operators,
+leverage trends, and capex sustainability analysis. Tracks median net debt/EBITDA across the sector at ~3.2x.
+Essential context for capital structure discussions with PE panel.
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/SOURCE_LIBRARY.html
+
+1/4
+
+22/03/2026, 17:40
+
+2.4 New Street Research, “European Towers & Infrastructure — Annual Review,” 2025 - URL: Available to
+subscribers via institutional access - Deep analysis of tower valuations, towerco M&A multiples, and
+infrastructure sharing economics. Core reference for Cellnex session and PE panel discussions on digital
+infrastructure asset pricing.
+
+2.5 Fitch Ratings, “EMEA Telecommunications Dashboard,” Q4 2025 - URL:
+https://www.ﬁtchratings.com/sector/telecommunications - Quarterly dashboard with leverage, free cash ﬂow, and
+rating outlook for top 20 European operators. Useful benchmark data for company brief ﬁnancials.
+
+Theme 3: Monetization Re-Visited — Next Leg of Organic Growth
+
+3.1 BCG, “Winning the B2B Opportunity in European Telecoms,” 2025 - URL:
+https://www.bcg.com/publications - Quantiﬁes the €50bn+ B2B digital services opportunity for European telcos
+by 2028. Identiﬁes cloud, cybersecurity, and IoT as the three growth vectors. Relevant to TIM Enterprise, BT
+Business, and Proximus discussions.
+
+3.2 ETNO, “State of Digital Communications 2025,” March 2025 - URL: https://etno.eu/library/reports.html -
+Annual benchmark of European telecom sector performance: revenue, ARPU, capex intensity, and digital service
+revenue share. Reports that digital services now account for ~12% of total operator revenue, up from 7% in
+2020.
+
+3.3 McKinsey, “Telco Revenue Growth: Five Plays That Work,” 2024 - URL:
+https://www.mckinsey.com/industries/technology-media-and-telecommunications - Identiﬁes ﬁve proven
+monetization strategies: ARPU upsell, converged bundles, B2B digital, network-as-a-service, and ad-tech/data
+monetization. Provides case study evidence from Orange, Deutsche Telekom, and Telenor.
+
+3.4 PwC, “Global Telecom Outlook 2025–2029,” 2025 - URL:
+https://www.pwc.com/gx/en/industries/tmt/telecom-outlook-perspectives.html - Projects global telecom revenue
+CAGR at ~2.8% through 2029, with European growth lagging at ~2%. Highlights that operators adopting
+“TelcOS” AI-native models can achieve 200–400bps margin improvement. Key macro context for monetization
+theme.
+
+Theme 4: Networks Meet AI — GenAI & Automation for Telcos
+
+4.1 BCG, “AI-Native Telcos: From Pilots to Platform,” 2025 - URL: https://www.bcg.com/publications -
+Framework for telco AI maturity, from experimentation to embedded AI across network ops, customer care, and
+ﬁeld service. Estimates AI can reduce opex by 15–25% over 5 years for a typical Western European operator.
+Core reference for AI theme.
+
+4.2 GSMA, “AI for Telecoms: From Hype to Impact,” 2025 - URL: https://www.gsma.com/futurenetworks/ai -
+Survey of 60+ operators on AI adoption status, with European operators leading in network optimization but
+lagging in commercial AI products. Provides useful benchmark data for discussion starters.
+
+4.3 EU Commission, “InvestAI and AI Gigafactories Initiative,” January 2025 - URL: https://digital-
+strategy.ec.europa.eu/en/policies/ai - Outlines the €20bn EU investment program for AI infrastructure, including
+sovereign compute capacity. Relevant to understanding the regulatory push behind AI-ready networks and telco
+positioning.
+
+4.4 Bain & Company, “Telecom AI: Where the Value Really Is,” 2024 - URL:
+https://www.bain.com/insights/industry/telecommunications - Prioritizes AI use cases by ROI potential: network
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/SOURCE_LIBRARY.html
+
+2/4
+
+22/03/2026, 17:40
+
+optimization (highest), customer ops, and commercial. Argues that most telco AI pilots fail due to data quality
+issues. Useful counterpoint to optimistic AI narratives.
+
+Theme 5: Regulation 3.0 — Policy Support & M&A Impact
+
+5.1 EU Commission / DG-Comp, “Competition Policy in the Digital Age — Connectivity Markets,” 2025 -
+URL: https://competition-policy.ec.europa.eu/ - Latest competition policy guidance on in-market consolidation,
+with updated HHI thresholds and signaling on 4-to-3 mergers. Essential pre-reading for Marc Zedler session.
+
+5.2 The Draghi Report, “The Future of European Competitiveness,” September 2024 - URL:
+https://commission.europa.eu/topics/strengthening-european-competitiveness - Former ECB president’s
+landmark report calling for telecom consolidation, shift from ex-ante to ex-post regulation, and investment
+incentives. The single most referenced policy document at European telecom conferences in 2025–2026.
+
+5.3 Ofcom, “Promoting Investment and Competition in Fibre Networks,” 2024 - URL:
+https://www.ofcom.org.uk/consultations-and-statements - UK regulatory approach to balancing ﬁbre investment
+incentives with competitive access. Sets the context for UK Fiber Panel discussion on Openreach pricing, altnet
+sustainability, and wholesale access.
+
+5.4 Oliver Wyman, “Telecom Regulation in Transition: What Operators Can Expect,” 2025 - URL:
+https://www.oliverwyman.com/ - Maps the regulatory evolution from ex-ante price regulation toward ex-post
+competition enforcement. Argues this shift will be gradual and uneven across European markets. Good context
+for Regulation 3.0 discussions.
+
+Theme 6: Cloud-Native Transformation — Platformization
+
+6.1 BCG, “Cloud-Native Networks: The Telco Transformation Imperative,” 2024 - URL:
+https://www.bcg.com/publications - Blueprint for telco cloud-native transformation, including containerized core
+networks, CI/CD pipelines, and platform engineering. Estimates that cloud-native operators can reduce time-to-
+market for new services by 60%. Core reference for this theme.
+
+6.2 TM Forum, “Cloud-Native Transformation Tracker,” 2025 - URL: https://www.tmforum.org/ - Benchmark
+survey of 40+ operators on cloud-native adoption progress. Finds that only ~15% of European operators have
+achieved “cloud-native at scale” in core network functions. Useful for grounding discussions in reality.
+
+6.3 McKinsey, “Platform Telcos: Building the Digital Services Stack,” 2024 - URL: https://www.mckinsey.com/
+- Analyzes the platform play for telcos: network APIs, developer ecosystems, and digital marketplace models.
+Identiﬁes CAMARA network APIs as a potential inﬂection point for telco platform strategies.
+
+Theme 7: Technology Game-Changers — Innovation & Spectrum
+
+7.1 GSMA, “Spectrum for the AI Era: 6 GHz and Beyond,” 2025 - URL: https://www.gsma.com/spectrum/ -
+Position paper on 6 GHz allocation for mobile vs. Wi-Fi, with technical analysis and economic modeling. Argues
+that mobile allocation of upper 6 GHz is critical for 6G readiness. Central to spectrum discussion.
+
+7.2 EU Commission, “Radio Spectrum Policy: 2025 Review,” 2025 - URL: https://digital-
+strategy.ec.europa.eu/en/policies/radio-spectrum - EU-level spectrum policy update covering 6 GHz allocation
+timeline, satellite-terrestrial coordination, and spectrum sharing frameworks. Key regulatory reference for
+technology theme.
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/SOURCE_LIBRARY.html
+
+3/4
+
+22/03/2026, 17:40
+
+7.3 Nokia / Ericsson / Industry White Papers, “Open RAN: Progress and Outlook in Europe,” 2025 - URL:
+https://www.ericsson.com / https://www.nokia.com - Vendor perspectives on Open RAN deployment in
+European markets, including Vodafone UK and Deutsche Telekom pilots. Provides technical grounding for
+innovation discussions.
+
+7.4 NGMN Alliance, “6G Use Cases and Requirements,” 2024 - URL: https://www.ngmn.org/ - Industry vision
+for 6G, arguing against hardware refresh and for evolutionary upgrades from 5G-Advanced. Important
+counterweight to vendor-driven 6G hype narratives.
+
+Cross-Cutting Sources
+
+X.1 ING Think, “European Telecoms Outlook 2026,” January 2026 - URL:
+https://think.ing.com/articles/european-telecoms-set-to-see-modest-growth-in-2026/ - Forecasts 2% revenue
+growth and 2.5% EBITDA growth for European telcos in 2026. Useful macro framing.
+
+X.2 Goldman Sachs, “European Telecom: Poised for Growth Amid Deregulation,” October 2024 - URL:
+https://www.goldmansachs.com/insights/articles/european-telecom-companies-poised-for-growth-amid-
+deregulation - Bullish take on deregulation as catalyst for European telecom re-rating. Identiﬁes Italy, Nordics,
+and Germany as consolidation markets.
+
+X.3 Morgan Stanley, “Tech & Telecom: 2025 European Outlook,” 2025 - URL:
+https://www.morganstanley.com/insights/articles/tech-and-telecom-2025-european-outlook - Investment outlook
+highlighting AI integration, semiconductor opportunities, and telecom M&A as key themes.
+
+X.4 IBISWorld, “Telecommunications in Europe — Industry Report,” March 2026 - URL:
+https://www.ibisworld.com/europe/industry/telecommunications/200075/ - Market sizing: European telecom
+market at €502.6bn in 2026, with annual revenue growth of 2.5%.
+
+ﬁle:///Users/kr/Library/CloudStorage/OneDrive-Personal/Documents/Read/Telco/NSR%20Conference/ﬁles/SOURCE_LIBRARY.html
+
+4/4
+
+

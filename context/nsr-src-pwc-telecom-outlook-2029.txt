@@ -1,0 +1,986 @@
+Perspectives 
+from the Global 
+Telecom Outlook, 
+2025–2029
+
+Table of contents
+
+01  Introduction: Opportunities amid adversity 
+
+02  Five forces shaping the telecom industry 
+
+03  Capitalising on the AI infrastructure investment super‑cycle 
+
+04  Reinventing telecom business models 
+
+05  Shifting to AI‑native operations with ‘TelcOS’ 
+
+Author 
+
+03
+
+07
+
+14
+
+19
+
+23
+
+27
+
+The takeaways
+
+• Global telecom 
+
+traffic is soaring amid 
+flat-to-down ARPU 
+
+and modest revenue 
+
+growth, making 
+
+AI‑enabled cost 
+
+control and efficiency 
+
+essential.
+
+• AI and data 
+
+centres are driving 
+
+a new infrastructure 
+
+investment super‑
+
+cycle. Telecoms can 
+
+capture growth by 
+
+delivering AI‑era 
+
+connectivity and 
+
+sovereignty solutions.
+
+• To stay competitive, 
+
+operators are adopting 
+
+simpler ‘puretone’ 
+
+portfolio models and 
+
+AI‑native ‘TelcOS’ 
+
+operations.
+
+01
+
+3
+
+Introduction: 
+Opportunities amid 
+adversity
+
+In recent years, telecom operators have paved new information highways 
+
+in the form of 5G for mobile devices and fibre-optic lines for homes and 
+
+businesses. Now those highways are becoming more crowded. With each 
+
+passing day, billions of users stream more and sharper video, move data 
+
+in real time, connect cars and factories, and increasingly use artificial 
+
+intelligence (AI)-powered services. But in a continuation of a long-standing 
+
+trend, while usage by all measures is soaring, revenue isn’t. According to 
+
+PwC’s Global Telecom Outlook, global telecom service revenue is set to rise 
+
+from US$1.15 trillion in 2024 to roughly $1.32 trillion in 2029, representing a 
+
+steady, but unremarkable, compound annual growth rate (CAGR) of  
+
+around 2.8%. 
+
+The underlying reason for the sombre revenue outlook? Consumers’ flat-to-down 
+
+willingness to pay. Although regional growth rates vary widely, monthly average 
+
+revenue per user (ARPU) globally for mobile is expected to tick down marginally 
+
+to $6.20 in 2029 from $6.32 in 2024. What’s more, fixed broadband ARPU inched 
+
+up to only $19.81 in 2024 from $19.73 in 2023, dampened by a decline in fixed 
+voice revenue that will cause overall fixed ARPU to keep falling throughout the 
+
+studied period. The combination of slow revenue growth and declining ARPU is a 
+
+structural change, requiring a resetting of the telecom margin model. Integrating 
+
+AI can help by lowering service costs, reducing downtime, improving capital 
+
+allocation, and raising productivity—but only if paired with product simplification, 
+
+legacy shutdowns, footprint reduction, and vendor consolidation.
+
+PwC4
+
+Growth moderates
+
+PwCGlobal telecom revenue continues to grow steadily, though at a slightly reduced rate.202020212022202320242025202620272028202964266168971274477379982384786924926928830832534035436738139311110294898478736864601,0011,0321,0721,1091,1531,1911,2251,2591,2911,323Global telecom revenue by service type (US$bn)Note: Totals may not equal sums shown due to rounding.Source: PwC’s Global Telecom Outlook 2025–2029, OmdiaMobileFixed broadbandFixed voiceForecastForecast+3.6%+2.8%5
+
+Usage outpaces revenue
+
+PwCNetwork usage is accelerating far faster than ARPU, widening the monetisation gap2020202120222023202420252026202720282029Telecom data consumption (zetabytes) and average revenue per user (ARPU, US$)Source: PwC’s Global Telecom Outlook 2025–2029, OmdiaForecast$7.07$6.94$6.76$6.48$6.32$6.22$6.17$6.16$6.17$6.20$12.00$11.28$10.53$10.15$9.74$9.27$8.84$8.44$8.09$7.77$19.71$19.79$19.7$19.73$19.81$19.82$19.88$19.97$20.06$20.151.7 ZB2.2 ZB2.7 ZB3.1 ZB3.6 ZB4 ZB4.5 ZB5.1 ZB5.7 ZB6.3 ZB0.4 ZB0.4 ZB0.8 ZB0.4 ZB0.5 ZB0.6 ZB0.7 ZB1 ZB1.2 ZB1.4 ZB1.7 ZB2 ZBFixed broadband and WiFiMobileFixed voice ARPUFixed broadband ARPUMobile ARPU6
+
+Meanwhile, with value in motion across the global economy, two other parts 
+of the digital landscape are accelerating at a head‑snapping pace: AI and data 
+
+centres. Hyperscalers and investors are racing to build large compute clusters 
+
+that require high‑capacity, low‑latency, reliable interconnection. They will secure 
+
+connectivity the fastest and cheapest way possible: buy fibre from operators—or 
+
+build their own.
+
+Here’s the fundamental risk: Telecoms’ capex spending on long-lived assets like 
+
+towers, radios, and fibre as a share of revenue stepped down from 26.9% in 2022 
+
+to 22.9% in 2024, though we expect it to register a marginally positive 0.62% 
+
+CAGR later in the period as 5G‑Advanced and early 6G roll out. But if backhaul 
+
+and data centre interconnect don’t keep pace, the compute economy will grow 
+
+around the networks operators built.
+
+This shift creates a choice. Defend a shrinking margin pool or reposition around 
+
+AI infrastructure. That means investing where traffic and capital are concentrating, 
+
+simplifying the portfolio, and aligning the operating model to capture data centre, 
+
+fibre, and edge demand.
+
+Despite these significant challenges, the AI and data centre story presents 
+
+tremendous opportunities for efficiency, growth, and fundamental reinvention.  
+
+In this article, we explain how telecom operators can leverage AI and the 
+
+associated infrastructure buildout to accelerate their growth. We share where  
+
+the money will flow; what to build (and where); and why many telecoms are 
+reshaping themselves into simpler, more focused businesses to match where 
+value is shifting.
+
+PwC02
+
+7
+
+Five forces shaping 
+the telecom industry
+
+Telecoms are striving to maintain their position and relevance in the connect and 
+compute value chain and increase the value they create. It’s a tough ask, one 
+that’s made more challenging by widely differing market dynamics and growth 
+
+rates in worldwide territories. (See “Regional and country trends” on page 12.)
+
+As telecoms look to develop their strategies for success in this fragmented global 
+
+environment, they must take account of five forces fundamentally reshaping the 
+
+economics of the telecom industry. 
+
+Fibre first—with FWA as a filler. Globally, fibre is now the upgrade path of 
+choice, with fixed wireless access (FWA) serving as a bridge technology that 
+
+uses headroom capacity on 4G/5G mobile networks to provide fixed broadband 
+
+connectivity wirelessly to homes and businesses. For operators, the goal with 
+FWA is to ride the fibre wave and tap into monetisation opportunities beyond 
+the pure speed that fibre offers. For consumers, this might mean pairing 
+multi‑gig tiers with managed Wi‑Fi, cybersecurity, smart home, and gaming/
+assured‑latency bundles. For enterprise customers, it means leaning on software‑
+defined wide area networks (SD-WAN), secure access service edge (SASE), and 
+edge security. 
+
+PwC8
+
+The migration to fibre is being led by countries such as Singapore, now an 
+
+all-fibre nation pushing towards 10 gigabits per second (Gbps), and China, which 
+
+has 206.8 million gigabit fibre users and 10 Gbps pilots underway. Ongoing fibre 
+
+expansion in markets such as France, Japan, the UAE, and Switzerland further 
+
+underlines the readiness for 5–10 Gbps positioning.
+
+Fibre reshapes regional markets
+
+PwCChina stands out with unmatched ﬁbre penetration and scale economics.Note: Latin America is representative of Mexico, Central America, and South America.Source: PwC’s Global Telecom Outlook 2025–2029, OmdiaBubble size = forecast 2029 total subscriptions (US$bn)Fixed broadband subscriptions vs. ARPU (as CAGR, 2024-29)Subscriber growthRevenue growth (ARPU)ChinaUS$0.8bn-2.0%1.0%2.0%3.0%4.0%5.0%6.0%7.0%8.0%-1.5%-1.0%-0.5%0.0%0.5%1.0%1.5%2.0%2.5%3.0%3.5%Eastern EuropeUS$0.1bnCanada and the USUS$0.2bnWestern EuropeUS$0.2bnLatin AmericaUS$0.1bnAsia-Paciﬁc (ex-China)US$0.3bnMiddle East and AfricaUS$0.1bn9
+
+5G and ﬁbre rise
+
+PwCForecastForecastEmerging access platforms are rapidly becoming dominant as legacy technologies fade.Global telecom subscription penetration for 5G, 4G, ﬁbre, legacy, and ﬁxed wireless (%)20202021202220232024202520262027202820295G4GFibreLegacyFixedwireless39162639567698117130951061131181191129983696017202427293235384042312927252321201816152333456778Note: Fibre data excludes China. Legacy data is a combination of DSL and cable.Source: PwC’s Global Telecom Outlook 2025–2029, Omdia10
+
+Surgical deployment of 5G SA and 5G-Advanced. Given the tight return 
+on invested capital (ROIC), operators are carefully pacing their rollouts of 5G 
+
+Standalone (5G SA). They’re mostly choosing to invest in cases where slicing/
+
+FWA, campus networks, and enterprise service-level agreements (SLAs) can 
+
+provide a decent payback. Here, different territories are offering tactical cues 
+
+on both building scale and aligning capex with regulation. On scale, China is 
+
+piloting 5G‑Advanced widely, with 4.2 million 5G sites and concerted commercial 
+
+promotion efforts; India has moved early to conduct one of the few nationwide SA 
+
+deployments to date. On capex/regulatory alignment, 5G SA in Germany is being 
+marketed as “5G+,” reflecting the government’s commitment to becoming a 
+leading market for 5G networks and applications. 
+
+Capex discipline and asset-light models. As capex intensity declines and 
+capital costs rise, operators need to keep balance sheets flexible and aligned 
+
+with infrastructure time horizons. Actions targeted to achieve these goals include 
+
+expanding TowerCo, neutral fibre, sharing strategies, and wholesale models. 
+
+Asset separations can also play a role, as with the 2024 Telecom Italia SpA 
+
+TIM NetCo carve-out in Italy that set a precedent for Europe. And selective 
+
+consolidation is set to continue to reset market structures and support efforts to 
+
+lift 5G quality in some territories. Examples to date include the 2025 Vodafone–
+
+Three merger in the UK, and two mobile mergers in Taiwan that created a three–
+
+mobile network operator (MNO) market from 2023.
+
+IOT stacks climbing towards platforms. As IOT solutions evolve and escalate 
+to the platform level, the reality remains that most growth in IOT value tends 
+to accrue to application enablement platform (AEP) and consulting providers, 
+not to telecom operators. PwC’s Global Telecom Outlook projects a roughly 
+31% CAGR for AEPs from 2024 to 2029 and nearly $250 billion in revenue in 
+2029 as connectivity revenues hold steady for the period, below $10 billion 
+in annual revenues. To counter this imbalance, telecoms are looking to move 
+beyond pursuing relatively low‑margin connectivity. They are instead seeking to 
+prioritise AEP-led solutions and vertical plays in such segments as smart cities 
+
+and automotive. This shift will build momentum for embedded SIMs (eSIM/
+
+iSIM), hybrid terrestrial–satellite coverage, and lower-complexity 5G connectivity 
+
+for IOT devices using Reduced Capability (RedCap) and enhanced Reduced 
+
+Capability (eRedCap) profiles, as 5G SA coverage expands. Regional leaders in 
+
+PwC11
+
+the evolution of IOT include the US (AEP implementation at scale), Germany (AEP 
+
+implementation at pace), and the UAE and South Korea (fast growth rates off 
+
+relatively smaller bases). 
+
+AI everywhere—as both lever and load. AI can bring enhanced efficiency 
+and effectiveness to every functional domain: marketing and sales, customer 
+operations, IT, software development/engineering, network and field operations, 
+
+and the back office. In fact, AI will ultimately become the operating fabric on 
+
+which telecoms run. Yet it also adds demand from AI‑related services and 
+
+applications. An important consideration here is the bifurcated impact of data 
+
+traffic driven by AI inference (i.e. user-originated and agent-to-agent traffic) 
+
+and model training (i.e. traffic between hyperscale/large compute clusters). AI 
+
+inference doesn’t yet add much traffic on public networks, as it mainly shifts 
+
+patterns from ‘mostly download’ to ‘more balanced upload and download.’ But 
+
+it does have a more meaningful second‑order effect on data centre interconnect 
+
+(DCI) networks, as user requests trigger clusters talking to one another. By 
+
+contrast, AI model training is driving massive traffic growth and upgrades in the 
+
+backbone. But this growth generally stays within the data centre networks, and 
+
+doesn’t impact the public networks operated by telecoms—and hence doesn’t 
+
+show up in their capex agenda. 
+
+PwC12
+
+Regional and country trends
+
+Differing growth rates worldwide are mirrored by varying market trends and 
+pressures at a regional and country level. In Asia-Pacific, China has the world’s 
+largest footprint in both fibre and 5G; its downwards pressure on mobile ARPU is 
+
+offset by growing enterprise demand. And although India is still underpenetrated 
+
+on fixed broadband at just 15.5% in 2024, fixed broadband subscriptions will 
+
+nearly double to 95.8 million by 2029, driven by fibre and 5G fixed wireless 
+
+access (FWA). 
+
+Meanwhile, in North America, the US is approaching a tipping point from cable 
+to fibre, with once-dominant cable connectivity steadily ceding market share and 
+
+on a downwards path to lose first place during 2026. Canada is marginally ahead 
+
+in this regard, with fibre having overtaken cable in 2025. 
+
+The rise of fibre is also a consistent theme in Europe: France already has 73% 
+fibre subscriptions and a planned copper switch-off by 2030; the UK is set to see 
+
+fibre subscriptions accelerate towards 70% by 2029 amid consolidation among 
+
+altnets; Germany will see fibre’s share of subscriptions rise from 16% at the 
+
+end of 2024 to nearly 50% by 2029 (though it will be slowed by VDSL/DOCSIS 
+
+incumbency); and in Romania, fibre already accounts for 80.5% of subscriptions. 
+
+In the Middle East and Africa, the UAE has 100% 5G coverage and the fastest 
+IOT revenue growth of any market (40.1% CAGR), and 5–10 Gbps fibre-to-
+the-home (FTTH) retail plans have also launched. In Saudi Arabia, FWA is the 
+fastest-growing fixed segment, and both fibre and the IOT are being lifted by the 
+country’s ambitious smart-city agenda. And in South Africa, fibre and FWA are 
+expanding rapidly, with fixed subscriptions set to grow at an 8.1% CAGR to 13.1 
+million by 2029. 
+
+Meanwhile, in Latin America, Brazil’s 36.3 million FTTH connections (74% 
+of fixed lines) make it the world’s third biggest FTTH market. In Mexico, high 
+spectrum fees are curbing 5G, and total sector capex is set to fall at a –0.7% 
+
+CAGR through to 2029.
+
+PwC  
+13
+
+The geo-economic kickers: Tariffs, fragmentation, and 
+sovereignty influence where to invest
+
+The change drivers outlined here are now being overlaid by the impacts of 
+
+geopolitical factors—as trade policy, tariffs, and restrictions emerge as structural 
+drivers of where telecom and tech value chains get built. PwC’s latest analysis 
+highlights a fracturing geo‑economic environment: Accelerating equipment 
+
+bans, shifting tariff schedules, sovereignty requirements, and regionalisation are 
+
+pushing companies to friend‑shore/near‑shore manufacturing and localise data/
+
+storage. For telecoms and data centres, that translates into higher costs for 
+
+servers, optics, cooling, and backup power; more complex sourcing; and the 
+
+need to redesign network and facility architectures for resilience.
+
+The tariff overhang is material. Under current proposals, PwC estimates that 
+annual US tariff measures affecting technology, media, and telecommunications 
+
+(TMT) supply chains could rise from around $76 billion to nearly $697 billion, 
+
+before accounting for any retaliation on the part of other countries—raising 
+
+hardware costs, elongating lead times, and complicating capital planning. In the 
+face of these shifts, PwC’s analysis highlights five strategic actions that telecom 
+and tech leaders can take now to help withstand tariff disruption and derisk 
+
+supply chain vulnerabilities: map the company’s exposure across all dimensions; 
+
+build scenario resilience through response playbooks; rethink vendor strategy 
+
+and relationships; embrace software-first design to reduce dependency on 
+
+specialised hardware; and integrate sustainability into strategy, including adopting 
+
+circular models.
+
+The geopolitical situation is not just an abstract or emerging risk to operators. 
+Their responses to these risks are already apparent in actions such as capex 
+phasing (network softwarisation to reduce hardware exposure), vendor 
+diversification, and new regional build choices. The data centre side is reacting 
+in kind, through moves such as pairing siting decisions with grid participation 
+(demand response, on-site generation) and emphasising local economic 
+multipliers to secure permits and power. 
+
+PwC03
+
+14
+
+Capitalising on the 
+AI infrastructure 
+investment super‑cycle
+
+As we highlighted earlier, over the next five years, we will see two capex cycles 
+
+diverge. 
+
+Telecoms’ capex intensity is easing after a decade of 5G and fibre build. 
+
+According to the Global Telecom Outlook findings, capex will lag revenue growth 
+
+through 2029 as many markets approach the end of their 5G non‑standalone 
+
+(NSA) and first-wave fibre cycles.
+
+On the other side, AI infrastructure is accelerating into a multiyear super‑cycle. 
+
+Capital is flowing into hyperscale campuses, power-hungry AI clusters, and 
+
+adjacencies such as grid interconnects and onsite power generation. Data 
+centres are now framed as ‘backbone’ infrastructure for the digital economy, 
+with investors pushing to scale quickly while hardening against supply chain and 
+power constraints. The recent series of large‑ticket deals underscores the trend, 
+and points to continued private-capital interest in AI‑ready capacity. 
+
+Examples include the $500 billion Stargate Project AI infrastructure investment 
+in the US, involving OpenAI, Oracle, Japan’s Softbank, and the UAE’s MGX; 
+the EU’s €20 billion (US$23.5 billion) InvestAI and AI Gigafactory programme, 
+
+backed by the European Investment Bank; and Saudi Arabia’s $100 billion Project 
+
+Transcendence, focused on making Saudi Arabia a world leader in AI  
+
+and analytics. 
+
+PwC15
+
+Capex cools
+
+At first glance, the mismatch between the telecom network and AI infrastructure 
+capex cycles looks dramatic, threatening to decouple compute from connectivity. 
+However, overlay these contrasting cycles with today’s geopolitical fracturing 
+
+and advancing sovereignty agenda, and what emerges is a once‑in‑a‑generation 
+
+opportunity for legacy carriers. 
+
+PwCOperators are moderating capex intensity as 5G and ﬁbre deployment cycles mature.Global telecom capex ($USbn) and capex-to-revenue ratio (%) for ﬁxed broadband and mobile2020202120222023202420252026202720282029Source: PwC’s Global Telecom Outlook 2025–2029, Omdia41%40%39%36%35%34%34%33%33%33%21%22%20%18%16%16%15%15%14%14%28%28%27%24%23%22%22%21%21%21%$134$143$140$126$122$121$121$121$122$125$147$148$148$144$142$143$144$145$146$148FixedMobileMobile capex intensityTotal capex intensityFixed capex intensityForecastForecast+0.6%-1.5%16
+
+One play here for telecoms is participating in the AI infrastructure super‑cycle 
+
+not just as providers of DCI, but as investors in assets such as data centres and 
+
+edge infrastructure. But more importantly, factors that used to be constraints 
+
+for telecoms globally—territorial licence, regulatory oversight, universal 
+
+service obligations—are now becoming assets. In a world where sovereign 
+
+AI infrastructure, AI models, and supply chains are increasingly mandated or 
+
+strongly preferred, operators can carve out national ‘mega‑scaler’ roles that 
+
+global platforms cannot easily penetrate or replicate. 
+
+We see four arenas where telecoms have both a right to play and—with the 
+
+appropriate degree of focus—a good chance of winning:
+
+Enterprise and wholesale connectivity for AI-era workloads. Telecoms can 
+build and price for east-west traffic, while also prioritising 10/400 Gbps backhaul 
+
+upgrades, DCI wave services, dark-fibre/managed wavelength products, and 
+
+low-jitter metro rings tuned for AI training/serving. Where grid and planning allow, 
+
+they might co-site edge rooms (Tier 2/3, 100–500 kW) on their own premises to 
+
+terminate DCI and host latency‑sensitive micro‑clusters.
+
+Converged consumer/small- and midsize-business broadband as the 
+national access fabric. To play in this space, telecoms can continue migrating 
+households and small businesses to gigabit-class fibre and 5G, including FWA, 
+
+using mobile/fixed network convergence and bundle economics to bolster ARPU 
+
+in a flat macro environment. Governments and investors value this ubiquitous, 
+regulated layer, seeing it as critical to domestic AI adoption and national 
+productivity. The global data shows broadband ARPU is stable or slightly rising 
+as fibre’s share climbs—underlining the fact that quality can still be monetised. 
+All this points to the opportunity to integrate AI into the converged bundle value 
+proposition. Operators are already adding AI applications to their subscription 
+bundles as perks in the same way they offer various streaming services.
+
+Sovereign cloud, GPU-as-a-Service (GPUaaS), and trusted edge for 
+resilience, national security, and regulatory needs. Telecoms can partner with 
+sovereign capital and national clouds to complement, not replace, hyperscalers—
+
+providing domestically sited capacity that satisfies national security and defence 
+
+needs as well as residency, sectoral, and security controls in sectors such as 
+
+PwC17
+
+health, finance, and government. PwC’s deal and macro signals indicate that 
+investor appetite for AI infrastructure remains high. Telecoms can capitalise by 
+
+anchoring the connectivity‑plus‑compliance layer that makes sovereign AI usable 
+
+at scale. Additionally, rising defence spending, especially in Europe, means 
+
+the sovereign information and communications technology (ICT) opportunity 
+
+for telecoms will accelerate given the pivotal role digital and communications 
+
+technology plays in military and defence applications, including cybersecurity. 
+
+Hybrid terrestrial–non-terrestrial connectivity as a resilience layer. Steps 
+here can include securing satellite capacity to harden rural backhaul and critical 
+
+routes, while preparing for direct‑to‑device augmentation to enhance population 
+
+coverage, public safety, and IOT continuity. Telecoms might also bundle satellite 
+
+with multiprotocol label switching (MPLS)/SD-WAN and 5G slicing to deliver 
+
+SLA‑backed reach for distributed AI data ingestion and inference. Activity and 
+
+investment involving satellite communications is on the rise globally. Examples 
+
+include the acquisition of a growing number of national satellite spectrum 
+
+licences by Elon Musk’s Starlink; Saudi Arabia’s creation of the Neo Space 
+
+Group; and the agreement between Airbus, Leonardo, and Thales to jointly create 
+
+a leading European player in satellite and space systems manufacturing and 
+
+services. The technology sovereignty agenda clearly plays a role in some of these 
+
+initiatives, as territories look to secure their position and autonomy in the future 
+
+satellite ecosystem.
+
+Implications for capital, 
+partnerships, and operating 
+model
+
+Playing in any or all four arenas has significant implications for telecoms in 
+areas as varied as capex, ecosystem collaboration, and operating models. One 
+important change is shifting capital allocation towards ‘AI-adjacent’ transport, 
+targeting spending at domains with clearer pass-through to enterprise revenue; 
+
+these include backhaul, DCI and metro fibre densification, coherent optics, and 
+
+synchronisation upgrades. Another important change is building a tariff‑ready, 
+
+sovereign supply chain, with dual‑sourced vendor stacks across domains like 
+optics, routers, power, and cooling. PwC’s tariff guidance emphasises integrating 
+customs, transfer pricing, and vendor selection into the same decision loop.
+
+PwC18
+
+Further enabling actions in securing a domestic mega‑scaler role include 
+
+co‑investing at the edge. Where permitting and power are constraints 
+
+for hyperscalers, telecoms can contribute sites, rights‑of‑way, and 
+
+interconnects, while partners bring construction equity and long‑term offtake. 
+
+Community‑integrated models can also unlock siting—at the same time 
+strengthening the social licence to expand. 
+
+Finally, telecoms should look to make speed a measurable advantage by tackling 
+
+slow decision processes and risk aversion. One way to do this is by embedding 
+
+a stage‑gate ‘time‑to‑light’ metric across build programmes and using portfolio 
+
+rebalancing to kill or double down on initiatives quickly. Another way is for 
+telecoms to adopt a ‘puretone’ approach by reconfiguring their business unit 
+and functional structures to create clearer organising logic around their various 
+
+and integrated business models. The defining feature of puretone business model 
+
+archetypes is that they sharpen focus while enabling proximity to demand—two 
+
+characteristics that align with both the telecom industry’s trajectory and the AI 
+
+infrastructure cycle.
+
+PwC04
+
+19
+
+Reinventing telecom 
+business models
+
+Capitalising on the AI infrastructure opportunity is one of several imperatives 
+
+compelling telecoms to shift to a puretone model. Another is the performance 
+
+and capital constraints mentioned earlier. A third is the benefits such a shift 
+
+offers from a cost‑discipline perspective. The clarity and separation of puretone 
+
+businesses forces greater P&L transparency and exposes areas where cost 
+
+structures are not competitive—or perhaps are artificially distorted through 
+
+internal cross‑charges, transfer prices, or internal subsidies. The effect is that the 
+
+puretone approach provides a clear and honest open‑book view of the business’s 
+
+economics and enables it to focus on realigning cost to optimal levels.
+
+PwC’s Business Model Reinvention (BMR) Pressure Index shows current 
+reinvention pressure at a level on par with that of the dot‑com era, driven by 
+declining returns, technology shifts, and regulatory scrutiny. Across more than 
+30 carriers we analysed, the operators progressing furthest on unbundling into 
+puretone businesses and diversification commanded EV/EBITDA premiums 
+of 30% to 50% over traditional integrated peers. Examples include Telstra’s 
+2020 InfraCo separation and Jio Platforms’s ecosystem build in the same year, 
+attracting more than $20 billion of strategic capital. 
+
+PwC20
+
+The market rewards reinvention
+
+PwCTelecoms that reinvent their business models see higher multiples of revenue growth.Source: PwC analysis, Capital IQRe-frame (redeﬁne value proposition) Re-conﬁgure (reshapeoperating structure) Re-invent (create newrevenues)0×2×4×6×8×10×Typical integratedtelecom multiple90807060509585756555BMR maturity score0105-5Expected two-year revenue growth (%)Revenue growth expectations vs. BMR maturity scoreForward EV/EBITDA multiples for each BMR stage21
+
+Reinvention is about choosing where to play and creating the right model with the 
+
+right capital and operating autonomy. As the digital infrastructure cycle unfolds 
+
+and telecoms seek ways to derive value from it, they should consider four main 
+
+puretone archetypes:
+
+Targeted InfraCo/NetCo: Put capital where proximity and wholesale 
+demand are provable. The data centre (DC)/AI cycle will proceed with or 
+without telecoms, and owning the inter‑ and intra‑DC connective fabric provides 
+
+access to a contractable, growing wholesale value pool. The InfraCo/NetCo 
+
+model directs infrastructure capital at open-access fibre, metro rings, dark fibre, 
+
+and DCI. It can be financed via co-ownership to optimise capital costs while 
+
+preserving service access for ServeCo and SolutionCo.
+
+SolutionCo (enterprise and public sector): Prioritise outcomes over access. 
+The enterprise buyer wants assured connectivity with security and observability. 
+
+The SolutionCo model packages managed connectivity, SD-WAN/secure access 
+
+service edge (SASE), zero-trust security, and life-cycle automation with clear 
+
+SLAs and site-specific economics. It extends into private 5G/local area network, 
+
+industrial Wi‑Fi, and edge computing to deliver latency‑sensitive outcomes in 
+
+manufacturing, logistics, healthcare, and utilities. And where sovereignty matters, 
+
+it brokers sovereign cloud and AI linked to compliant networks. 
+
+ServeCo (direct-to-consumer): Defend ARPU, grow lifetime value. In a world 
+of flat mobile ARPU, modest fixed-broadband uplift, and eroding speed-based 
+differentiation, ServeCo wins by converging fibre and mobile and attaching digital 
+services like premium wi-fi/mesh, security, entertainment, cloud storage, and 
+home support. Fibre migrations boost ARPU, while bundles reduce churn. BMR 
+Index evidence shows ServeCo patterns scaling via super-app-style aggregation 
+and embedded finance in markets with wallet penetration. Examples include 
+M-Pesa, MoMo, and STC Pay. 
+
+PlatformCo/BrokerCo: Aggregate what customers already buy. Multi‑cloud 
+and hybrid architectures increase complexity; buyers will pay to simplify sourcing, 
+
+governance, and observability. This archetype acts as a neutral marketplace for 
+
+the likes of wholesale broadband, cloud/edge, and security, curating multi‑vendor 
+
+services under a single contract. Fast-growing segments include GPU-as-a-
+
+PwC22
+
+Service and global business services (GBS)-as-a-platform. Vodafone Intelligent 
+
+Solutions and Orange/Deutsche Telekom’s BuyIn are among the telecoms 
+
+externalising capabilities as a revenue line. 
+
+How to build and operate the 
+reinvented portfolio
+
+Deals are the operating lever for reinventing to puretone models. Some 
+
+examples? In fixed network separation, TIM sold its fixed NetCo to KKR in 2024. 
+
+In portfolio rationalisation, Telefónica exited most of Latin America over the last 
+
+several years, and Vodafone sold operations in Spain, Italy, and Hungary from 
+
+2023 to 2025. And in tower monetisation, the TowerCo wave (Totem, Vantage, 
+
+Telxius, GD Towers) of the 2020s reflects softwarised networks’ lower need to 
+
+own sites. 
+
+Once the reinvented puretone business has been created, operating it 
+
+successfully requires three sets of interconnected attributes:
+
+Autonomy with accountability. Our BMR Index diagnostics show that the 
+strongest drivers of reinvention progress are accountable leadership and clarity in 
+
+mission. These are design choices, not outcomes. 
+
+Resilience and sovereignty. To navigate tariff and policy volatility, portfolios 
+need supply chain and data/AI sovereignty options. SolutionCo can bundle 
+sovereign-compliant workloads; InfraCo contracts should anticipate policy 
+swings; PlatformCo’s brokerage can diversify vendor exposure. 
+
+AI-native operations (‘TelcOS’). By embedding AI across their operations, 
+telecoms can leverage the technology to simultaneously plan, run, and assure 
+networks—in terms of predictive maintenance, dynamic spectrum, closed‑loop 
+assurance—and compress cycle times in sales, care, and field operations. This 
+
+model is central to ServeCo’s cost‑to‑serve, SolutionCo’s SLA delivery, and 
+
+InfraCo’s energy and utilisation economics. We take a closer look at TelcOS in  
+
+the next section.
+
+PwC05
+
+23
+
+Shifting to AI‑native 
+operations with ‘TelcOS’
+
+The combination of modest revenue growth outlook and ongoing 
+
+commoditisation is intensifying the pressure on telecoms’ differentiation, cash 
+
+generation, and costs. Given that 35% of new passes in the US are now funded 
+
+by private equity, incumbent carrier margins are under further pressure. And 
+55% of the telecom CEOs in PwC’s 28th Global CEO Survey said they believed 
+their company would no longer be economically viable a decade from now if it 
+
+continued on its current path, compared with just 42% of all CEOs globally. 
+
+The solution to these challenges lies in building AI‑native operations. Future‑
+
+focused telecom executives aren’t treating AI as the final step in a transformation 
+
+road map. Instead, they’re using AI agents today to simultaneously reduce costs, 
+
+boost efficiency, improve customer and employee experiences, and modernise 
+
+legacy systems. 
+
+These strands of AI‑enabled reinvention combine into a model for the AI‑native 
+telecom business that we’ve termed ‘TelcOS.’ It represents AI acting both as a 
+demand driver—raising the bar for automation, assurance, and cost control—and 
+as the means to manage and satisfy that demand. 
+
+Adopting TelcOS offers major upgrades across a telecom company’s operations, 
+including in areas such as network planning and design, network management 
+
+and assurance, field and supply operations, customer operations, sales and 
+
+product, and security and trust.
+
+PwC24
+
+The beneﬁts of TelcOS extend across the value chain
+
+Business area or activity
+
+Primary impacts
+
+Network planning and design
+
+Network management and assurance
+
+Field and supply operations
+
+Customer operations
+
+Sales and products
+
+Security and trust
+
+With TelcOS, machine learning (ML) models optimise coverage/capacity, site 
+placement, spectrum utilisation, and rollout sequencing—bringing beneﬁts 
+including shorter time-to-service, lower build costs, and greener, more 
+energy-efﬁcient designs.
+
+Closed-loop assurance, anomaly detection, and causal AI tools reduce fault 
+mean time to repair (MTTR), improve quality of experience, and reduce truck 
+rolls by working across radio access network/transport/core, public cloud, 
+and edge.
+
+Reinforcement learning by AI helps telecoms optimise the supply of spares 
+and route technicians more efﬁciently, while computer vision improves ﬁbre 
+build quality assurance and agentic copilots generate method-of-procedure 
+documents (MOPs) and log outcomes for audit.
+
+Telecoms are already seeing signiﬁcant impacts from generative AI (GenAI) 
+on service quality, with generative agents helping reduce handling time, 
+resolve billing/service issues end-to-end, and personalise retention offers 
+using churn propensity and margin logic.
+
+GenAI accelerates individualised ‘segment-of-one’ offers and pre-populates 
+enterprise solution designs, while generative agent triage can be used to 
+lead and coauthor bids. AI can enable consumer product innovation as well 
+(e.g. Deutsche Telekom’s AI phone).
+
+AI augments cybersecurity detection and response; GenAI helps remediate 
+misconﬁgurations and draft compliance artifacts—activities in which getting 
+governance right is mission-critical, including formal LLMOps/MLOps and 
+risk controls.
+
+PwCSource: PwC analysis25
+
+The data and platform 
+foundations for TelcOS
+
+The TelcOS operating model depends critically on putting the right data and 
+
+platform underpinnings in place. A data-first approach using AI agents helps 
+
+telecoms avoid two common missteps: (1) automating broken processes, and (2) 
+
+waiting years for a clean slate on which to effect reinvention. Instead of relying 
+on siloed applications and legacy databases, operators can now build a unified 
+
+architecture that puts data and intelligence at the centre, over time replacing 
+
+traditional tools like static billing platforms with AI agents that work across 
+
+domains using shared context and standard models. This shift moves enterprise 
+
+tech from simply recording what happened to detecting what’s happening across 
+
+the enterprise and triggering the next best action in real time. 
+
+Operators can lay the foundations for TelcOS reinvention by taking three steps:
+
+Renew the data environment. A clean, modern digital core—anchored by 
+an ERP backbone and unified data—lets both people and agents act safely, 
+
+consistently, and at speed, thereby enabling end‑to‑end transformation. And 
+
+most AI failures in telecom can be traced back to issues with data, such as silos, 
+
+latency, lineage gaps, and quality debt. To avoid such problems, TelcOS needs 
+
+the following:
+
+•  Cloud-first data (lakehouse) with low-latency ingestion from OSS/BSS 
+(operations and business support systems) and IT/OT (information and 
+operational technology), unified identity resolution (subscriber, device, service, 
+location), and governance-by-design.
+
+•  A semantic data fabric over telemetry, orders, trouble tickets, inventory, 
+
+topology, and finance—so agents can reason over meaning, not just columns.
+
+•  Streaming/event backbones—such as Kafka or Pub/Sub—for real-time 
+
+signals into planning, assurance, and customer experience loops.
+
+The industry is already moving in this direction: in PwC’s cloud and AI business 
+research, most tech/TMT companies reported GenAI adoption in “a few or 
+many” operational areas—a precondition for scaling an AI data plane. 
+
+PwC26
+
+Move to microservices. Legacy stacks tend to fragment processes (assurance 
+vs. care vs. billing). TelcOS favours domain microservices (catalogue, quote, 
+
+order, inventory, policy, charging), exposing consistent APIs/events with common 
+
+policy, identity, and ‘golden’ reference data. This removes handoffs, enabling 
+
+closed‑loop automation with human‑in‑the‑loop governance. 
+
+Orchestrate vendor-agnostic agentic workflows as a ‘human + agent’ 
+enterprise. Discrete chatbots won’t move the P&L dial. Agentic operations 
+require an ‘OS for agents’ that can enable cross‑vendor agents to collaborate 
+
+with one another and with human teams on complex, cross-functional workflows 
+
+behind secure gateways. This calls for new roles, new governance, and a 
+
+model in which people and agents operate as a system, with a clear process for 
+
+determining who does what. A practical way to organise and orchestrate this 
+process is to use the TM Forum’s enhanced Telecom Operations Map (eTOM) 
+model, which can help leaders decide where people should remain central, where 
+agents can take the lead, and where seamless coordination between people 
+
+and machines is required. TelcOS leaders are anchoring AI value to the P&L with 
+
+‘autonomous value loops’ linked to a clear outcome metric, targeting high‑yield 
+
+areas like network energy optimisation through cutting radio access network 
+
+(RAN) power in low-load windows and zero-touch service assurance based on 
+
+self‑healing incidents with guard rails. 
+
+The bottom line? TelcOS is not a ‘nice to have.’ It is how carriers will protect 
+
+margins, absorb AI-driven traffic growth, and create distinctive customer 
+experiences in a market where ARPU growth lags inflation. The strategic 
+question is no longer whether your telecoms will become AI-native; it’s how fast 
+
+you can progress AI from pilots to a new operating system for the business. This 
+is the direction of travel needed to secure the future of your business through 
+2026 and beyond. The time to start is today. 
+
+Subscribe to the Global Telecom Outlook for access to detailed additional data 
+and commentary for fixed, mobile, capex, and IOT segments across 53 countries 
+
+and territories.
+
+PwC27
+
+Author
+
+Florian Gröne
+Global Telecommunications Leader,  
+PwC United States
+
+The author would like to thank Jens Niebuhr, Russell Taylor, Maria Teresa Copabianco, 
+Chase Bice, Lori Driscoll, and Mahmoud Makki for their contributions to this article.
+
+PwCPerspectives from 
+the Global Telecom 
+Outlook, 2025–2029
+
+pwc.com/gx/en/industries/tmt/telecom-outlook- 
+perspectives.html
+
+© 2026 PwC. All rights reserved. PwC refers to the PwC network and/or one or more of its member 
+firms, each of which is a separate legal entity. Please see www.pwc.com/structure for further 
+details.
+
+
