@@ -1,0 +1,72 @@
+{
+  "title": "Tariff Shock, Nvidia's $7B Bet, and the Memory Supercycle",
+  "subtitle": "Liberation Day hits the data centre supply chain — chips exempt, everything else isn't.",
+  "summary": "Episode Four examines how Trump's Liberation Day tariffs created a supply chain shock for digital infrastructure — exempting bare chips for data centre use but leaving servers, cooling equipment, power systems, and steel exposed to 10–45% levies. We analyse Nvidia's $7 billion strategic equity deployment across Intel, Marvell, and optical companies as it positions itself as architect of the AI supply chain; SemiAnalysis findings that memory now consumes 30% of hyperscaler capex (up from 8% in 2023); Related Digital's record $16 billion Stargate project financing for the 1 GW Michigan campus; and Digital Edge's $665 million green loan — Indonesia's largest-ever data centre project financing.",
+  "takeaways": [
+    "Liberation Day tariffs exempt bare semiconductor chips for data centre use — but servers, cooling, networking, power, steel, and aluminium are all exposed to 10–45% levies",
+    "Hardware procurement costs for AI startups rose 10–20% in Q1 2026; analysts project 5–15% increase in overall data centre build costs",
+    "Nvidia deployed ~$7B in strategic equity: $5B Intel, $2B Marvell, $2B Lumentum, $2B Coherent, $2B Nebius — NVDA stock surged 6% on disclosure",
+    "SemiAnalysis: memory will consume 30% of hyperscaler data centre capex in 2026, up from 8% in 2023 — Nvidia receives preferential HBM pricing below market rates",
+    "Current global DRAM supply can only support ~15 GW of AI infrastructure deployment — a hard ceiling on pace of build-out",
+    "Related Digital finalising $16B Stargate financing: $2B Blackstone equity + $14B BofA bond issuance for 1 GW Saline Township, Michigan campus",
+    "Digital Edge secures $665M green loan — Indonesia's largest ever — for 500 MW phase 1 of 1 GW Bekasi campus; $4.5B total multi-phase investment",
+    "White House July 1 semiconductor review could expand or narrow the data centre chip carve-out — the regulatory hinge point for H2 2026 investment"
+  ],
+  "chapters": [
+    {
+      "title": "Cold Open — The Carve-Out That Wasn't",
+      "description": "Liberation Day's semiconductor exemption looked like good news for data centres — until the rest of the supply chain became exposed."
+    },
+    {
+      "title": "The Liberation Day Supply Chain Shock",
+      "description": "Servers, cooling, networking, steel, and power systems are all subject to new tariffs, raising construction costs 5–15% and compressing lead times further."
+    },
+    {
+      "title": "Nvidia Becomes the Architect",
+      "description": "Nvidia's $7B equity deployment — Intel, Marvell, optical companies, Nebius — signals a pivot from chip designer to full-stack AI infrastructure architect."
+    },
+    {
+      "title": "The Memory Supercycle",
+      "description": "SemiAnalysis finds HBM will consume 30% of hyperscaler capex in 2026, up from 8% in 2023, with DRAM supply capping global AI deployment at ~15 GW."
+    },
+    {
+      "title": "Stargate's $16 Billion Record",
+      "description": "Related Digital finalises a $2B Blackstone equity plus $14B bond structure for the 1 GW Oracle-OpenAI Michigan campus, the largest single data centre project financing ever."
+    },
+    {
+      "title": "Southeast Asia Raises Its Ambition",
+      "description": "Digital Edge closes Indonesia's largest-ever data centre green loan — $665M for the first phase of a 1 GW campus in Bekasi — signalling that Indonesia's AI infrastructure decade has arrived."
+    },
+    {
+      "title": "What to Watch — Four Decisions Ahead",
+      "description": "Stargate bond pricing, Q1 hyperscaler earnings and capex guidance, Nvidia memory supply disclosures, and the July 1 semiconductor tariff review."
+    },
+    {
+      "title": "Closing",
+      "description": "Integration as both the engine of scale and the source of fragility — and the challenge of building supply chains that are both fast and resilient."
+    }
+  ],
+  "keywords": [
+    "trump tariffs data centres",
+    "liberation day semiconductors",
+    "nvidia strategic investments",
+    "hbm memory supercycle",
+    "stargate data centre financing",
+    "related digital oracle michigan",
+    "digital edge indonesia",
+    "hyperscaler capex",
+    "ai supply chain",
+    "data centre construction costs",
+    "semianalysis hyperscaler spending",
+    "southeast asia data centres"
+  ],
+  "guests": [],
+  "episode_type": "full",
+  "episode_number": 4,
+  "date": "2026-04-05",
+  "script_file": "ep4_2026-04-05.md",
+  "audio_file": null,
+  "show_name": "Digital Infrastructure Insider",
+  "show_url": "https://dii.podcast",
+  "author": "Digital Infrastructure Insider"
+}
