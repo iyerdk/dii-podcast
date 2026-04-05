@@ -1,0 +1,560 @@
+Technology, Media & Telecommunications Practice 
+
+The keys to deploying fiber 
+networks faster and cheaper
+
+Four tactics can improve telecom companies’ returns on fiber rollouts, helping to 
+connect more of the millions of people who remain without high-speed access. 
+
+by Anton Lysenko, Tiago Silveira, and Manglam Tewari 
+
+February 2024
+
+© Getty Images
+
+1
+
+Telecom operators are investing heavily to 
+connect more people to high-speed fiber networks. 
+In 2022 in Europe and the United States alone, their 
+networks reached 15.2 million more households 
+than the prior year, compared with the 9.9 million 
+they added in 2018.¹ Incumbents, newly formed 
+fiber companies, governments, and private 
+investors are all active in the sector, to the extent 
+that more than one billion homes worldwide now 
+have high-speed fiber access.²  
+
+Still, that figure means that some 40 percent of the 
+world’s population remains without fiber access, 
+indicating significant potential for further growth in 
+the fiber-to-the-home (FTTH) market. The extent to 
+which companies capture that potential, however, 
+could hinge on their ability to improve returns on 
+
+invested capital, as new markets are likely to be 
+those with relatively high costs to serve and low 
+revenue-generating potential. The most attractive 
+markets already have fiber connections.   
+
+Reducing costs wherever possible is therefore 
+crucial. But maximizing market share early on 
+is critical too, and this depends upon speed to 
+market. Experience suggests that the first FTTH 
+operator to enter a market—whether overbuilding 
+existing networks with fiber or rolling out new 
+networks—can win significant market share as 
+customers switch from cable and DSL providers. A 
+second, later entrant, however, is likely to capture a 
+significantly smaller share as the pool of customers 
+willing to switch shrinks (Exhibit 1). 
+
+1 “Report finds 18.4 million U.S. fiber broadband homes, highest-ever deployment in 2018,” Telecompetitor, December 11, 2018; “Fiber 
+Broadband Association survey counts 68M total FTTH passings in U.S., sharply trending,” Cabling Installation & Maintenance, January 11, 
+2023; “EU Telecoms ready for a good 2024,” New Street Research, December 18, 2023.
+2 “IDATE – World FTTX markets,” IDATE Market Intelligence, December, 2021.
+
+Exhibit 1 
+The first fiber-to-the-home (FTTH) player to enter the market typically gains more 
+The first fiber-to-the-home (FTTH) player to enter the market typically 
+market share than latecomers.
+gains more market share than latecomers.
+
+Estimated broadband terminal market share by technology,1 % of subscribers 
+
+100
+
+40–55
+
+45–60
+
+–20 pp
+
+No FTTH 
+players
+
+1 FTTH 
+player
+
+1Five to seven years after market entrance; market share is only for the overlapping footprint areas.
+Source: IDATE Market Intelligence, expert interviews
+
+McKinsey & Company
+
+Other technologies
+(eg, DSL, cable)
+
+1st FTTH entrant
+
+2nd FTTH entrant
+
+15–30
+
+35–50
+
+25–40
+
+2 FTTH 
+players
+
+The keys to deploying fiber networks faster and cheaper 
+
+2
+
+Of course, government policies and regulations will 
+play a role in shaping market outcomes. To encourage 
+high-speed access, governments might, for example, 
+allow competitors to deploy fiber on incumbents’ 
+ducts and poles, provide financial incentives to create 
+wholesale fiber infrastructure companies, or offer 
+subsidies to build fiber in rural and remote areas. 
+
+But companies’ own operational capabilities will also 
+go a long way in determining how they fare. In our 
+view, there are four main ways in which incumbents 
+and greenfield companies can improve their internal 
+processes to make their network rollouts both faster 
+and leaner:
+
+ — Use artificial intelligence (AI) to target low-cost 
+
+markets with high potential penetration levels.
+
+ — Establish an operating model that drives 
+
+coordination and efficiency.
+
+ — Automate resource-intensive functions.
+
+Our experience suggests the combination of these 
+tactics can accelerate deployment by as much as 
+20 percent while lowering costs by between 15 and 
+25 percent, with results discernible within eight to 
+sixteen months (Exhibit 2).
+
+Use AI to target low-cost markets with 
+high potential penetration levels
+Companies looking to roll out new fiber have 
+typically targeted markets likely to yield the highest 
+revenues, which has often meant focusing on urban 
+areas where population density and household 
+income levels are high. But as more fiber is laid, 
+these high revenue-generating opportunities 
+are becoming scarce, requiring companies to put 
+greater weight on the cost to serve a market. There’s 
+little point in targeting an area with high population 
+density if penetration rates are likely to be low 
+because of low household income. The cost to serve 
+could prove prohibitive.
+
+ — Strike long-term partnerships with suppliers.
+
+Instead, companies will want to identify markets 
+where they can find the best balance between 
+
+Exhibit 2 
+Four tactics can reduce fiber network deployment costs by 15 to 25 percent.
+Four tactics can reduce fiber network deployment costs by 15 to 25 percent.
+
+Fiber network deployment cost reduction, by tactic, %
+
+5–8
+
+5–8
+
+15–25
+
+2–3
+
+3–6
+
+Use AI to target
+low-cost,
+high-penetration
+markets
+
+Establish an
+operating model that
+drives coordination
+and efficiency
+
+Automate
+resource-intensive
+functions 
+
+Strike long-term
+partnerships
+with suppliers
+
+Total
+potential
+impact
+
+Source: McKinsey analysis
+
+McKinsey & Company
+
+The keys to deploying fiber networks faster and cheaper
+
+3
+
+penetration potential, average revenue per user 
+(ARPU), and construction costs. This can be a 
+complex and time-consuming task given the 
+multitude of variables, beyond socio-demographic 
+ones, which are likely to impact the balance. These 
+include the length of network routes required, 
+deployment methods (aerially on poles, using 
+existing underground ducts, or trenching new 
+ducts), the availability of high-speed backbone 
+infrastructure, equipment and labor costs, and 
+competitors’ deployment plans. 
+
+AI-assisted planning models are adept at handling 
+such analysis and can improve outcomes. The 
+experience of one operator illustrates the point. 
+Its original fiber build strategy, formulated by an 
+experienced team, underperformed. Costs were 
+higher and take-up weaker than anticipated. For 
+the next deployment phase, the company opted to 
+use an AI-assisted planning model that considered 
+a huge range of variables; these included the 
+distance of every residential building from the 
+nearest fiber route, a factor that impacts costs, 
+and the number of wireless subscribers in each 
+area, a factor that impacts take-up as wireless 
+subscribers often upgrade to fiber. As a result, the 
+model identified markets where the cost of getting 
+fiber to homes was 5 to 7 percent lower than the 
+markets initially targeted and potential penetration 
+levels up to 10 percent higher, significantly 
+enhancing forecast returns.
+
+Building an effective AI planning model starts with 
+getting the basics right. All financial, customer, 
+and network data will need to be available. There 
+should be no gaps and inconsistencies. From 
+here, advanced AI models can forecast returns on 
+network deployment at a granular level, looking 
+at zip codes, city blocks, or even individual 
+buildings, for example. And with the addition of 
+more parameters, the model can analyze even 
+more scenarios, such as where competitors might 
+build fiber in the future, helping to minimize the 
+risk of overbuilding, or the returns on alternative 
+broadband technologies, such as fixed wireless.
+
+Establish an operating model that 
+drives coordination and efficiency
+Fiber rollouts can only be as fast and efficient 
+as a company’s operating model allows. By 
+standardizing processes, setting up a harmonized 
+IT stack, and establishing a “nerve center” to 
+coordinate the project pipeline, companies can 
+drive coordination and efficiencies within and 
+across functions including network deployment, 
+operations, IT, and procurement. These measures 
+have the potential to cut deployment costs by a 
+percentage point or two while simultaneously 
+accelerating deployment.
+
+Standardize nationwide processes. Many 
+companies find they have different operational 
+processes, procedures, and practices in place 
+for different markets, as well as for different 
+projects within the same geography, and even 
+for different teams working on the same project. 
+In some markets, companies outsource design, 
+for example, but in others they conduct the work 
+internally. In some, they award construction to a 
+single company while elsewhere they divvy up the 
+work. Some projects might have 20 milestones 
+while other similar ones have 30, with comparisons 
+made even trickier because of different 
+nomenclature. This kind of variance means that 
+best practices aren’t always followed, slowing the 
+pace of deployment and cranking up construction 
+costs as team members learn to adapt to diverse 
+ways of working. It can also lead to mistakes, 
+necessitating costly rework. 
+
+Standardization helps solve this. It entails the 
+meticulous mapping of all steps in the deployment 
+process, documenting all relevant best practices, 
+and defining governance mechanisms so that any 
+deviations from the standard are identified early. 
+Regular audits, performance metrics tracking, and 
+compliance checks all help in this respect. Change 
+management is important too, as all employees will 
+need to train to adopt newly established practices. 
+Network design and architecture should also be 
+
+The keys to deploying fiber networks faster and cheaper 
+
+4
+
+standardized; that could include establishing the 
+optimal distance between nodes, for example.
+
+Harmonize the technology stack. Many operators 
+find themselves saddled with cumbersome 
+processes and high costs because of the legacy 
+tools they use to manage deployment. This can be 
+particularly problematic for incumbent operators 
+with legacy copper or cable networks that are now 
+laying new fiber ones, as well as for companies 
+that have expanded through acquisitions. It isn’t 
+uncommon to find companies with multiple different 
+systems for managing inventory, projects, capital 
+deployment and other resources. Consolidation 
+of these tools is a lengthy process that requires a 
+transition road map aimed at avoiding disruptions, 
+but it also offers substantial rewards in terms of cost 
+savings and deployment speed. 
+
+One North American broadband company that had 
+different deployment tools in each of the regions 
+where it operated found itself struggling with 
+the quality of its data and rollout effectiveness. 
+Inventory entries were missing or duplicated, for 
+example, and there were manual, unreliable notes 
+regarding the completion of milestones. A phased 
+plan that eliminated redundancies and introduced a 
+new tech stack with modern, out-of-the-box SaaS 
+solutions alongside customized in-house built tools 
+quickened the pace of subsequent fiber rollouts by 
+almost 10 percent while also reducing deployment 
+costs.
+
+Create a nerve center. Problems inevitably arise 
+when a company is deploying fiber in dozens of 
+different sites and markets and orchestrating 
+multiple vendors and material suppliers, threatening 
+schedules and budgets. Yet business-as-usual 
+processes, whereby individual project teams work 
+without visibility across the entire deployment 
+program, can be slow to detect such problems 
+and their potential impact or to resolve them. For 
+example, the fact that a particular supplier has 
+failed to deliver on schedule to two sites might go 
+unnoticed other than by those working on the sites. 
+But the failure could be a sign that the supplier has 
+
+run into significant problems and won’t deliver 
+on time to the next ten sites either, seriously 
+jeopardizing the deployment schedule. Likewise, a 
+decentralized approach can mean work slowing to 
+a halt in one place because of a supply shortage, 
+even though the needed material is sitting in an 
+intermediate warehouse. 
+
+A nerve center, by contrast, collects and 
+analyzes data that gives a bird’s eye view of how 
+deployment is progressing relative to milestones. 
+This might include real-time updates on permitting 
+applications, inventory availability, and overall 
+construction timelines. With this information, 
+the nerve center’s cross-functional team, which 
+includes representatives from the various markets, 
+IT, procurement, and data analytics, can work in an 
+agile manner to resolve issues promptly, as they 
+have both the capability and authority to mobilize 
+resources and address them themselves, or to 
+escalate them when necessary. The nerve center 
+established by one operator detected a delay 
+in the delivery of specialized fiber-optic cables 
+from a key supplier. Procurement approached the 
+supplier and ascertained the problem was unlikely 
+to improve imminently, prompting the nerve center 
+team to reallocate cable stocked in a warehouse 
+in a different region—a move that saved further 
+project delays and the associated costs.
+
+Automate resource-intensive 
+functions
+Companies need to manage thousands of tasks 
+to deploy new fiber infrastructure. Add in human 
+error, and it’s not hard to see why the process is 
+often riddled with inefficiencies that slow progress 
+and inflate costs. Automation can help remove 
+some of them, particularly in the following areas:
+
+Network design. Designing a fiber network is a 
+complex process, entailing route planning, node 
+placement, capacity and redundancy planning, 
+simulation and testing, and more. The process can 
+take many months, depending on the project’s 
+complexity, topography, and the team’s expertise. 
+
+The keys to deploying fiber networks faster and cheaper
+
+5
+
+But automation can help accelerate it in a variety 
+of ways. For example, an automated process can 
+generate optimal routes and node locations based 
+on topographical data, existing infrastructure, and 
+coverage requirements. It can forecast network 
+capacity and simulate performance under different 
+conditions, such as peak usage or unexpected 
+network failures. Importantly, automation also 
+frees up employees to focus on higher-value tasks—
+perhaps working on designs that might require 
+bespoke solutions because of the unique nature of 
+a construction site or validating other designs. Our 
+experience suggests that automation can reduce 
+the time it takes to design networks manually by up 
+to 30 percent. 
+
+Site surveys. Automation can cut the time it takes 
+operators and their contractors to survey sites for 
+deployment. Data collection, terrain analysis, and 
+obstacle detection, all once time-intensive tasks 
+requiring in-person visits, can now be automated 
+with the help of digital twin models that combine 
+relevant public and proprietary data, including 
+satellite imagery, geospatial databases, and 
+elevation models. Site visits only then need to be 
+made if data is missing or needs confirmation. Yet 
+even here, companies can expedite the process 
+with the help of computer vision models and lidar 
+sensors that produce high-resolution 3D maps and 
+models of the area. Such methods have helped 
+speed up certain site survey timelines by between 
+20 and 25 percent. 
+
+Permits. Obtaining permits for fiber construction is 
+one of the most time-consuming rollout processes, 
+often running into weeks or even months. To a 
+certain extent, the local authorities or utilities 
+issuing the permits dictate timelines. Nonetheless, 
+poor management by telco operators can cause 
+unnecessary delays. All too often, company 
+employees find themselves trawling through 
+different websites trying to ascertain which 
+data (and in which format) they need to submit 
+for dozens of different permits for, say, digging a 
+trench or interrupting traffic, then trying to keep 
+track of the progress of every application. Even in 
+companies where the process is more structured, it 
+often remains manual. Establishing a standardized, 
+
+automated permit center—one that understands 
+regional permit requirements, collects and 
+validates the necessary data, creates and submits 
+the permits, and then tracks their progress in 
+real time—streamlines the process. As a result, 
+it can boost application approval rates by 10 to 
+20 percent and cut the time needed to acquire 
+permits by as much as 15 percent, while freeing 
+up employees to concentrate on verifying more 
+complex permit requirements.
+
+Construction management. Project managers 
+commonly oversee as many as 500 distinct 
+jobs on a project, each involving perhaps 60 
+or so individual tasks—these are hugely time-
+consuming processes that are almost certain 
+to overlook existing or brewing problems. A 
+real-time automated construction management 
+system drives efficiency by establishing and 
+monitoring exactly when all routine tasks and 
+activities need to be completed, by whom, and in 
+what order, to keep the project on schedule. If a 
+milestone is at risk of being missed, the system 
+triggers an alert. In this way, project managers 
+can dedicate their attention to evaluating the 
+impact of any delays and resolving them. In 
+addition, many routine tasks can be automated—
+creating a bill of materials or dispatching a crew, 
+for example—leaving the manager with more 
+time to handle complex ones, be that optimizing 
+the network topology for maximum efficiency or 
+addressing unexpected challenges that arise in 
+the field. A real-time construction management 
+system can, in our experience, quicken the pace 
+of deployment and reduce deployment expenses 
+by 5 to 8 percent. 
+
+Strike long-term partnerships with 
+suppliers
+Building long-term partnerships with suppliers 
+in lieu of transactional, one-off relationships 
+can offer substantial rewards. Long-term 
+partnerships help suppliers plan their production 
+schedules and allocate resources in line with 
+operators’ needs, giving the relationship a degree 
+of stability and predictability that can often 
+deliver cost savings greater than those likely to 
+
+The keys to deploying fiber networks faster and cheaper 
+
+6
+
+be achieved through short-term price discounts 
+offered in a one-off, competitive bidding process. 
+Within a partnership, suppliers may be willing 
+to negotiate favorable terms, bulk discounts, 
+and customized solutions that extend beyond a 
+single project. By working in close collaboration 
+with their suppliers, some operators have been 
+able to secure a construction cost advantage of 
+between 5 and 8 percent over those with a more 
+transactional approach to supplier management, 
+taking into account the cost of materials and labor.
+
+Collaboration also shields operators from delays 
+and disruptions because of a more secure supply 
+chain—an advantage some operators have sought 
+to maximize by changing their ordering practices. 
+Rather than ordering materials a month in 
+advance and hoping for timely delivery, they share 
+supply forecasts up to a year ahead and commit 
+to purchasing a sizable portion of that volume, 
+perhaps up to 75 percent. The advance notice 
+and demand certainty help suppliers meet their 
+obligations, though penalties can still be applied if 
+there are fulfillment delays.
+
+Forecasts must, of course, be accurate, which will 
+mean installing robust demand planning systems 
+that incorporate reliable data and machine 
+
+learning tools that are closely integrated with 
+deployment and financial planning. Efficient 
+inventory management systems are pivotal too. 
+By offering comprehensive visibility into stock 
+levels across all stages of the supply chain, 
+these systems ensure the availability of the 
+right materials at the right locations and times, 
+increasing the accuracy of demand forecasts 
+shared with vendors.
+
+The speed and costs of fiber deployment are 
+central to its viability in many of the world’s 
+still unserved markets. The four measures 
+described here—using AI to target low-cost, 
+high-penetration markets; establishing an 
+operating model that drives coordination and 
+efficiency; automating resource-intensive 
+functions; and striking mutually beneficial, 
+long-term partnerships with suppliers—can 
+help incumbents and new operators improve 
+both measures. Within eight to sixteen months, 
+the result could be both higher fiber market 
+share and higher ROI, while helping to ensure 
+that millions more people get access to high-
+speed connections.
+
+Anton Lysenko is an associate partner in McKinsey’s Bay Area office, Tiago Silveira is a partner based in the 
+Lisbon office, and Manglam Tewari is an associate partner in the Seattle office.
+
+ The authors wish to thank Fan Gao, Gerardo de Geest, and Diogo Rodrigues for their contributions to this article.
+
+Copyright © 2024 McKinsey & Company. All rights reserved.
+
+The keys to deploying fiber networks faster and cheaper
+
+7
+
+

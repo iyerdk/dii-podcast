@@ -1,0 +1,905 @@
+Technology, Media & Telecommunications Practice
+
+The growing imperative  
+of energy optimization for  
+telco networks 
+
+Rising energy costs, growing consumption, and the need to meet 
+decarbonization goals are pressuring telcos to lower costs and to 
+use electricity more efficiently.
+
+by Javier Gil Gomez, Aleksander Matlok, Tiago Silveira, and Lieven Verboven
+
+February  2024
+
+© Getty Images
+
+Recent energy price hikes have hit the 
+telecommunications sector hard, compounding 
+the increased energy use involved with building 
+out networks, traffic growth, and the ongoing 
+transition away from legacy technologies. Energy 
+spending was already a significant cost factor for 
+telecom operators, at up to 5 percent of revenue, 
+before recent price hikes. In the last few years, 
+though, large operators have seen their energy 
+cost increases outpace sales growth by more 
+than 50 percent. Yet even as they set ambitious 
+decarbonization targets, operators’ responses to 
+rising energy-related costs have been muted so 
+far, constrained by operational and organizational 
+limitations. 
+
+It is possible, though, to achieve significant savings 
+on energy, by combining analytics, procurement, 
+and technology shifts with the right vision, strategy, 
+and organizational approach. Our research shows 
+that companies can achieve 15 to 30 percent 
+savings in energy cost by using a holistic approach 
+that combines technology solutions with site and 
+equipment optimization, pricing, and operational 
+levers to create substantial and sustainable change. 
+
+In this article, we assess the causes of energy 
+cost increases and how operators are coping with 
+them, and we offer a potential path forward through 
+better site design, a shift toward energy-efficient 
+technologies, analytics-based optimizations, and 
+the implementation of pricing levers. 
+
+Sources of pressure
+Geopolitical pressure and increased demand are 
+expected to keep electricity prices high in most 
+markets in the near term. According to the World 
+Bank, for example, energy commodity prices are 
+not expected to fall below pre-2022 levels in the 
+coming year. For telecom operators, the problem 
+is compounded by the expected growth in mobile 
+traffic, which is forecast at more than 20 percent 
+per year until 2030. This forces them to pay more for 
+electricity and use more of it. 
+
+Together, mobile- and fixed-network consumption 
+already account for more than 75 percent of 
+
+telcos’ total energy consumption. Additional, 
+exponential growth in data consumption over the 
+next five years will likely offset the benefits of more 
+energy-efficient data transmission protocols. In 
+addition, site densification to support new wireless 
+technologies such as 5G (and eventually 6G) will 
+further increase telcos’ total energy consumption. 
+And although fiber rollout is progressing, operators 
+must still support multiple, less-energy-efficient 
+legacy systems until all customers have migrated to 
+the newer infrastructure. 
+
+At the same time, telcos are also making 
+commitments to carbon neutrality that will require 
+them to optimize their energy consumption. The 
+industry as a whole has pledged to reach net zero 
+by 2050 at the latest, and the most ambitious 
+operators are striving to do it as early as 2025. 
+Tackling the carbon footprint associated with 
+network operation will be critical to reaching those 
+targets, given that networks account for the largest 
+part of telcos’ Scope 1 & 2 emissions and more than 
+25 percent of their average total greenhouse-gas 
+output.
+
+It isn’t only the telcos themselves that are applying 
+pressure to advance decarbonization efforts. The 
+sector is estimated to be responsible for up to 2 
+percent of global carbon emissions, so its efforts 
+are likely to be both scrutinized and incentivized 
+by sustainability-focused consumers and climate 
+impact funds led by activist investors. Pressure is 
+likely also to come from regulators around the world, 
+as they begin to adopt their own decarbonization 
+goals and factor sustainability considerations into 
+their policies. 
+
+State of the industry 
+To bolster our understanding of this challenge, we 
+surveyed telecommunications leaders around 
+the world regarding their concerns about energy 
+management, the outlook or the future, and how 
+they plan to tackle the obstacles that lie ahead.¹  
+Their focus on the energy issue is growing, with 
+67 percent of respondents stating they have 
+significantly accelerated cost-optimization efforts 
+over the past two years. They cited a variety 
+
+1  Our survey was fielded in the first half of 2023 and included 30 chief technology, procurement, and sustainability officers from 
+telecommunications companies around the world.
+
+2
+
+The growing imperative of energy optimization for telco networks 
+
+of worries about energy issues, chief among 
+them economic volatility, geopolitical instability, 
+and energy pricing volatility (Exhibit 1). They 
+acknowledge the challenge will not be resolved 
+by external factors alone, with only 27 percent of 
+respondents saying they expect prices to decrease. 
+However, those surveyed indicated that their 
+ability to mitigate energy risk and optimize costs is 
+hampered by operational and organizational deficits.
+
+Operational considerations: Most telcos today 
+are managing a geographically dispersed network, 
+often with thousands or tens of thousands of 
+sites, a variety of technology configurations, and 
+limited capabilities for remote management. This 
+complexity, combined with still-nascent smart-
+network management, presents another challenge: 
+53 percent of our survey respondents said their use 
+of real-time energy monitoring tools, such as smart 
+
+meters or DC probes, was limited or nonexistent, 
+and many operators indicated they lack granularity 
+in their measurements, with only 33 percent 
+tracking energy KPIs at the individual site level. 
+
+These deficits further limit operators’ ability to 
+implement more strategic and analytics-driven 
+energy cost-and-consumption reduction levers 
+such as digital twins² and self-optimizing networks. 
+Indeed, when asked which advanced tools are 
+most important to reducing energy costs, only 20 
+percent of our survey respondents said they have 
+used self-optimizing networks in the last three 
+years, and only 3 percent said they use digital 
+twins, the lowest figure for any cost lever. And 
+while most operators surveyed said they use radio 
+access network (RAN) equipment power-saving 
+features, 37 percent said they do so without 
+monitoring impact or optimizing parameters. 
+
+2 A digital twin is a digital representation of a physical object, person, or process, contextualized in a digital version of its environment. See “What is 
+digital twin technology?” McKinsey, July 12, 2023. 
+
+Web <2024>
+<Network-energy-optimization>
+Exhibit <1> of <3>
+Exhibit 1 
+Unfavorable price dynamics drive telco executives’ concerns about
+Unfavorable price dynamics drive telco executives’ concerns about energy costs.
+energy costs.
+
+Top sources of concern,¹
+% of respondents
+
+Issue outlook, % of respondents who
+say issue “will become more concerning”
+
+Inflation
+
+Volatile energy prices
+
+Labor shortage
+
+Increased economic volatility
+
+Supply chain disruptions
+
+Rising interest rates
+
+Geopolitical instability
+
+Domestic political conflict
+
+Changes in trade policy
+
+20
+
+20
+
+87
+
+77
+
+73
+
+70
+
+63
+
+63
+
+60
+
+53
+
+60
+
+50
+
+50
+
+60
+
+57
+
+40
+
+77
+
+77
+
+COVID-19 pandemic
+
+3
+
+0
+
+Changes in network energy prices observed and future expectations,¹ % of respondents
+
+Slight decrease (0–15%)
+
+Remain unchanged
+
+Slight increase (0–15%)
+
+Significant increase (>15%)
+
+Last 3 years
+
+3 3
+
+37
+
+57
+
+Next 3 years
+
+27
+
+10
+
+37
+
+26
+
+1Our survey was fielded in the first half of 2023 with 30 chief technology, procurement, and sustainability officers from telecommunications companies around 
+the world.
+Source: McKinsey analysis
+
+McKinsey & Company
+
+The growing imperative of energy optimization for telco networks 
+
+3
+
+Operators’ focus remains mostly on tactical and 
+incremental consumption reduction and on pricing 
+and procurement levers. Here, too, current efforts 
+have room for improvement. While most of the 
+operators surveyed plan to build new sites to high 
+standards of energy-efficiency, only a third plan 
+to upgrade their existing brownfield footprint, 
+and while 93 percent have carried out passive 
+equipment updates, such as rectifiers or modern 
+power cables and air conditioning systems, most 
+have done so only on a small scale. Finally, only 
+33 percent of respondents said they source most 
+of their energy consumption via wholesale power 
+purchase agreements (PPA)s, meaning that two-
+thirds are still exclusively paying dynamic, market-
+rate fees for their electricity or using PPAs in only a 
+limited fashion.
+
+Organizational considerations: Even though most 
+telcos understand these challenges, their ability 
+to address them remains limited by organizational 
+considerations, such as inadequate governance. 
+Of our survey respondents, 40 percent said they 
+spread energy-related strategy and decision 
+making across multiple departments (Exhibit 2). 
+As a consequence, 20 percent said their energy 
+initiatives are relatively uncoordinated, and another 
+
+37 percent said their energy operations have weak 
+accountability and incentive systems. The lack of 
+clarity in accountability allows for slippage in day-
+to-day energy-related operations. Additionally, 
+the nature of the optimization initiatives in this 
+field requires buy-in from various parts of the 
+organization, which puts the initiatives at a 
+disadvantage from the start, increasing their 
+complexity, limiting their scope, and diminishing 
+their impact as a result. 
+
+The opportunity at hand
+To tap into the next level of energy savings, 
+operators have four main tools at their disposal: 
+zero-based design of mobile network sites, 
+optimizing energy use with analytics, strategic 
+innovation in the pricing and sourcing of energy, 
+and decommissioning legacy fixed networks 
+(Exhibit 3). Crucially, a considerable portion of 
+the potential can be achieved without significant 
+investments or major strategic changes, and the 
+results can be quantified within a few weeks of 
+implementation.
+
+Zero-based design of mobile networks: The 
+energy consumption of mobile networks is strongly 
+
+Exhibit 2 
+Responsibility for energy operations is often dispersed among decision
+Responsibility for energy operations is often dispersed among decision 
+makers, impeding cost-saving action.
+makers, impeding cost-saving action. 
+
+Number of departments involved 
+in driving strategy and decisions 
+related to energy,¹ % of respondents
+
+Department within organization that drives strategy 
+and decision making related to energy,
+% of respondents
+
+Multiple
+decision-making
+departments
+
+Single
+decision-making
+department
+
+40
+
+60
+
+Energy operations in
+scope of responsibility
+
+Out of scope of
+responsibility / no position
+
+Chief technical
+officer’s department
+
+Chief procurement
+officer’s department
+
+30
+
+Chief financial
+officer’s department
+
+20
+
+Chief sustainability
+officer’s department
+
+30
+
+77
+
+23
+
+70
+
+80
+
+70
+
+Other
+
+3
+
+97
+
+1Our survey was fielded in the first half of 2023 with 30 chief technology, procurement, and sustainability officers from telecommunications companies around 
+the world.
+Source: McKinsey analysis
+
+McKinsey & Company
+
+The growing imperative of energy optimization for telco networks 
+
+4
+
+Exhibit 3 
+A rapid assessment model can help estimate the savings potential of
+A rapid assessment model can help estimate the savings potential of 
+AI-enabled network energy optimization.
+AI-enabled network energy optimization.
+
+Category
+
+Lever
+
+Site
+design
+optimization
+
+Zero-based site design to ensure maximum 
+efficiency
+
+Resource pooling
+
+Active and passive equipment upgrades
+to improve energy efficiency
+
+Analytics-
+enabled
+optimization
+
+Digital-twin development to monitor network 
+performance
+
+SON² solutions to dynamically manage network 
+parameters (eg, user-experience-driven
+optimization, carrier shutdowns) 
+
+Strategic
+energy
+sourcing
+
+Renewable energy sources as a lower-cost 
+supply alternative
+
+New commercial agreements on energy
+sourcing
+
+Typical time to
+impact, months
+
+Typical impact on energy
+operating expense,¹ %
+
+12+
+
+4–6
+
+4–6
+
+6
+
+5–10
+
+5–10
+
+5–15
+
+5–8
+
+6–9
+
+2–6
+
+4–6
+
+5–10
+
+Active
+service
+rationalization
+
+OEM energy management features activation
+
+4
+
+Migration of legacy systems
+
+6–9
+
+3–5
+
+3–8
+
+Total: 15–30%
+
+1Savings from energy consumption overlap, for example RAN resource pooling has greater potential where equipment has not been upgraded, so the upper 
+bounds of savings potential cannot be taken cumulatively.
+2Self-optimizing network.
+Source: McKinsey analysis
+
+McKinsey & Company
+
+influenced by the design and layout of each mobile 
+site. Previously, network evolution focused on 
+equipment upgrades, not improved site design. As 
+a result, operators invested in energy-efficient 
+cabinets on new sites, but the opportunity to 
+optimize energy consumption at legacy sites was 
+left on the table. Tapping into this potential requires 
+a detailed understanding of the drivers of energy 
+consumption at current sites through a structured 
+approach that correlates consumption with 
+specific legacy-site design features and includes 
+detailed site walkthroughs to identify overlooked 
+opportunities for lowering costs. 
+
+Optimizing cooling equipment is the first step, 
+which often involves recalibrating power to match 
+
+equipment needs, partitioning shelter space, 
+improving insulation, and enhancing temperature 
+specifications and remote controls. Depending on 
+the region, another tactic might be reducing the 
+need for mechanical refrigeration by using naturally 
+cool air or water. Other substantial savings can be 
+made in site-level consumption through targeted 
+investment in high-efficiency, active equipment 
+such as baseband units (BBU) and radio, rectifiers, 
+and power cables. 
+
+Finally, more far-reaching network design 
+optimization can be done through a shift to a 
+centralized RAN architecture, in which multiple sites 
+share network functions located in a “BBU hotel” 
+to achieve benefits of scale and network sharing. 
+
+The growing imperative of energy optimization for telco networks 
+
+5
+
+However, switching to centralized RAN and network 
+sharing would be a significant, strategic and capital-
+intensive change and therefore unlikely to be driven 
+solely by energy-optimization considerations. 
+Nevertheless, these initiatives hold substantial 
+potential to curb energy consumption and they 
+should be considered as part of a holistic network 
+cost transformation. 
+
+Analytics-driven optimization of energy: While 
+operators have tended to use meters to estimate the 
+active consumption of 4G and 5G equipment, they 
+typically have had limited ability to forecast “normal” 
+consumption for legacy technologies, transmission, 
+and passive equipment. The use of on-site 
+measurement devices like AC and DC probes is 
+expensive, and therefore also limited. Leading telcos 
+use digital twins and analytical models to forecast 
+energy consumption more accurately at individual 
+sites, identify deviations, and define action plans.
+
+Highly detailed correlations of energy consumption 
+with other metrics  (network traffic and quality of 
+service, perhaps) for specific sites or for elements 
+of network infrastructure  can facilitate real-
+time decision making. Radio features might be 
+dynamically activated based on site-level thresholds  
+or network load at specific times of day or different 
+seasons, for example, allowing operators to optimize 
+their network where and when it matters most, 
+enhancing customer experience. 
+
+In addition to real-time action, data analytics also 
+enables more long-term and structural strategic 
+decision making on energy consumption. By 
+assigning values such as direct average revenue 
+per user (ARPU), customer experience scores, 
+and churn estimates to individual sites or network 
+elements, operators can develop a “return per 
+kWh” metric for different parts of their network 
+infrastructure. This allows them to further adjust 
+network operating conditions, such as radio 
+shutdowns, to minimize energy consumption without 
+impacting actual customer experience.
+
+Pricing and sourcing: The many operators that 
+still do not exclusively or primarily use wholesale 
+power purchasing agreements and hedging options 
+
+are missing a valuable opportunity to decrease 
+and derisk energy costs, as well as access green 
+energy without incurring capital expenses.³ In 
+much of Europe, for example, choosing a ten-
+year purchasing agreement over baseload year-
+ahead prices can save between 5 and 20 percent. 
+Telecom operators can make particularly good 
+utility partners in green-energy agreements, 
+given that telco network consumption correlates 
+with peak daylight hours, eliminating the need 
+to store wind- or solar-generated electricity in 
+batteries. Another option is virtual (or financial) 
+power purchasing agreements. These financial 
+instruments don’t involve the physical delivery of 
+energy but can be a way to indirectly access green 
+energy in regions that lack actual green-energy 
+generation while helping new providers get their 
+businesses off the ground. Ideally, a telco would 
+precisely project its energy demand and select a 
+combination of power purchasing agreements and 
+green on-site solar generation capacity that offers 
+dynamic volume and closely matches its energy 
+consumption, both over time and in different 
+geographies. This approach maximizes the 
+deployment of renewable energy and minimizes 
+price risk. For example, a telco with significant 
+access to solar power might choose to increase 
+its usage at the times of day when overall power 
+usage is highest and traditional energy sources 
+are charging peak rates. 
+
+Telcos are also well positioned to generate 
+their own electricity, an option that can improve 
+operational agility on energy sourcing and provide 
+a new—if small—line of income. Solar-generated 
+electricity is especially attractive, given telcos’ 
+network footprint and the daytime demand on it. 
+Solar panels can partially satisfy that demand and, 
+combined with a battery installation, can be used 
+in the form of “load balancing” as an energy cost-
+savings asset. For example, the Finnish mobile- 
+network operator Elisa converted its lithium-ion 
+battery capacity into a virtual power plant. The 
+system stores energy from wind, solar, or local 
+hydroelectric plants and releases it back onto the 
+grid when supply levels fall and market prices rise. 
+This virtual plant contributes to the stability of the 
+local renewable energy system and provides a 
+
+3  “How energy sourcing can help industrials manage record-high prices,” McKinsey, April 20, 2023.
+
+The growing imperative of energy optimization for telco networks 
+
+6
+
+cost-saving opportunity. Elisa uses a proprietary, 
+cloud-based AI/ML system daily to optimize its 
+stored, consumed, and resold capacity based on its 
+projected demand and energy prices. The approach 
+offers greater control over energy sourcing, and 
+the operational advantage of extending backup 
+capacity from three to nine hours. It also provides 
+a bit of income from energy released back to the 
+grid, which strengthens the business case for green 
+energy investments. 
+
+Legacy fixed network decommissioning: Fiber 
+networks’ energy consumption per connection 
+can be 70 to 80 percent lower than copper. 
+This disparity will only grow as more energy-
+efficient fiber technologies emerge, so migrating 
+copper connections and decommissioning 
+copper networks are critical. The extent of the 
+decommissioning benefits is determined by the 
+scope of implementation involved. A key aspect of 
+copper-network phaseouts is the ability to migrate 
+customers in a given network cluster so that the 
+telco doesn’t have to maintain a copper network in 
+parallel to newly deployed fiber. Comprehensive 
+migration requires both fiber availability and a 
+commercial campaign to persuade customers to 
+upgrade to fiber. The opportunity goes beyond 
+copper, however; central offices house energy-
+hungry equipment that supports other services, 
+such as legacy transmission and B2B platforms, 
+which can also be migrated to products based on  
+fiber underlay.
+
+Successful migration of copper and other legacy-
+product customers in whole network clusters can 
+reduce server space needs enough to enable 
+decommissioning entire buildings, since fiber 
+networks require so much less server infrastructure. 
+This can be an important consideration when 
+designing the architecture of new fiber clusters. 
+Partial building decommissioning can bring 
+benefits. But telcos may want to weigh the more-
+immediate capital-expense savings from using 
+legacy buildings for aggregation points against the 
+potentially greater long-term operating-expense 
+savings of simplifying building footprints after 
+decommissioning copper lines. Some operators 
+have plans to reduce their central office space by 
+more than 50 percent in the transition from copper 
+
+to fiber-to-the-home (FTTH), leveraging longer 
+loop lengths in fiber. While the main rationale for 
+this kind of simplification is related to real estate, 
+it also benefits several operational expense 
+components, most notably the energy consumption 
+required for air conditioning.
+
+Decommissioning buildings can also fuel energy 
+optimization by enabling the redesign of cooling 
+systems. Because fiber requires less space for 
+servers, cooling demand can drop dramatically, 
+from whole rooms cooled by industrial-grade air 
+conditioning units to a limited number of racks 
+requiring much simpler cooling solutions. Even 
+if this change does involve some initial capital 
+investment, the savings that result should arrive 
+quickly.
+
+A successful decommissioning is always a 
+cross-organizational effort. The technology and 
+operations organizations have to design and 
+implement the decommissioning, while commercial 
+leadership needs to incentivize migrations and 
+phase out legacy products. Alignment between 
+decommissioning plans, fiber rollout strategy, and 
+capital allocations needed for the desired energy 
+optimization requires involvement of the finance 
+and strategy units. 
+
+Two fundamental enablers
+Achieving this kind of optimization takes more 
+than a vision and strategy for energy consumption. 
+To derive the full value possible from energy 
+optimization, operators need to put in place the 
+right operating model and technology enablers to 
+support it. 
+
+Clear decision-making governance: Most telco 
+operating models spread energy decisions across 
+multiple senior stakeholders, usually a combination 
+of chief technology officer, chief procurement 
+officer, and chief sustainability officer. This joint 
+responsibility is not necessarily an impediment to 
+change, but when not supported by clear decision-
+making governance, the resulting uncertainty 
+can slow transformation and value creation. For 
+example, a chief technology officer may have 
+a vision for reducing consumption through a 
+
+The growing imperative of energy optimization for telco networks 
+
+7
+
+site design overhaul, but without buy-in from 
+procurement on purchasing, finance on investments, 
+and commercial operations on quality control, 
+there is no way to fully realize the potential of the 
+proposed initiatives.
+
+To successfully support energy transformation, 
+some key operating elements should be in place. 
+First, a single senior leader should own the end-to-
+end vision and strategy, which includes consumption 
+reduction, price control, and strategic investments 
+to sustain the transformation. That leader should 
+work closely with other senior decision makers 
+in their areas of expertise but should have final 
+responsibility for carrying out the energy vision. Also, 
+the senior leader’s work should be supported by 
+KPIs and clear governance to ensure collaboration 
+across the organization on the shared goal.
+
+Technology enablers: Analytics advancements 
+such as digital twins and IoT devices such as 
+smart meters can help provide detailed and timely 
+understanding of energy consumption across a 
+telco’s network, and even help seize opportunities 
+quickly. 
+
+Digital twins are based on models that capture 
+data from physical assets in real time to simulate 
+them virtually. In the context of telecommunications 
+networks, they can visualize and analyze traffic 
+patterns, operational metrics, equipment usage, 
+and resource consumption. When applied to energy 
+optimization, a digital twin can help size and capture 
+the energy savings opportunity by detecting outlier 
+sites and identifying the drivers of overconsumption. 
+A digital twin can also help deploy new energy-
+efficient sites by finding the optimal equipment 
+and layout configurations. Moreover, detailed 
+energy consumption projections can inform energy 
+procurement, strengthening the implementation 
+of pricing levers such as hedging or power 
+purchase agreements. In more advanced digital 
+twin use cases, multiple telcos can collaborate to 
+develop cross-trained learning models to produce 
+more rapid and qualitative insights soon after 
+implementation.
+
+4  “Digital twins: How to build the first win” McKinsey, October 2022.
+
+A North American telecom operator used an 
+energy-focused digital twin to achieve an annual 
+energy cost reduction of more than $100 million. 
+By standardizing energy cost and consumption 
+data across its network, the telco was able to 
+identify anomalies and understand underlying 
+drivers more rapidly. Initiatives implemented 
+included data-driven decision making on 
+decommissions, real-time network optimization, 
+and improving the performance of vendor 
+equipment. Additionally, the company uses its 
+digital twin’s standardized data and consumption 
+models to improve calculations of emissions and 
+energy cost forecasting.
+
+Digital twins and other technology enablers 
+require a data infrastructure to enable consistent 
+insights across the network, which is made up 
+of multiple asset types and geographies. This 
+can be a challenge for network operators, who 
+are often awash in unstructured data. Smart 
+meters can help augment a network operator’s 
+data infrastructure and ability to understand 
+energy consumption across the network based 
+on real-time sensor data. After putting in place a 
+consistent data infrastructure and measurements 
+to feed into it, telcos need to have a certain level 
+of analytics capabilities.⁴ The maturity of the 
+data infrastructure will determine the difficulty 
+of providing valuable insights. For example, a 
+customized data infrastructure with limited 
+consistency across the network will require more-
+skilled analytics teams and customized analytics 
+models to clean data and extract actionable 
+insights. On the other end, a single, consistent 
+digital twin of the network enables implementation 
+of plug-and-play analytics models, with quicker, 
+more in-depth and typically more accurate insights. 
+
+Technology can also play an important role in acting 
+on opportunities identified by analytics initiatives. 
+Increasingly, energy optimization levers can be 
+delivered remotely, provided the right technology 
+investments are in place. For example, remote 
+network-management capabilities can enable 
+
+The growing imperative of energy optimization for telco networks 
+
+8
+
+instant and at-scale implementation of improvement 
+actions, such as air conditioning temperature 
+control and remote capacity optimization. This helps 
+avoid operational complexity, delays, and costly 
+implementation plans, while ensuring consistency in 
+implementation as well as measurement and control 
+of deployed changes. 
+
+feasible to pursue and achieve. Given that 
+network usage accounts for three-quarters 
+of a telco’s energy consumption, achieving 
+the 15 to 30 percent total energy cost savings 
+possible with the methods we describe would 
+be significant. 
+
+An ongoing imperative
+Telecom operators stand to benefit substantially 
+from thorough energy optimization. Much of the 
+benefit depends on data maturity and deployment 
+of the right analytics. Telcos that are able to do this 
+well are more likely to outperform their peers. 
+
+The pressures driving the need for network energy 
+optimization are expected to remain, if not increase. 
+Energy costs and consumption are likely to continue 
+rising, as is the need for decarbonization. Also, of 
+the challenges the telecommunications industry 
+faces, energy optimization is among the most 
+
+A successful network energy optimization 
+effort starts with an analysis of the optimization 
+options available and the value at stake in 
+undertaking them. Ideally, a holistic set of 
+potential levers should be considered, to ensure 
+options that may seem on their face to be too 
+difficult or to offer too little benefit, are given 
+proper analysis. For example, even a decade 
+ago, solar might have been easily dismissed, 
+but solar energy options have advanced 
+considerably since then. Finally, implementing 
+a network energy optimization program should 
+involve both technological enablers and 
+operating model changes, if the full benefit of 
+the tech solutions is to be realized. 
+
+Javier Gil Gómez is a partner in McKinsey’s Madrid office, Aleksander Matlok is a consultant in the Wroclaw office, Tiago 
+Silveira is a partner in the Lisbon office, and Lieven Verboven is a consultant in the Brussels office.
+
+The authors wish to thank Duarte Begonha, Sebastian Cubela, Fan Gao, Gerardo de Geest, Tomás Lajous, Duarte Maher, 
+Ferran Muntaner, Albert Perez Riba, and Arvind Samudrala for their contributions to this article.
+
+Copyright © 2024  McKinsey & Company. All rights reserved.
+
+The growing imperative of energy optimization for telco networks 
+
+9
+
+
