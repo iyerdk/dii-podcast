@@ -1,0 +1,154 @@
+{
+  "episode_number": 5,
+  "date": "2026-04-11",
+  "title": "CoreWeave's 48-Hour Coronation, Stargate UK Paused, and the Tariff Clock",
+  "subtitle": "CoreWeave signs $35B with Meta and lands Anthropic — then OpenAI walks away from the UK.",
+  "summary": "Episode Five examines CoreWeave's landmark 48-hour deal sequence: a $21 billion Meta expansion and a multi-year Anthropic agreement announced on consecutive days, cementing CoreWeave as the critical compute dependency for nine of ten leading AI model providers. We analyse OpenAI's pause of Stargate UK, where UK industrial electricity prices four times US rates and unresolved AI copyright regulation have halted a flagship data centre project — and what this means for European AI infrastructure competitiveness. We track the April 14 semiconductor tariff Phase 2 report deadline and its implications for the supply chain shock from Episode Four. We examine the $40 billion Aligned Data Centers sale that resets AI infrastructure valuations. And we report on the $700 million WorldLink cable routing Europe-Middle East connectivity around the Gulf conflict zones first traced in Episode One.",
+  "takeaways": [
+    "CoreWeave signed $21B Meta deal (April 9) and multi-year Anthropic deal (April 10) in 48 hours — 9 of 10 top AI model providers now on its platform",
+    "Meta's total commitment to CoreWeave reaches $35B — more than half of CoreWeave's $66.8B contracted backlog",
+    "CoreWeave simultaneously raising $3.5B in convertible debt — GPU infrastructure burns capital faster than it generates cash",
+    "OpenAI paused Stargate UK citing UK industrial power at ~4x US rates (24.67p/kWh) and unresolved AI copyright regulation",
+    "UK government has promised AI Growth Zone energy discounts but has not operationalised them — the policy gap is costing real investment",
+    "April 14: 90-day USTR/Commerce Phase 2 tariff report due — could trigger broader tariffs on assembled servers and semiconductor derivatives",
+    "$40B Aligned Data Centers sale (Macquarie exit to BlackRock/AIP/MGX) is the largest DC acquisition ever, resetting the sector's valuation ceiling by ~140%",
+    "WorldLink: $700M UAE-Iraq hybrid cable to deliver 900Tbps between Europe and Middle East, bypassing the Suez Canal corridor"
+  ],
+  "chapters": [
+    {
+      "title": "Cold Open — The Architecture of Dependency",
+      "description": "CoreWeave's $21B Meta deal and Anthropic agreement in 48 hours make it the backbone dependency of the AI model tier."
+    },
+    {
+      "title": "CoreWeave's 48-Hour Coronation",
+      "description": "Meta's $35B total commitment including first Vera Rubin deployments, Anthropic added to the platform — and a $3.5B convertible raise beneath the headlines."
+    },
+    {
+      "title": "OpenAI Pauses Stargate UK: Energy Is the Deal",
+      "description": "UK industrial electricity at 4x US rates and unresolved copyright law halt OpenAI's 8,000-GPU north-east England deployment, exposing the gap between UK AI policy ambition and reality."
+    },
+    {
+      "title": "Tariff Phase Two: The April 14 Decision Point",
+      "description": "The 90-day Commerce/USTR Phase 1 report is due Tuesday — the formal trigger for whether tariff scope expands to assembled servers, networking hardware, and derivative products."
+    },
+    {
+      "title": "Aligned Data Centers: The $40 Billion Standard",
+      "description": "Macquarie exits Aligned at $40B to BlackRock/AIP/MGX — the largest DC acquisition ever, beating the prior AirTrunk record by 140% and resetting sector valuations."
+    },
+    {
+      "title": "WorldLink: Routing Around the Gulf",
+      "description": "A UAE-Iraqi consortium's $700M hybrid cable will deliver 900Tbps from the Gulf to Europe via Iraq, building the first alternative to the Red Sea chokepoint."
+    },
+    {
+      "title": "What to Watch — Four Decisions Ahead",
+      "description": "The April 14 tariff Phase 2 report, CoreWeave Q1 earnings, UK AI Growth Zone energy policy implementation, and Q1 hyperscaler capex guidance calls."
+    },
+    {
+      "title": "Closing — Dependency as Value and Vulnerability",
+      "description": "The bilateral nature of infrastructure dependency — and the question of which dependencies are hardening into structural positions vs. facing disruption."
+    }
+  ],
+  "keywords": [
+    "coreweave meta deal",
+    "coreweave anthropic",
+    "stargate uk pause energy costs",
+    "semiconductor tariff phase 2",
+    "aligned data centers blackrock",
+    "worldlink cable middle east",
+    "ai infrastructure financing",
+    "gpu neocloud",
+    "uk data centre energy",
+    "nvidia vera rubin",
+    "macquarie aligned exit",
+    "hyperscaler capex 2026"
+  ],
+  "guests": [],
+  "episode_type": "full",
+  "show_name": "Digital Infrastructure Insider",
+  "show_url": "https://dii.podcast",
+  "author": "Digital Infrastructure Insider",
+  "script_file": "ep5_2026-04-11.md",
+  "audio_file": null,
+  "research_topics": [
+    {
+      "topic": "CoreWeave's 48-Hour Deal Sequence: Meta $21B + Anthropic",
+      "bullets": [
+        "April 9, 2026: CoreWeave expanded its Meta agreement to $21B through December 2032, incorporating first Vera Rubin GPU deployments across multiple data centres",
+        "Combined Meta commitment now $35B — the prior $14.2B deal was signed just six months earlier in September 2025",
+        "April 10, 2026: CoreWeave announced a multi-year deal with Anthropic to power Claude models; nine of ten leading AI model providers are now on CoreWeave's platform",
+        "CoreWeave stock surged 12% on Friday April 10 to ~$103; up ~24% YTD since its 2025 IPO, with a $66.8B contracted backlog",
+        "Simultaneously raising $3.5B in convertible debt — CoreWeave remains pre-profit, confirming the GPU infrastructure model consumes capital faster than it generates cash"
+      ],
+      "content": "CoreWeave executed the most consequential 48-hour deal sequence in the AI infrastructure sector in April 2026. On April 9, the AI neocloud announced a $21 billion expansion of its agreement with Meta to provide GPU cloud capacity through December 2032 — incorporating some of the first commercial deployments of Nvidia's Vera Rubin platform. The following day, CoreWeave announced a multi-year agreement with Anthropic to power Claude, adding the leading frontier AI lab to a roster that now includes nine of the world's ten most significant AI model providers. The combined Meta commitment now stands at $35 billion, built in just six months from the initial $14.2 billion contract announced in September 2025. The market response was unambiguous: CoreWeave stock surged 12% on Friday, its largest single-session gain since IPO. But the financial reality beneath the deal velocity is instructive. CoreWeave is simultaneously raising $3.5 billion in convertible debt, confirming that even at this contracted revenue scale, the capital requirements of GPU infrastructure outpace operating cash flow. The neocloud model works at extraordinary scale — but it is also extraordinarily capital-intensive, and the leverage question sits beneath every headline deal number.",
+      "sources": [
+        "https://www.coreweave.com/news/coreweave-and-meta-announce-21-billion-expanded-ai-infrastructure-agreement",
+        "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Multi-Year-Agreement-With-Anthropic/default.aspx",
+        "https://siliconangle.com/2026/04/10/coreweave-inks-multiyear-cloud-deal-anthropic/"
+      ]
+    },
+    {
+      "topic": "OpenAI Pauses Stargate UK: Energy and Regulation Block the Path",
+      "bullets": [
+        "Bloomberg reported April 9, 2026: OpenAI has paused Stargate UK, its AI data centre project announced September 2025 with Nvidia and Nscale",
+        "Project planned to deploy 8,000 GPUs in north-east England, scalable to 31,000 — indefinitely on hold",
+        "UK industrial electricity prices sit at ~24.67p/kWh as of April 2026 — approximately 4x US industrial rates and still 35% above pre-energy-crisis levels",
+        "OpenAI cited both high energy costs and regulatory uncertainty around AI training and copyright law; UK government promised AI Growth Zone energy discounts but has not operationalised any mechanism",
+        "OpenAI is also preparing for IPO — locking capital into unfavourable UK conditions at this stage carries specific balance sheet risk"
+      ],
+      "content": "OpenAI's pause of its Stargate UK project is the clearest market signal yet that energy cost is not a secondary constraint — it is a deal-breaker. Bloomberg reported on April 9 that the company had paused the project announced in September 2025 with Nvidia and Nscale, which had planned 8,000 GPUs scalable to 31,000 in north-east England. OpenAI cited UK industrial electricity prices — approximately 24.67p per kilowatt hour in Q2 2026, still 35% above pre-crisis levels — and ongoing regulatory uncertainty around AI training and copyright law. The UK government has acknowledged the problem, committing to a 'targeted pricing support mechanism' for AI Growth Zone data centres, but no concrete mechanism is in place. The Stargate UK pause reinforces the structural divide tracked across five episodes: the markets winning AI infrastructure investment are those that resolve power cost, grid access, and regulatory predictability simultaneously. The Nordics satisfy all three. The UK is still assembling the answer. Every other operator currently evaluating UK deployments will have registered the signal.",
+      "sources": [
+        "https://www.bloomberg.com/news/articles/2026-04-09/openai-pauses-stargate-uk-data-center-effort-citing-energy-costs",
+        "https://www.techradar.com/pro/openai-halts-gbp31-billion-stargate-uk-project-over-rising-energy-costs-and-regulatory-deadlock",
+        "https://thenextweb.com/news/openai-pauses-stargate-uk-energy-costs-regulation"
+      ]
+    },
+    {
+      "topic": "Semiconductor Tariff Phase 2: The April 14 Decision Point",
+      "bullets": [
+        "April 14, 2026: 90-day deadline for the USTR and Commerce Department to report to the President on Phase 1 semiconductor tariff negotiations — the formal milestone under Trump's January 14 Section 232 order",
+        "Phase 2 could expand tariff scope to assembled servers, networking hardware, cooling, and other semiconductor derivative products at a 'significant' rate",
+        "Phase 2 is accompanied by a tariff offset programme — companies investing in US domestic chip production would receive preferential tariff treatment",
+        "Current Phase 1: 25% tariff on advanced computing chips since January 15, 2026, with an exemption for imports used in US data centres",
+        "July 1, 2026 remains the second milestone: Commerce review of the data centre semiconductor market that could modify or expand the current chip carve-out"
+      ],
+      "content": "On April 14, the US Commerce Department and USTR must deliver their 90-day report on Phase 1 semiconductor tariff negotiations — the next formal decision point in the tariff cycle documented in Episode Four. Trump's January 14 Section 232 order imposed a 25% tariff on advanced computing chips with a data centre use exemption, but mandated a phase-based review process. Phase 2 would broaden the tariff scope to assembled servers and derivative semiconductor products 'at a significant rate,' alongside a new tariff offset programme rewarding US domestic manufacturing investment. The April 14 report is unlikely to produce immediate visible action — reports of this type are followed by a Presidential decision period. But the market will be watching for any signal on whether Phase 2 is imminent and whether the July 1 data centre chip review is being treated as an expansion or a narrowing of the current carve-out. Data centre operators have been frontloading procurement since Liberation Day, extending already-strained lead times. Any Phase 2 signal will trigger another acceleration round in an already-compressed hardware supply chain.",
+      "sources": [
+        "https://www.whitehouse.gov/presidential-actions/2026/01/adjusting-imports-of-semiconductors-semiconductor-manufacturing-equipment-and-their-derivative-products-into-the-united-states/",
+        "https://www.thompsonhinesmartrade.com/2026/01/president-trump-announces-new-25-section-232-tariff-on-narrow-category-of-semiconductors-critical-to-ai/",
+        "https://www.whitecase.com/insight-alert/president-trump-orders-narrowly-targeted-25-section-232-tariff-certain-advanced"
+      ]
+    },
+    {
+      "topic": "$40 Billion Aligned Data Centers: The Largest DC Acquisition Ever",
+      "bullets": [
+        "Macquarie Asset Management is selling Aligned Data Centers to a consortium of BlackRock's GIP, the AI Infrastructure Partnership (AIP), and UAE's MGX for $40B enterprise value — the largest data centre acquisition in history",
+        "Macquarie grew Aligned from 85 MW across 2 facilities to 5 GW of operational and planned capacity across 50 data centres in North and South America during its ownership",
+        "AIP was co-founded by BlackRock, GIP, Microsoft, and Nvidia alongside Abu Dhabi's MGX; Kuwait Investment Authority and Singapore's Temasek are anchor financial investors; AIP targets $30B initial deployment scaling to $100B",
+        "The deal beats the previous record (Blackstone/AirTrunk, $16.6B in 2024) by approximately 140%, resetting the valuation ceiling for AI-capable data centre assets",
+        "Deal closure expected H1 2026 — Aligned is AIP's first investment, meaning this transaction sets the floor valuation for every subsequent AIP acquisition"
+      ],
+      "content": "The anticipated close of Macquarie's $40 billion sale of Aligned Data Centers to the AIP/MGX/BlackRock consortium sets a new pricing standard for AI infrastructure globally. At $40 billion enterprise value — 140% above the previous record set by Blackstone's AirTrunk acquisition in 2024 — Aligned represents the most precise single data point available for where institutional investors currently price AI-capable data centre capacity. Macquarie's ownership tenure tells the most instructive part of the story: the company grew from 85 megawatts across two US facilities to five gigawatts of operational and planned capacity across 50 data centres in the Americas — a roughly 60x expansion — delivering returns that justified the $40 billion exit multiple. The buyer consortium is itself significant: the AI Infrastructure Partnership was co-founded by BlackRock, its Global Infrastructure Partners arm, Microsoft, Nvidia, and Abu Dhabi's MGX, with the Kuwait Investment Authority and Singapore's Temasek as financial anchors. AIP's stated target of $30 billion initial deployment scaling to $100 billion makes Aligned not just an acquisition, but the opening position of one of the largest capital deployment programmes in digital infrastructure history.",
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/aligned-data-centers-sold-to-blackrock-and-mgx-in-record-breaking-40bn-deal/",
+        "https://www.businesswire.com/news/home/20251014427963/en/AI-Infrastructure-Partnership-AIP-MGX-and-BlackRocks-Global-Infrastructure-Partners-GIP-to-Acquire-All-Equity-in-Aligned-Data-Centers",
+        "https://www.datacenterfrontier.com/hyperscale/article/55323360/blackrock-led-consortium-to-acquire-aligned-data-centers-in-40-billion-ai-infrastructure-deal"
+      ]
+    },
+    {
+      "topic": "WorldLink: The $700M Cable That Routes Around the Gulf",
+      "bullets": [
+        "UAE-Iraqi consortium (Tech 964, DIL Technology, Breeze Investments) developing $700M WorldLink hybrid subsea/terrestrial cable connecting UAE to Turkey via Iraq with branches to five GCC states",
+        "900Tbps design capacity; engineered to maintain Europe-Middle East latency consistently below 100ms — the specification required for real-time AI inference and financial trading",
+        "Route deliberately bypasses the Suez Canal corridor — the same corridor affected by the Gulf conflict that disrupted 17 submarine cables covered in Episode One",
+        "Construction planned in phases over five years; project is privately funded by a regional consortium rather than hyperscaler-led",
+        "Geopolitical tension: WorldLink is the physical response to regional instability but must itself be built through the conflict-affected geography it is designed to route around"
+      ],
+      "content": "The WorldLink project is the most concrete physical infrastructure response to the connectivity vulnerability documented in Episode One. A $700 million hybrid subsea and terrestrial cable system developed by Iraqi-UAE consortium Tech 964, DIL Technology, and Breeze Investments, WorldLink connects the UAE to Turkey via Iraq at 900 terabits per second of capacity, with sub-100 millisecond Europe-Middle East latency. That latency ceiling is the critical enterprise specification: real-time AI inference, high-frequency financial trading, and distributed applications have hard latency requirements that cannot be met through African or Indian Ocean rerouting in a disruption scenario. WorldLink offers the first purpose-built alternative to the Suez Canal corridor at a scale that provides genuine redundancy. The project's strategic logic is direct: the Gulf conflict demonstrated that existing internet routing passes through chokepoints vulnerable to disruption, and WorldLink creates the first bypass route. The structural tension — that WorldLink must build through the same conflict geography that created demand for it — is the defining challenge of connectivity infrastructure investment in contested regions. The project represents a structural shift in who drives cable investment: regional capital, motivated by geopolitical resilience rather than hyperscaler bandwidth demand, building the redundancy architecture that sovereign risk exposure has made urgent.",
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/worldlink-700m-subsea-cable-connecting-europe-and-middle-east-planned/",
+        "https://www.submarinenetworks.com/en/systems/asia-europe-africa/worldlink/iraqi-uae-consortium-to-build-$700-million-worldlink-project-a-new-eurasia-digital-corridor",
+        "https://restofworld.org/2026/gulf-overland-data-cables-europe-war/"
+      ]
+    }
+  ]
+}
