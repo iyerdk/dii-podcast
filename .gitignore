@@ -1,13 +1,9 @@
 # Virtual environment
 .venv/
 
-# Large model files (download separately)
+# Large model files
 *.onnx
 *.bin
-
-# Generated audio
-*.mp3
-*.wav
 
 # Python cache
 __pycache__/

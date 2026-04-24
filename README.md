@@ -1,252 +1,80 @@
-# Digital Infrastructure Insider — Podcast Production Pipeline
+# Digital Infrastructure Insider — Weekly Briefing
 
-End-to-end automation from raw HTML source material to a published MP3 with RSS feed.
+A weekly long-form editorial briefing on global digital infrastructure for senior investors and operators. Published in WSJ-article format; total read time ~45 minutes per edition.
+
+---
+
+## Repository structure
 
 ```
-source_mat/
-  └── 202603/DII_Podcast_Script_Mar15_2026.html
-        │
-        ▼  Stage 2: convert_script.py  (Claude API)
-  scripts/ep1_2026-03-15.md
-        │
-        ▼  Stage 1: generate_audio.py  (Kokoro TTS + ffmpeg)
-  DII_EP1_2026-03-15.mp3
-        │
-        ▼  Stage 3: generate_shownotes.py  (Claude API)
-  shownotes/ep1_2026-03-15.json
-        │
-        ▼  Stage 4: publish_rss.py
-  feed.xml  (+optional S3/R2 upload)
-```
-
-**One command runs everything:**
-```bash
-python run_episode.py --source source_mat/202603/DII_Podcast_Script_Mar15_2026.html --episode 1
+dii-briefing/
+├── AGENT_PROMPT.md          ← Weekly agent run instructions (source of truth)
+├── context/
+│   ├── DIGEST.md            ← Stable editorial reference: standards, beats, market data
+│   ├── THREADS.md           ← Live story threads, updated each run (~300 words)
+│   └── nsr-src-*.txt        ← Deep reference source documents (load only when needed)
+├── editions/
+│   ├── ed6_2026-04-24.md    ← Full edition: 5–6 WSJ-style articles
+│   └── ed6_2026-04-24.json  ← Edition manifest: titles, word counts, keywords
+├── scripts/                 ← Archive: EP1–EP5 podcast scripts (historical)
+└── shownotes/               ← Archive: EP1–EP5 show notes JSON (historical)
 ```
 
 ---
 
-## Requirements
+## Weekly edition format
 
-- Python 3.10+
-- ffmpeg (system package)
-- `ANTHROPIC_API_KEY` environment variable (for script conversion + show notes)
-- pip dependencies in `requirements.txt`
+Each edition contains **5–6 standalone articles** in WSJ narrative style, totalling ~11,000 words (~45 min read at 250 wpm).
 
----
-
-## Setup
-
-### 1 — Install ffmpeg
-
-**macOS**
-```bash
-brew install ffmpeg
-```
-
-**Linux (Debian / Ubuntu)**
-```bash
-sudo apt update && sudo apt install -y ffmpeg
-```
-
-**Windows**
-1. Download from https://www.gyan.dev/ffmpeg/builds/ (ffmpeg-release-essentials.zip)
-2. Extract and add the `bin/` folder to your `PATH`
-3. Verify: `ffmpeg -version`
-
----
-
-### 2 — Python environment
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate        # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-```
-
----
-
-### 3 — Anthropic API key
-
-```bash
-export ANTHROPIC_API_KEY="sk-ant-..."
-```
-
-Used by `convert_script.py` (Stage 2) and `generate_shownotes.py` (Stage 3).
-
----
-
-### 4 — Download Kokoro TTS model files
-
-```bash
-python - <<'EOF'
-from kokoro_onnx import Kokoro
-Kokoro.from_pretrained()   # downloads kokoro-v0_19.onnx + voices.json (~300 MB, once)
-EOF
-```
-
----
-
-### 5 — Smoke test
-
-Before running a full episode, verify the audio pipeline works:
-
-```bash
-python test_pipeline.py
-# Creates test_output.mp3 (~5 seconds)
-```
-
----
-
-## Running an episode
-
-### Full pipeline (one command)
-
-```bash
-python run_episode.py \
-  --source source_mat/202603/DII_Podcast_Script_Mar15_2026.html \
-  --episode 1 \
-  --date 2026-03-15
-```
-
-### With upload to S3 or Cloudflare R2
-
-```bash
-# S3
-python run_episode.py \
-  --source source_mat/202603/DII_Podcast_Script_Mar15_2026.html \
-  --episode 1 \
-  --date 2026-03-15 \
-  --upload-to s3://my-podcast-bucket \
-  --base-url https://media.dii.podcast
-
-# Cloudflare R2 (set R2_ENDPOINT_URL env var first)
-export R2_ENDPOINT_URL="https://ACCOUNT_ID.r2.cloudflarestorage.com"
-python run_episode.py \
-  --source source_mat/202603/DII_Podcast_Script_Mar15_2026.html \
-  --episode 1 \
-  --upload-to r2://my-r2-bucket \
-  --base-url https://media.dii.podcast
-```
-
-### Skip stages (re-run from a specific point)
-
-```bash
-# Already have the Markdown script — skip conversion, re-run audio onwards
-python run_episode.py --source ... --episode 1 --skip-convert
-
-# Already have MP3 + script — just regenerate show notes and republish
-python run_episode.py --source ... --episode 1 --skip-convert --skip-audio
-```
-
----
-
-## Running stages individually
-
-### Stage 2 — Convert HTML script → two-speaker Markdown
-
-```bash
-python convert_script.py \
-  --source source_mat/202603/DII_Podcast_Script_Mar15_2026.html \
-  --episode 1 \
-  --date 2026-03-15
-# Output: scripts/ep1_2026-03-15.md
-```
-
-### Stage 1 — Generate audio
-
-```bash
-python generate_audio.py \
-  --script scripts/ep1_2026-03-15.md \
-  --episode 1 \
-  --date 2026-03-15
-# Output: DII_EP1_2026-03-15.mp3
-```
-
-### Stage 3 — Generate show notes
-
-```bash
-python generate_shownotes.py \
-  --script scripts/ep1_2026-03-15.md \
-  --episode 1 \
-  --date 2026-03-15
-# Output: shownotes/ep1_2026-03-15.json
-```
-
-### Stage 4 — Publish to RSS feed
-
-```bash
-python publish_rss.py \
-  --shownotes shownotes/ep1_2026-03-15.json \
-  --mp3 DII_EP1_2026-03-15.mp3 \
-  --base-url https://media.dii.podcast
-# Output: feed.xml (created or updated)
-```
-
----
-
-## Source material format
-
-Place HTML scripts in `source_mat/YYYYMM/`:
-
-```
-source_mat/
-  202603/
-    DII_Podcast_Script_Mar15_2026.html
-  202604/
-    DII_Podcast_Script_Apr05_2026.html
-```
-
-The HTML must follow the DII script format (segments with `.script-text`, `.direction-text`,
-`.segment-label`, `.segment-title` CSS classes). `convert_script.py` parses this structure
-automatically.
-
----
-
-## Output files
-
-| File | Description |
-|---|---|
-| `scripts/ep{N}_{date}.md` | Two-speaker Markdown script |
-| `DII_EP{N}_{date}.mp3` | Broadcast-ready MP3 (−16 LUFS, 128 kbps) |
-| `shownotes/ep{N}_{date}.json` | Show notes, chapters, keywords, HTML description |
-| `feed.xml` | Podcast RSS feed (append-only, newest episode first) |
-
----
-
-## Voice reference
-
-| Speaker | Kokoro voice | Character |
+| Slot | Beat | Target words |
 |---|---|---|
-| MAYA | `af_sarah` | Lead anchor — clear, authoritative |
-| JAMES | `am_michael` | Analytical co-host — measured, thoughtful |
+| Lead | Biggest story of the week | 2,500 |
+| European Telecom | Operators, consolidation, Nordics/UK/WE | 2,000 |
+| Data Infrastructure | Hyperscalers, AI compute, data centres | 2,000 |
+| Energy & Power | PPAs, nuclear, grid constraints | 1,800 |
+| Capital & Deals | M&A, PE, IPOs, fundraising | 1,800 |
+| Geopolitics | Sovereignty, US/China, SEA, Middle East | 1,500 |
+
+Article format: declarative headline → one-sentence deck → dateline → news-first lead → nut graf → data-dense body with subheadings → forward look. Third person throughout.
 
 ---
 
-## Audio spec
+## Running the weekly agent
 
-| Parameter | Value |
-|---|---|
-| Loudness | −16 LUFS (podcast standard) |
-| True peak | −1.5 dBTP |
-| Bitrate | 128 kbps MP3 |
-| Speaker gap | 0.4 s |
-| Same-speaker gap | 0.15 s |
+The agent prompt is in `AGENT_PROMPT.md`. Each run:
+
+1. Loads `context/DIGEST.md` + `context/THREADS.md` (not previous editions)
+2. Runs 6–8 web searches across beats
+3. Writes and saves articles one at a time (token-efficient)
+4. Updates `THREADS.md` with new/resolved story threads
+5. Publishes to the web app and triggers the email briefing
+6. Commits `editions/` and `context/THREADS.md` to the repo
+
+**Prompt caching:** `DIGEST.md` is stable week-to-week and designed to sit in the cached prefix. Only `THREADS.md` (small) changes each run.
 
 ---
 
-## Troubleshooting
+## Coverage priorities
 
-**`ModuleNotFoundError: kokoro_onnx`** — run `pip install kokoro-onnx` inside your venv.
+- **Data Infrastructure**: Hyperscaler capex, data centre construction, GPU supply, inference economics
+- **European Telecom**: Nordics (TDC NET, Tele2, Telenor, Elisa), UK (BT/Openreach, altnets, Ofcom), Western Europe (Deutsche Telekom, Orange, Telecom Italia, Vodafone, Iliad)
+- **Connectivity**: Subsea cable, terrestrial fibre, routing geopolitics
+- **Energy**: PPAs, nuclear, grid constraints (telco + data centre)
+- **Capital Markets**: PE/infra funds, M&A, public listings
+- **Geopolitics**: US/China tech decoupling, data sovereignty, SEA, Middle East
 
-**`FileNotFoundError: kokoro-v0_19.onnx`** — run the model download step above.
+---
 
-**`ffmpeg: command not found`** — install ffmpeg and ensure it is on your `PATH`.
+## Web publication
 
-**`AuthenticationError`** — check `ANTHROPIC_API_KEY` is set and valid.
+Editions are published to: `https://agile-hope-production.up.railway.app`
 
-**Memory issues on long scripts** — the pipeline processes one line at a time; RAM usage
-is bounded regardless of script length.
+Webhook endpoints (require `x-webhook-secret` header):
+- `POST /webhook/publish` — publishes edition content
+- `POST /webhook/send-email` — triggers subscriber email
 
-**RSS feed already has episode** — `publish_rss.py` skips duplicate GUIDs by default.
-Delete the `<item>` from `feed.xml` manually if you need to re-publish.
+---
+
+## Archive
+
+`scripts/` and `shownotes/` contain the original EP1–EP5 podcast episodes (MAYA/JAMES format, 2026-03-15 to 2026-04-11). These are retained for historical reference and are not part of the current production workflow.
